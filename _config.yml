@@ -17,8 +17,8 @@ title: Data 6
 description: Introduction to Computational Thinking with Data
 author: James Weichert (UC Berkeley)
 email: jweichert@berkeley.edu
-baseurl: '/data-6-su22-website' # the subpath of your site, e.g. /blog
-url: 'https://james-weichert.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/su22' # the subpath of your site, e.g. /blog
+url: 'https://data6.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
