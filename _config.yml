@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Ed:
+    - 'https://edstem.org/us/courses/22794/discussion/'
   Gradescope:
     - 'https://google.com'
 footer_content:

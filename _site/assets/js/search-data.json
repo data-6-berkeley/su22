@@ -1,0 +1,206 @@
+{"0": {
+    "doc": "ReadMe",
+    "title": "Introduction to Computational Thinking with Data",
+    "content": "UC Berkeley . ",
+    "url": "http://localhost:4000/su22/README/#introduction-to-computational-thinking-with-data",
+    "relUrl": "/README/#introduction-to-computational-thinking-with-data"
+  },"1": {
+    "doc": "ReadMe",
+    "title": "Offerings",
+    "content": ". | Summer 2022 | Summer 2021 | Spring 2021 | . From the course catalog: This course is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data C8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences. ",
+    "url": "http://localhost:4000/su22/README/#offerings",
+    "relUrl": "/README/#offerings"
+  },"2": {
+    "doc": "ReadMe",
+    "title": "ReadMe",
+    "content": " ",
+    "url": "http://localhost:4000/su22/README/",
+    "relUrl": "/README/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/su22/announcements/",
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/su22/announcements/",
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/su22/announcements/",
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Home",
+    "title": "Introduction to Computational Thinking with Data",
+    "content": "UC Berkeley, Summer 2022 . Instructors: James Weichert (jweichert@berkeley.edu), Will Furtado (willfurtado@berkeley.edu) . ",
+    "url": "http://localhost:4000/su22/index.html#introduction-to-computational-thinking-with-data",
+    "relUrl": "/index.html#introduction-to-computational-thinking-with-data"
+  },"7": {
+    "doc": "Home",
+    "title": "Announcements",
+    "content": ". | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . ",
+    "url": "http://localhost:4000/su22/index.html#announcements",
+    "relUrl": "/index.html#announcements"
+  },"8": {
+    "doc": "Home",
+    "title": "Week 1 — Introduction to Python",
+    "content": "Jul 5 1 Introduction, Course Overview, Jupyter Basics Slides • Code Optional Reading Jul 6 2 Variables and Types Slides • Code Lab 0 Using Jupyter Notebooks Jul 7 3 NumPy and Data Slides • Code Homework 1 Introduction to Python  Due Jul 14 @ 11:59PM Jul 8 Discussion 2 Health Data ",
+    "url": "http://localhost:4000/su22/index.html#week-1-introduction-to-python",
+    "relUrl": "/index.html#week-1-introduction-to-python"
+  },"9": {
+    "doc": "Home",
+    "title": "Week 2 — Visualizing Data",
+    "content": "Jul 11 4 Table Fundamentals, Introduction to Visualization Slides • Code Optional Reading Jul 12 5 Visualizing Categorical Variables Slides • Code Lab 1 Visualization Fundamentals Jul 13 6 Visualizing Numerical Variables Slides • Code Lab 2 More Visualization Jul 14 7 Visualizing Two Numerical Variables, Quiz Review Slides • Code Homework 2 Data Visualization  Due Jul 21 @ 11:59PM Jul 15 Discussion 1 Human Contexts and Ethics Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "url": "http://localhost:4000/su22/index.html#week-2-visualizing-data",
+    "relUrl": "/index.html#week-2-visualizing-data"
+  },"10": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/su22/index.html",
+    "relUrl": "/index.html"
+  },"11": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "http://localhost:4000/su22/resources/",
+    "relUrl": "/resources/"
+  },"12": {
+    "doc": "Resources",
+    "title": "Table of contents",
+    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "url": "http://localhost:4000/su22/resources/#table-of-contents",
+    "relUrl": "/resources/#table-of-contents"
+  },"13": {
+    "doc": "Resources",
+    "title": "About",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
+    "url": "http://localhost:4000/su22/resources/#about",
+    "relUrl": "/resources/#about"
+  },"14": {
+    "doc": "Resources",
+    "title": "Lecture",
+    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
+    "url": "http://localhost:4000/su22/resources/#lecture",
+    "relUrl": "/resources/#lecture"
+  },"15": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
+    "url": "http://localhost:4000/su22/resources/",
+    "relUrl": "/resources/"
+  },"16": {
+    "doc": "Resources",
+    "title": "Assignments",
+    "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
+    "url": "http://localhost:4000/su22/resources/#assignments",
+    "relUrl": "/resources/#assignments"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/su22/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 2:00 PM–4:00 PM TBD | . | ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"20": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"21": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 2:00 PM–4:00 PM TBD | . | ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"22": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Coffee Chats 9:10 AM–10:00 AM Caffe Strada | Discussion 10:10 AM–12:00 PM 212 Wheeler | . | . ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"23": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/su22/schedule/",
+    "relUrl": "/schedule/"
+  },"24": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "http://localhost:4000/su22/staff/",
+    "relUrl": "/staff/"
+  },"25": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "James Weichert he/him . jweichert@berkeley.edu . Will Furtado . ",
+    "url": "http://localhost:4000/su22/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"26": {
+    "doc": "Staff",
+    "title": "Undergraduate Student Instructors (uGSIs)",
+    "content": "Joshua Alvarez . Sandra You . ",
+    "url": "http://localhost:4000/su22/staff/#undergraduate-student-instructors-ugsis",
+    "relUrl": "/staff/#undergraduate-student-instructors-ugsis"
+  },"27": {
+    "doc": "Staff",
+    "title": "Tutors",
+    "content": "Leanne Bardoles . Sunya Abbasi . ",
+    "url": "http://localhost:4000/su22/staff/#tutors",
+    "relUrl": "/staff/#tutors"
+  },"28": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/su22/syllabus/",
+    "relUrl": "/syllabus/"
+  },"29": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "url": "http://localhost:4000/su22/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"30": {
+    "doc": "Syllabus",
+    "title": "About",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
+    "url": "http://localhost:4000/su22/syllabus/#about",
+    "relUrl": "/syllabus/#about"
+  },"31": {
+    "doc": "Syllabus",
+    "title": "Lecture",
+    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
+    "url": "http://localhost:4000/su22/syllabus/#lecture",
+    "relUrl": "/syllabus/#lecture"
+  },"32": {
+    "doc": "Syllabus",
+    "title": "Resources",
+    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
+    "url": "http://localhost:4000/su22/syllabus/#resources",
+    "relUrl": "/syllabus/#resources"
+  },"33": {
+    "doc": "Syllabus",
+    "title": "Assignments",
+    "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
+    "url": "http://localhost:4000/su22/syllabus/#assignments",
+    "relUrl": "/syllabus/#assignments"
+  }
+}

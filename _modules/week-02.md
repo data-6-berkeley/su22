@@ -1,23 +1,26 @@
 ---
-title: Basic Data Structures
+title: Week 2 — Visualizing Data
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jul 11
+: **4**{: .label} Table Fundamentals, Introduction to Visualization
+  : [Slides](#) &#8226; [Code](#)
+: *Optional Reading*
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jul 12
+: **5**{: .label} Visualizing Categorical Variables
+  : [Slides](#) &#8226; [Code](#)
+: **Lab 1**{: .label .label-lab} [Visualization Fundamentals](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Jul 13
+: **6**{: .label} Visualizing Numerical Variables
+  : [Slides](#) &#8226; [Code](#)
+: **Lab 2**{: .label .label-lab} [More Visualization](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Jul 14
+: **7**{: .label} Visualizing Two Numerical Variables, Quiz Review
+  : [Slides](#) &#8226; [Code](#)
+: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Jul 15
+: **Discussion 1**{: .label .label-discussion} Human Contexts and Ethics

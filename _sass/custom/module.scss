@@ -45,6 +45,7 @@
       @extend %module-item;
       border-top: $border $border-color;
       font-weight: normal;
+
       text-align: right;
 
       +dd {
@@ -66,6 +67,11 @@
 
     >dd {
       @extend %module-item;
+      font-weight: 500;
+
+      em {
+        font-weight: normal;
+      }
 
       +dd {
         padding-top: 0;
@@ -76,6 +82,8 @@
       }
 
       dl {
+
+
         display: flex;
         flex-direction: column;
 
@@ -86,6 +94,7 @@
         dt {
           flex: 0 0 62.5%;
           margin: 0;
+          font-weight: 500;
         }
 
         dd {

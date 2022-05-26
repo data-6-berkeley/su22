@@ -7,6 +7,28 @@
 @import 'schedule';
 @import 'staffer';
 
+
+// CUSTOM
+
+@media (min-width: 66.5rem) {
+  .side-bar { width: 248px !important;}
+  .main { margin-left: 264px !important;}
+}
+
+@media (min-width: 50rem) {
+  .main { max-width: 100% !important;}
+}
+
+.main-content-wrap {
+  max-width: 1000px !important;
+}
+
+// COLORS
+
+a {
+  color: $blue-100;
+}
+
 // Overrides
 a abbr[title] {
   border-bottom: none;

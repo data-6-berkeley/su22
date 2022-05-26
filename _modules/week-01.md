@@ -1,23 +1,21 @@
 ---
-title: Introduction to Java
+title: Week 1 — Introduction to Python
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jul 5
+: **1**{: .label} Introduction, Course Overview, Jupyter Basics
+  : [Slides](#) &#8226; [Code](#)
+: *Optional Reading*
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jul 6
+: **2**{: .label} Variables and Types
+  : [Slides](#) &#8226; [Code](#)
+: **Lab 0**{: .label .label-lab} [Using Jupyter Notebooks](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Jul 7
+: **3**{: .label} NumPy and Data
+  : [Slides](#) &#8226; [Code](#)
+: **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:59PM**
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jul 8
+: **Discussion 2**{: .label .label-discussion} Health Data
