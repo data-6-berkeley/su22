@@ -3,6 +3,7 @@ title: Week 5 — More Python
 ---
 
 Aug 1
+: **Quiz**{: .label .label-exam} Quiz 2: Tables and Functions
 : **16**{: .label} Table Fundamentals, Introduction to Visualization
   : [Slides](#) &#8226; [Code](#)
 : *Optional Reading*
@@ -23,4 +24,4 @@ Aug 4
 : **Homework 4**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Aug 10 @ 11:59PM**
 
 Aug 5
-: **Discussion 4**{: .label .label-discussion} Human Contexts and Ethics
+: **Discussion 5**{: .label .label-discussion} Human Contexts and Ethics

@@ -3,6 +3,7 @@ title: Week 3 — Tables
 ---
 
 Jul 18
+: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **8**{: .label} Table Fundamentals, Introduction to Visualization
   : [Slides](#) &#8226; [Code](#)
 : *Optional Reading*
