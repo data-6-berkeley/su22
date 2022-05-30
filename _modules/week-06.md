@@ -3,22 +3,22 @@ title: Week 6 — Simulations and Conclusion
 ---
 
 Aug 8
-: **20**{: .label} Table Fundamentals, Introduction to Visualization
+: **20**{: .label} Case Study
   : [Slides](#) &#8226; [Code](#)
 : *Optional Reading*
-: **Lab 8**{: .label .label-lab} [Visualization Fundamentals](#)
+: **Lab 8**{: .label .label-lab} [More Visualization](#)
 
 Aug 9
-: **21**{: .label} Visualizing Categorical Variables
+: **21**{: .label} Randomness and Simulation, Finding and Using Data
   : [Slides](#) &#8226; [Code](#)
+: **Lab 9**{: .label .label-lab} [Simultation and Sampling](#)
 
 Aug 10
-: **22**{: .label} Visualizing Numerical Variables
+: **22**{: .label} Conclusion and Next Steps
   : [Slides](#) &#8226; [Code](#)
-: **Lab 9**{: .label .label-lab} [More Visualization](#)
 
 Aug 11
-: **23**{: .label} Visualizing Two Numerical Variables, Quiz Review
+: **23**{: .label} Final Review
   : [Slides](#) &#8226; [Code](#)
 
 Aug 12
