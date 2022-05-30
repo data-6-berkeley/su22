@@ -23,4 +23,4 @@ Jul 14
 : **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
 
 Jul 15
-: **Discussion 1**{: .label .label-discussion} Human Contexts and Ethics
+: **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics

@@ -18,4 +18,4 @@ Jul 7
 : **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:59PM**
 
 Jul 8
-: **Discussion 2**{: .label .label-discussion} Health Data
+: **Discussion 1**{: .label .label-discussion} Health Data
