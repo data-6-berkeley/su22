@@ -8,7 +8,7 @@ We're excited to be teaching Data 6 this summer, and hope you enjoy this class. 
 1. [Data 6 Ed Discussion](https://edstem.org/us/courses/22794/discussion/)
 2. [Data 6 Gradescope](#)
 
-If you don't have access to either of the websites, please email jweichert@berkeley.edu
+If you don't have access to either of the websites, please email <a>jweichert@berkeley.edu</a>
 
 Best, [James](https://data6.org/su22/staff/#instructors) and [Will](https://data6.org/su22/staff/#instructors)
 {: .fs-5 }
