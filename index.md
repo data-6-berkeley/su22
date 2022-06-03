@@ -18,7 +18,6 @@ UC Berkeley, Summer 2022
 {: .mb-2 }
 **Instructors:** James Weichert (<a>jweichert@berkeley.edu</a>), Will Furtado (<a>willfurtado@berkeley.edu</a>)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
-
 <!--{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}

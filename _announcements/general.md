@@ -1,7 +1,7 @@
 ---
 title: Welcome to Data 6!
 week: 0
-date: 2022-06-03
+date: 2022-06-30
 ---
 
 We're excited to be teaching Data 6 this summer, and hope you enjoy this class. This website will serve as a 'home base' for the course, and will have all of the materials and assignments you'll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources:

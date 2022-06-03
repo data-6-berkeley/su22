@@ -32,3 +32,17 @@ Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mat
 ## Assignments
 
 Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+
+## Acknowledgements 🙏
+
+The Summer 2022 version of Data 6 is based on [Data 94](http://data94.org/), created and taught by [Suraj Rampure](https://rampure.org/) in Spring 2021 at UC Berkeley, and the Summer 2021 version of [Data 6](http://data6.org/su21/), taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on [Data 8](http://data8.org/) at UC Berkeley.
+
+For Summer 2022, Professors [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html) and [Deborah Nolan](https://statistics.berkeley.edu/people/deborah-nolan) have updated some of the curriculum and assignments, with help from Will Furtado, Kevin Miao and James Weichert.
+
+When creating Data 6, we've referred to the materials of several other courses:
+
+- [Data 8](http://data8.org), [CS 10](http://cs10.org), and [CS 61A](http://cs61a.org) at UC Berkeley
+- [CS 106A](http://cs106a.stanford.edu) at Stanford
+- [CSE 160](https://courses.cs.washington.edu/courses/cse160/) at the University of Washington
+
+The website uses [Just the Class](https://kevinl.info/just-the-class/).
