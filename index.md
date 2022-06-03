@@ -9,8 +9,7 @@ seo:
   name: Just the Class
 ---
 
-# Introduction to Computational Thinking with Data
-&#128202;
+# Introduction to Computational Thinking with Data &#x1f4ca;
 
 {: .mb-2 }
 UC Berkeley, Summer 2022
