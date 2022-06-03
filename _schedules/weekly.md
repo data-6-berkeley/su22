@@ -68,5 +68,5 @@ schedule:
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
-        location: 212 Wheeler
+        location: 105 & 130 Dwinelle 
 ---
