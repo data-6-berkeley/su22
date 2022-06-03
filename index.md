@@ -28,6 +28,11 @@ UC Berkeley, Summer 2022
 
 ## Announcements
 
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
