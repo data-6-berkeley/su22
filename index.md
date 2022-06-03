@@ -33,11 +33,6 @@ UC Berkeley, Summer 2022
 {{ announcement }}
 {% endfor %}
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
-
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
