@@ -9,17 +9,17 @@ Jul 11
 
 Jul 12
 : **5**{: .label} Visualizing Categorical Variables
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 2**{: .label .label-lab} [Visualization Fundamentals](#)
 
 Jul 13
 : **6**{: .label} Visualizing Numerical Variables
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 
 
 Jul 14
 : **7**{: .label} Visualizing Two Numerical Variables
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 3**{: .label .label-lab} [More Visualization](#)
 
 Jul 15

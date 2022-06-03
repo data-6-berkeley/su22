@@ -10,16 +10,16 @@ Jul 18
 
 Jul 19
 : **10**{: .label} Row Methods, Joining Tables
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 4**{: .label .label-lab} [Tables](#)
 
 Jul 20
 : **11**{: .label} Grouping, Pivoting, Functions (I)
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 
 Jul 21
 : **12**{: .label} Applying
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 5**{: .label .label-lab} [More Table Methods](#)
 
 Jul 22

@@ -6,7 +6,6 @@ Aug 8
 : **21**{: .label} Case Study
   <!--: [Slides](#) &#8226; [Code](#)-->
 : *Optional Reading*
-: **Lab 8**{: .label .label-lab} [More Visualization](#)
 
 Aug 9
 : **22**{: .label} Randomness and Simulation, Finding and Using Data
