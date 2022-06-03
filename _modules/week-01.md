@@ -9,12 +9,12 @@ Jul 5
 
 Jul 6
 : **2**{: .label} Variables and Types
-  : [Slides](#) &#8226; [Code](#)
-: **Lab 0**{: .label .label-lab} [Using Jupyter Notebooks](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
+: **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](#)
 
 Jul 7
 : **3**{: .label} NumPy and Data
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:59PM**
 
 Jul 8

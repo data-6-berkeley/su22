@@ -4,23 +4,25 @@ title: Week 2 — Visualizing Data
 
 Jul 11
 : **4**{: .label} Table Fundamentals, Introduction to Visualization
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](#) &#8226; [Code](#)-->
 : *Optional Reading*
 
 Jul 12
 : **5**{: .label} Visualizing Categorical Variables
   : [Slides](#) &#8226; [Code](#)
-: **Lab 1**{: .label .label-lab} [Visualization Fundamentals](#)
+: **Lab 2**{: .label .label-lab} [Visualization Fundamentals](#)
 
 Jul 13
 : **6**{: .label} Visualizing Numerical Variables
   : [Slides](#) &#8226; [Code](#)
-: **Lab 2**{: .label .label-lab} [More Visualization](#)
+
 
 Jul 14
-: **7**{: .label} Visualizing Two Numerical Variables, Quiz Review
+: **7**{: .label} Visualizing Two Numerical Variables
   : [Slides](#) &#8226; [Code](#)
-: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
+: **Lab 3**{: .label .label-lab} [More Visualization](#)
 
 Jul 15
+: **8**{: .label} Quiz Review
 : **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
+: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
