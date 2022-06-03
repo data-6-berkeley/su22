@@ -10,6 +10,7 @@ seo:
 ---
 
 # Introduction to Computational Thinking with Data
+&#128202;
 
 {: .mb-2 }
 UC Berkeley, Summer 2022

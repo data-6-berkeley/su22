@@ -23,5 +23,5 @@ Jul 28
 
 Jul 29
 : **Discussion 4**{: .label .label-discussion} Privacy
-: **17** {: .label} Quiz Review
+: **17**{: .label} Quiz Review
 : **Homework 7**{: .label .label-homework} [Python Fundamentals](#) &nbsp;**Due Aug 2 @ 11:59PM**

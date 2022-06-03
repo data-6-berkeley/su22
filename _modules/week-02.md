@@ -23,6 +23,6 @@ Jul 14
 : **Lab 3**{: .label .label-lab} [More Visualization](#)
 
 Jul 15
-: **8**{: .label} Quiz Review
 : **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
+: **8**{: .label} Quiz Review
 : **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
