@@ -45,4 +45,6 @@ When creating Data 6, we've referred to the materials of several other courses:
 - [CS 106A](http://cs106a.stanford.edu) at Stanford
 - [CSE 160](https://courses.cs.washington.edu/courses/cse160/) at the University of Washington
 
+---
+
 The website uses [Just the Class](https://kevinl.info/just-the-class/).

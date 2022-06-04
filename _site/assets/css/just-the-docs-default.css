@@ -2255,6 +2255,7 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 .announcement .label.label-lab, .module .label.label-lab, .announcement .staffer .label-lab.staffer-pronouns, .staffer .announcement .label-lab.staffer-pronouns, .module .staffer .label-lab.staffer-pronouns, .staffer .module .label-lab.staffer-pronouns, .announcement div.label-lab.highlighter-rouge[overlay]::after, .module div.label-lab.highlighter-rouge[overlay]::after { background-color: #11b584; color: white; }
 .announcement .label.label-homework, .module .label.label-homework, .announcement .staffer .label-homework.staffer-pronouns, .staffer .announcement .label-homework.staffer-pronouns, .module .staffer .label-homework.staffer-pronouns, .staffer .module .label-homework.staffer-pronouns, .announcement div.label-homework.highlighter-rouge[overlay]::after, .module div.label-homework.highlighter-rouge[overlay]::after { background-color: #e94c4c; color: white; }
 .announcement .label.label-discussion, .module .label.label-discussion, .announcement .staffer .label-discussion.staffer-pronouns, .staffer .announcement .label-discussion.staffer-pronouns, .module .staffer .label-discussion.staffer-pronouns, .staffer .module .label-discussion.staffer-pronouns, .announcement div.label-discussion.highlighter-rouge[overlay]::after, .module div.label-discussion.highlighter-rouge[overlay]::after { background-color: #7253ed; color: white; }
+.announcement .label.label-exam, .module .label.label-exam, .announcement .staffer .label-exam.staffer-pronouns, .staffer .announcement .label-exam.staffer-pronouns, .module .staffer .label-exam.staffer-pronouns, .staffer .module .label-exam.staffer-pronouns, .announcement div.label-exam.highlighter-rouge[overlay]::after, .module div.label-exam.highlighter-rouge[overlay]::after { background-color: #e7af06; color: white; }
 
 .main-content .module h1:first-child, .main-content .module h2:first-child, .main-content .module h3:first-child, .main-content .module h4:first-child, .main-content .module h5:first-child, .main-content .module h6:first-child, .module h1:first-child, .module h2:first-child, .module h3:first-child, .module h4:first-child, .module h5:first-child, .module h6:first-child { margin-top: 1rem; }
 .main-content .module > dl, .module > dl { border-bottom: 1px solid #eeebee; border-top: 1px solid #eeebee; display: grid; grid-template-columns: max-content 1fr; margin: 0.5rem -1rem; }
@@ -2299,6 +2300,7 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 .staffer { display: flex; margin: 1rem; }
 .staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
 .staffer p, .staffer .staffer-name { margin: 0.25rem !important; }
+.staffer .staffer-bio { font-size: 1em; }
 
 @media (min-width: 66.5rem) { .side-bar { width: 248px !important; }
   .main { margin-left: 264px !important; } }

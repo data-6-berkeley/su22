@@ -24,183 +24,255 @@
     "relUrl": "/announcements/"
   },"4": {
     "doc": "Announcements",
-    "title": "Week 1 Announcement",
-    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "title": "Welcome to Data 6!",
+    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
     "url": "http://localhost:4000/su22/announcements/",
     "relUrl": "/announcements/"
   },"5": {
-    "doc": "Announcements",
-    "title": "Week 0 Announcement",
-    "content": "Apr 1 &middot; 0 min read Hello world! . ",
-    "url": "http://localhost:4000/su22/announcements/",
-    "relUrl": "/announcements/"
+    "doc": "Home",
+    "title": "Introduction to Computational Thinking with Data 📊",
+    "content": "UC Berkeley, Summer 2022 . Instructors: James Weichert (jweichert@berkeley.edu), Will Furtado (willfurtado@berkeley.edu) . ",
+    "url": "http://localhost:4000/su22/index.html#introduction-to-computational-thinking-with-data-",
+    "relUrl": "/index.html#introduction-to-computational-thinking-with-data-"
   },"6": {
     "doc": "Home",
-    "title": "Introduction to Computational Thinking with Data",
-    "content": "UC Berkeley, Summer 2022 . Instructors: James Weichert (jweichert@berkeley.edu), Will Furtado (willfurtado@berkeley.edu) . ",
-    "url": "http://localhost:4000/su22/index.html#introduction-to-computational-thinking-with-data",
-    "relUrl": "/index.html#introduction-to-computational-thinking-with-data"
-  },"7": {
-    "doc": "Home",
     "title": "Announcements",
-    "content": ". | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . ",
+    "content": " ",
     "url": "http://localhost:4000/su22/index.html#announcements",
     "relUrl": "/index.html#announcements"
+  },"7": {
+    "doc": "Home",
+    "title": "Welcome to Data 6!",
+    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
+    "url": "http://localhost:4000/su22/index.html",
+    "relUrl": "/index.html"
   },"8": {
     "doc": "Home",
     "title": "Week 1 — Introduction to Python",
-    "content": "Jul 5 1 Introduction, Course Overview, Jupyter Basics Slides • Code Optional Reading Jul 6 2 Variables and Types Slides • Code Lab 0 Using Jupyter Notebooks Jul 7 3 NumPy and Data Slides • Code Homework 1 Introduction to Python  Due Jul 14 @ 11:59PM Jul 8 Discussion 2 Health Data ",
+    "content": "Jul 5 1 Introduction, Course Overview, Jupyter Basics Slides • Code Optional Reading Jul 6 2 Variables and Types Lab 1 Using Jupyter Notebooks Jul 7 3 NumPy and Data Homework 1 Introduction to Python  Due Jul 14 @ 11:59PM Jul 8 Discussion 1 Health Data ",
     "url": "http://localhost:4000/su22/index.html#week-1-introduction-to-python",
     "relUrl": "/index.html#week-1-introduction-to-python"
   },"9": {
     "doc": "Home",
     "title": "Week 2 — Visualizing Data",
-    "content": "Jul 11 4 Table Fundamentals, Introduction to Visualization Slides • Code Optional Reading Jul 12 5 Visualizing Categorical Variables Slides • Code Lab 1 Visualization Fundamentals Jul 13 6 Visualizing Numerical Variables Slides • Code Lab 2 More Visualization Jul 14 7 Visualizing Two Numerical Variables, Quiz Review Slides • Code Homework 2 Data Visualization  Due Jul 21 @ 11:59PM Jul 15 Discussion 1 Human Contexts and Ethics Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "content": "Jul 11 4 Table Fundamentals, Introduction to Visualization Optional Reading Jul 12 5 Visualizing Categorical Variables Lab 2 Visualization Fundamentals Jul 13 6 Visualizing Numerical Variables Jul 14 7 Visualizing Two Numerical Variables Lab 3 More Visualization Jul 15 Discussion 2 Human Contexts and Ethics 8 Quiz Review Homework 2 Data Visualization  Due Jul 21 @ 11:59PM ",
     "url": "http://localhost:4000/su22/index.html#week-2-visualizing-data",
     "relUrl": "/index.html#week-2-visualizing-data"
   },"10": {
+    "doc": "Home",
+    "title": "Week 3 — Tables",
+    "content": "Jul 18 Quiz Quiz 1: Python and Visualization 9 Row Manipulation Optional Reading Jul 19 10 Row Methods, Joining Tables Lab 4 Tables Jul 20 11 Grouping, Pivoting, Functions (I) Jul 21 12 Applying Lab 5 More Table Methods Jul 22 Discussion 3 Algorithmic Bias Homework 3 Data Visualization  Due Jul 28 @ 11:59PM ",
+    "url": "http://localhost:4000/su22/index.html#week-3-tables",
+    "relUrl": "/index.html#week-3-tables"
+  },"11": {
+    "doc": "Home",
+    "title": "Week 4 — Python Functions and Control",
+    "content": "Jul 25 13 Functions (II), Comparisons, Booleans Optional Reading Jul 26 14 Control Lab 6 Functions Jul 27 15 For Loops Jul 28 16 Advanced For-Loops Lab 7 Python Fundamentals Jul 29 Discussion 4 Privacy 17 Quiz Review Homework 7 Python Fundamentals  Due Aug 2 @ 11:59PM ",
+    "url": "http://localhost:4000/su22/index.html#week-4-python-functions-and-control",
+    "relUrl": "/index.html#week-4-python-functions-and-control"
+  },"12": {
+    "doc": "Home",
+    "title": "Week 5 — More Python",
+    "content": "Aug 1 Quiz Quiz 2: Tables, Functions and Loops Lab 8 For Loops Aug 2 18 File Formats, Dictionaries (I) Aug 3 19 Dictionaries (II) Lab 9 Dictionaries Aug 4 20 Case Study, Maps Aug 5 Discussion 5 Data in Elections Homework 5 Data Visualization  Due Aug 10 @ 11:59PM ",
+    "url": "http://localhost:4000/su22/index.html#week-5-more-python",
+    "relUrl": "/index.html#week-5-more-python"
+  },"13": {
+    "doc": "Home",
+    "title": "Week 6 — Simulations and Conclusion",
+    "content": "Aug 8 21 Case Study Optional Reading Aug 9 22 Randomness and Simulation, Finding and Using Data Lab 10 Simultation and Sampling Aug 10 23 Conclusion and Next Steps Aug 11 24 Final Review Aug 12 Exam Final Exam (In-Class) ",
+    "url": "http://localhost:4000/su22/index.html#week-6-simulations-and-conclusion",
+    "relUrl": "/index.html#week-6-simulations-and-conclusion"
+  },"14": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/su22/index.html",
     "relUrl": "/index.html"
-  },"11": {
+  },"15": {
+    "doc": "Python Reference",
+    "title": "Python Reference 🐍",
+    "content": " ",
+    "url": "http://localhost:4000/su22/reference/#python-reference-",
+    "relUrl": "/reference/#python-reference-"
+  },"16": {
+    "doc": "Python Reference",
+    "title": "Table of contents",
+    "content": ". | Built-In Python Functions | NumPy Array Functions | Tables and Table Methods | More Documentation | . ",
+    "url": "http://localhost:4000/su22/reference/#table-of-contents",
+    "relUrl": "/reference/#table-of-contents"
+  },"17": {
+    "doc": "Python Reference",
+    "title": "Built-In Python Functions",
+    "content": "| Function | Description | Input | Output | . | str(val) | Converts val to a string | A value of any type (int, float, NoneType, etc.) | The value as a string | . | int(num) | Converts num to an int | A numerical value (represented as a string or float) | The value as an int | . | float(num) | Converts num to a float | A numerical value (represented as a string or int) | The value as a float | . | len(arr) | Returns the length of arr | Array or list | Int: the length of the array or list | . | max(arr) | Returns the maximum value in arr | Array or list | The maximum value the array (usually an int) | . | min(arr) | Returns the minimum value in arr | Array or list | The minimum value the array (usually an int) | . | sum(arr) | Returns the sum of the values in arr | Array or list | Float or Int: the sum of the values in the array | . | abs(num) | Returns the absolute value of num | Int or Float | Int or Float | . ",
+    "url": "http://localhost:4000/su22/reference/#built-in-python-functions",
+    "relUrl": "/reference/#built-in-python-functions"
+  },"18": {
+    "doc": "Python Reference",
+    "title": "NumPy Array Functions",
+    "content": "| Function | Description | Input | Output | . | np.mean(arr) or np.average(arr) | Calculates the average value of arr | An array of numbers | Float: The average of the array | . | np.arange(stop), np.arange(start, stop), np.arange(start, stop, step) | Creates an array of sequential numbers starting at start, going up in increments of step, and going up to but excluding stop. Default start is 0, default step is 1 | Int or Float | Array | . ",
+    "url": "http://localhost:4000/su22/reference/#numpy-array-functions",
+    "relUrl": "/reference/#numpy-array-functions"
+  },"19": {
+    "doc": "Python Reference",
+    "title": "Tables and Table Methods",
+    "content": "| Function | Description | Input | Output | . | Table() | Creates an empty table, usually to extend with data | None | An empty Table | . | tbl.with_column(name, values) or tbl.with_columns(n1, v1, n2, v2, ...) | Adds an extra column onto tbl with the label name and values as the column values | 1. String: name of the new column 2. Array: values in the column | Table: a copy of the original table with the new column(s) | . | tbl.column(col) | Returns the values in a column | String or Int: the column name or index | Array: the values in that column | . | tbl.num_rows | Compute the number of rows in tbl | None | Int: the number of rows in the table | . | tbl.num_columns | Compute the number of columns in tbl | None | Int: the number of columns in the table | . | tbl.labels | Returns the labels in tbl | None | Array: the names of each column as strings | . | tbl.select(col1, col2, ...) | Creates a copy of tbl only with the selected columns | String or Int: the column name(s) or index(es) to be included in the table | Table with the selected columns | . | tbl.drop(col1, col2, ...) | Creates a copy of tbl without the selected columns | String or Int: the column name(s) or index(es) to be dropped from the table | Table without the selected columns | . ",
+    "url": "http://localhost:4000/su22/reference/#tables-and-table-methods",
+    "relUrl": "/reference/#tables-and-table-methods"
+  },"20": {
+    "doc": "Python Reference",
+    "title": "More Documentation",
+    "content": "The Data 6 Python reference guide is based on the Data 8 Python Reference. ",
+    "url": "http://localhost:4000/su22/reference/#more-documentation",
+    "relUrl": "/reference/#more-documentation"
+  },"21": {
+    "doc": "Python Reference",
+    "title": "Python Reference",
+    "content": " ",
+    "url": "http://localhost:4000/su22/reference/",
+    "relUrl": "/reference/"
+  },"22": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "http://localhost:4000/su22/resources/",
     "relUrl": "/resources/"
-  },"12": {
+  },"23": {
     "doc": "Resources",
     "title": "Table of contents",
     "content": ". | About | Lecture | Resources | Assignments | . ",
     "url": "http://localhost:4000/su22/resources/#table-of-contents",
     "relUrl": "/resources/#table-of-contents"
-  },"13": {
+  },"24": {
     "doc": "Resources",
     "title": "About",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
     "url": "http://localhost:4000/su22/resources/#about",
     "relUrl": "/resources/#about"
-  },"14": {
+  },"25": {
     "doc": "Resources",
     "title": "Lecture",
     "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
     "url": "http://localhost:4000/su22/resources/#lecture",
     "relUrl": "/resources/#lecture"
-  },"15": {
+  },"26": {
     "doc": "Resources",
     "title": "Resources",
     "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
     "url": "http://localhost:4000/su22/resources/",
     "relUrl": "/resources/"
-  },"16": {
+  },"27": {
     "doc": "Resources",
     "title": "Assignments",
     "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
     "url": "http://localhost:4000/su22/resources/#assignments",
     "relUrl": "/resources/#assignments"
-  },"17": {
+  },"28": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "http://localhost:4000/su22/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"18": {
+  },"29": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"19": {
+  },"30": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 2:00 PM–4:00 PM TBD | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"20": {
+  },"31": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"21": {
+  },"32": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 2:00 PM–4:00 PM TBD | . | ",
+    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 1:00 PM–3:00 PM TBD | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"22": {
+  },"33": {
     "doc": "Schedule",
     "title": "Friday",
-    "content": ". | Coffee Chats 9:10 AM–10:00 AM Caffe Strada | Discussion 10:10 AM–12:00 PM 212 Wheeler | . | . ",
+    "content": ". | Coffee Chats 9:10 AM–10:00 AM Caffe Strada | Discussion 10:10 AM–12:00 PM 105 &amp; 130 Dwinelle | . | . ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"23": {
+  },"34": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"24": {
+  },"35": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "http://localhost:4000/su22/staff/",
     "relUrl": "/staff/"
-  },"25": {
+  },"36": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "James Weichert he/him . jweichert@berkeley.edu . Will Furtado . ",
     "url": "http://localhost:4000/su22/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"26": {
+  },"37": {
     "doc": "Staff",
     "title": "Undergraduate Student Instructors (uGSIs)",
-    "content": "Joshua Alvarez . Sandra You . ",
+    "content": "Joshua Alvarez . Sandra You she/her . xinyueyou@berkeley.edu . Hi! I’m Sandra and I’m a rising senior studying computer and data science. Besides academics I love hiking, music, and movies! Feel free to reach out to me to talk about data science and anything that interests you. Looking forward to meeting the data 6 community this summer! . ",
     "url": "http://localhost:4000/su22/staff/#undergraduate-student-instructors-ugsis",
     "relUrl": "/staff/#undergraduate-student-instructors-ugsis"
-  },"27": {
+  },"38": {
     "doc": "Staff",
     "title": "Tutors",
     "content": "Leanne Bardoles . Sunya Abbasi . ",
     "url": "http://localhost:4000/su22/staff/#tutors",
     "relUrl": "/staff/#tutors"
-  },"28": {
+  },"39": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/su22/syllabus/",
     "relUrl": "/syllabus/"
-  },"29": {
+  },"40": {
     "doc": "Syllabus",
     "title": "Table of contents",
-    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "content": ". | About | Lecture | Resources | Assignments | Acknowledgements 🙏 | . ",
     "url": "http://localhost:4000/su22/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"30": {
+  },"41": {
     "doc": "Syllabus",
     "title": "About",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
     "url": "http://localhost:4000/su22/syllabus/#about",
     "relUrl": "/syllabus/#about"
-  },"31": {
+  },"42": {
     "doc": "Syllabus",
     "title": "Lecture",
     "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
     "url": "http://localhost:4000/su22/syllabus/#lecture",
     "relUrl": "/syllabus/#lecture"
-  },"32": {
+  },"43": {
     "doc": "Syllabus",
     "title": "Resources",
     "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
     "url": "http://localhost:4000/su22/syllabus/#resources",
     "relUrl": "/syllabus/#resources"
-  },"33": {
+  },"44": {
     "doc": "Syllabus",
     "title": "Assignments",
     "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
     "url": "http://localhost:4000/su22/syllabus/#assignments",
     "relUrl": "/syllabus/#assignments"
+  },"45": {
+    "doc": "Syllabus",
+    "title": "Acknowledgements 🙏",
+    "content": "The Summer 2022 version of Data 6 is based on Data 94, created and taught by Suraj Rampure in Spring 2021 at UC Berkeley, and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on Data 8 at UC Berkeley. For Summer 2022, Professors Lisa Yan and Deborah Nolan have updated some of the curriculum and assignments, with help from Will Furtado, Kevin Miao and James Weichert. When creating Data 6, we’ve referred to the materials of several other courses: . | Data 8, CS 10, and CS 61A at UC Berkeley | CS 106A at Stanford | CSE 160 at the University of Washington | . The website uses Just the Class. ",
+    "url": "http://localhost:4000/su22/syllabus/#acknowledgements-",
+    "relUrl": "/syllabus/#acknowledgements-"
   }
 }

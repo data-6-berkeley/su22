@@ -56,8 +56,8 @@ schedule:
         end: 12:00 PM
         location: 212 Wheeler
       - name: Office Hours
-        start: 2:00 PM
-        end: 4:00 PM
+        start: 1:00 PM
+        end: 3:00 PM
         location: TBD
   - name: Friday
     events:
@@ -68,5 +68,5 @@ schedule:
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
-        location: 105 & 130 Dwinelle 
+        location: 105 & 130 Dwinelle
 ---
