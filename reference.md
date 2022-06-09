@@ -18,9 +18,25 @@ description: >-
 
 ## Understanding the Python Reference
 
-If you're new to reading documentation, looking at the Data 6 Python Reference might feel a little overwhelming, but don't worry — the point of this class is *not* to memorize all of these functions or their arguments. For exams and quizzes, you will be provided with a reference sheet that contains all of the functions you may need on the exam. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions.
+If you're new to reading documentation, looking at the Data 6 Python Reference might feel a little overwhelming, but don't worry — the point of this class is *not* to memorize all of these functions or their arguments. For exams and quizzes, you will be provided with a reference sheet that contains all of the functions you may need on the exam.
+
+However, we do expect you to understand how to use the Python Reference to understand new functions, and to help with debugging when things go wrong. Learning how to read and understand documentation is a key to becoming a good data scientist. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions.
+
+Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/22794/discussion/). 
+
+### The Anatomy of a Function
+
+`def my_function(num):
+    return num ** 3`
 
 ### How to Read These Tables
+
+* The **Function** column tells you how to call the function and what arguments it accepts.
+* The **Description** column gives you a brief description of what the function does, including what each argument is used for
+* The **Input** column tells you what data type each argument needs to be. If you're getting a `TypeError`, it might be because your inputs are of the wrong type. Data types are indicates in bold (e.g. **string** or **Table**).
+* The **Output** column tells you what the function returns and what data type it is.
+
+<hr>
 
 ## Built-In Python Functions
 
@@ -71,7 +87,7 @@ If you're new to reading documentation, looking at the Data 6 Python Reference m
 ## `Table.where` Predicates
 
 | **Predicate** | **Description** |
-| `are.equal_to(Z)` |	Equal to `Z` (can be a number (**int** or **float**) or a **string**) |
+| `are.equal_to(Z)` |	Equal to `Z` (can be an **int**, **float** or **string**) |
 | `are.not_equal_to(Z)`	| Not equal to 'Z' can be a number (**int** or **float**) or a **string**) |
 | `are.above(x)`	| Greater than `x` |
 | `are.above_or_equal_to(x)` | Greater than or equal to `x` |
