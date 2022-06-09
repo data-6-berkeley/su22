@@ -30,6 +30,7 @@ Again, welcome to Data 6 — we can’t wait to meet you and are super excited t
 Best,
 [James](https://data6.org/su22/staff/#instructors) and [Will](https://data6.org/su22/staff/#instructors)
 
+<hr>
 
 ## About	&#x1F9D0;
 
@@ -57,9 +58,13 @@ Lecture slides will be posted to the website right before each lecture to allow 
 ## Logistics &#x1F5D3;
 
 **Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
+
 **Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
+
 **Discussion**: Fridays, 10AM-12PM in [Dwinelle](https://www.berkeley.edu/map?dwinelle) 105 & 130
+
 **Office Hours (Optional)**: Tuesdays & Thursdays, 1PM-3PM in [Evans](https://www.berkeley.edu/map?evans) 6
+
 The full schedule is available on the [Schedule](http://www.data6.org/su22/schedule) page.
 
 ## Communication	&#x1F4AC;
@@ -68,7 +73,7 @@ This class **does not** use bCourses — all of the materials and assignments fo
 
 For class communication, we will be using Ed Discussion (or simply “Ed,” as we will call it), the campus’ discussion platform. Ed is where you will see announcements from course staff, ask questions about course material, and get help from staff and other students on assignments and concepts. Ed allows students to respond to questions from other students, so we hope you will help out your classmates by responding to questions you have the answer to, or asking questions about things you’re confused about. It’s likely that other students have many of the same questions as you! Please review the Ed etiquette guidelines before posting on Ed.
 
-You will be added to Ed automatically, but email James (jweichert@berkeley.edu) or Will (willfurtado@berkeley.edu) if you’re not sure how to access it.
+You will be added to Ed automatically, but email James ([jweichert@berkeley.edu](jweichert@berkeley.edu)) if you’re not sure how to access it.
 
 
 ## Technology &#x1F4BB;
@@ -82,12 +87,42 @@ We will be using several websites this semester. Here’s what they’re all use
 Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase a laptop for college, Prof. Yan put together this [helpful guide](https://docs.google.com/document/d/1avUDkT5yvW_XycvVYP9LevJP791a9CdxuCAzQB1tYfc/edit?usp=sharing).
 
 Here are a few helpful resources when it comes to technology:
-* Read this Berkeley IT [website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
-* The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students
+* Read this [Berkeley IT website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
+* The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students.
 
-## Course Structure
+## Course Components
+
+### Lecture
+
+### Lab
+
+### Homework
+
+### Office Hours and Ed
+
+### Quizzes and Exams
+
+This course does not have a midterm. Instead
 
 ## Policies
+
+### Grading
+
+Here's how we will calculate your final grade:
+
+| **Component** | **Weight** | **Notes** |
+| Participation | 15% | Participation in lecture, labs, and discussions |
+| In-Class Quick Checks | 5% | Graded on completion, no drops |
+| Weekly Surveys | 5% | Graded on completion, no drops |
+| Homeworks | 40% | 5 homeworks with 1 homework drop (10% each) |
+| Quizzes | 20% | 2 quizzes (10% each) |
+| Final Exam | 15% | In-Class 8/12 |
+
+### Late Policy and Extensions
+
+### Academic Honesty
+
+### A Note on Letter Grades
 
 ## Accommodations
 
