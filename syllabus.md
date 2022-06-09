@@ -17,7 +17,7 @@ description: >-
 
 ---
 
-## Welcome
+## Welcome	&#x1F44B;
 
 Welcome to Data 6 Summer 2022! On behalf of Data 6 course staff, we’re excited to be teaching you this summer and hope you enjoy this class as much as we enjoy teaching it. Whether you’re a first-time college student or a seasoned veteran student, Data 6 is the perfect course to get started with coding and data science. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics — we will teach you **everything** you need to succeed in this class and prepare you for further data science and/or computer science classes. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll gain useful skills that you can apply to your own major or field of study, especially in the social sciences.
 
@@ -31,7 +31,7 @@ Best,
 [James](https://data6.org/su22/staff/#instructors) and [Will](https://data6.org/su22/staff/#instructors)
 
 
-## About
+## About	&#x1F9D0;
 
 From the course catalog: Data 6 is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data 8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.
 
@@ -54,7 +54,7 @@ The rough topic breakdown for this summer is as follows:
 
 Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebook we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures.
 
-## Logistics
+## Logistics &#x1F5D3;
 
 **Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
 **Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [Wheeler](https://www.berkeley.edu/map?wheeler) 212
@@ -62,7 +62,7 @@ Lecture slides will be posted to the website right before each lecture to allow 
 **Office Hours (Optional)**: Tuesdays & Thursdays, 1PM-3PM in [Evans](https://www.berkeley.edu/map?evans) 6
 The full schedule is available on the [Schedule](http://www.data6.org/su22/schedule) page.
 
-## Communication
+## Communication	&#x1F4AC;
 
 This class **does not** use bCourses — all of the materials and assignments for the class can be found on the Data 6 website.
 
@@ -71,7 +71,7 @@ For class communication, we will be using Ed Discussion (or simply “Ed,” as 
 You will be added to Ed automatically, but email James (jweichert@berkeley.edu) or Will (willfurtado@berkeley.edu) if you’re not sure how to access it.
 
 
-## Technology
+## Technology &#x1F4BB;
 
 We will be using several websites this semester. Here’s what they’re all used for:
 * [Course Website](http://www.data6.org/su22): where all content and assignments will be posted.
@@ -79,9 +79,17 @@ We will be using several websites this semester. Here’s what they’re all use
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
 * [Gradescope](https://www.gradescope.com/courses/402405): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
 
+Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase a laptop for college, Prof. Yan put together this [helpful guide](https://docs.google.com/document/d/1avUDkT5yvW_XycvVYP9LevJP791a9CdxuCAzQB1tYfc/edit?usp=sharing).
+
+Here are a few helpful resources when it comes to technology:
+* Read this Berkeley IT [website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
+* The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students
+
 ## Course Structure
 
 ## Policies
+
+## Accommodations
 
 ## Acknowledgements 🙏
 
