@@ -124,7 +124,7 @@ Here's how we will calculate your final grade:
 
 ### A Note on Letter Grades
 
-## Accommodations	&#x1F9D1;
+## Accommodations	&#x1F91D;
 
 ## Acknowledgements 🙏
 
