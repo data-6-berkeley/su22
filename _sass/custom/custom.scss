@@ -146,3 +146,34 @@ summary {
     height: 100%;
   }
 }
+
+.code_block {
+  @extend code;
+
+  margin-left: 1vw;
+  margin-top: 1vw;
+
+
+  padding: 1vw;
+
+  display: inline-block;
+
+  .indent {
+    margin-left: 2.5vw;
+  }
+
+  .control {
+    color: #389468;
+    font-weight: bold;
+  }
+  .func {
+    color: #4A6096;
+  }
+  .num {
+    color: #389468;
+  }
+  .op {
+    color: #8F3D67;
+  }
+
+}

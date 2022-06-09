@@ -36,9 +36,9 @@ schedule:
         end: 12:00 PM
         location: 212 Wheeler
       - name: Office Hours
-        start: 2:00 PM
-        end: 4:00 PM
-        location: TBD
+        start: 1:00 PM
+        end: 3:00 PM
+        location: Evans 6
   - name: Wednesday
     events:
       - name: Lecture
@@ -58,7 +58,7 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
-        location: TBD
+        location: Evans 6
   - name: Friday
     events:
       - name: Coffee Chats

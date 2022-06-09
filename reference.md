@@ -22,16 +22,20 @@ If you're new to reading documentation, looking at the Data 6 Python Reference m
 
 However, we do expect you to understand how to use the Python Reference to understand new functions, and to help with debugging when things go wrong. Learning how to read and understand documentation is a key to becoming a good data scientist. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions.
 
-Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/22794/discussion/). 
+Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/22794/discussion/).
 
 ### The Anatomy of a Function
 
-`def my_function(num):
-    return num ** 3`
+<div class="code_block">
+<span class="control">def</span> <span class="func">my_function</span>(num):<br>
+    <span class="indent"><span class="control">return</span> num <span class="op">**</span> <span class="num">3</span></span>
+</div>
+
+In the function above, `my_function` is the name of the function, which takes one argument called `num`. The data type of the input is an **int** or **float**, and the function returns the number raised to the power 3, which is also an **int** or **float**.
 
 ### How to Read These Tables
 
-* The **Function** column tells you how to call the function and what arguments it accepts.
+* The **Function** column tells you how to call the function and what arguments it accepts. Everything written in `this font` is code or refers to a particular argument in the function (e.g. `num` in `np.sqrt(num)`).
 * The **Description** column gives you a brief description of what the function does, including what each argument is used for
 * The **Input** column tells you what data type each argument needs to be. If you're getting a `TypeError`, it might be because your inputs are of the wrong type. Data types are indicates in bold (e.g. **string** or **Table**).
 * The **Output** column tells you what the function returns and what data type it is.
@@ -50,7 +54,7 @@ Of course, the Python Reference can only provide information about the basics of
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
 
-## NumPy array Functions
+## NumPy Array Functions
 
 | **Function** | **Description** | **Input** | **Output** |
 | `np.mean(arr)` or `np.average(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: The average of the array |
@@ -84,7 +88,8 @@ Of course, the Python Reference can only provide information about the basics of
 | `tbl.plot(x_column, y_column)` or `tbl.plot(x_column)` | Draws a line plot consisting of one point for each row in `tbl`. If only `x_column` is specified, `plot` will plot the rest of the columns on the y-axis with different colored lines. | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis | None: draws a line graph |
 | `tbl.scatter(x_column, y_column)` | Draws a scatter plot consisting of one point for each row in `tbl`. The optional argument `fit_line=True` can be included to draw a line of best fit through the scatter plot. | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis <br> 3. (Optional) `fit_line=True` | None: draws a scatter plot |
 
-## `Table.where` Predicates
+## Table.where Predicates
+These functions can be passed in as the second argument to `tbl.where(..)` and act as a condition by which to select rows from `tbl`.
 
 | **Predicate** | **Description** |
 | `are.equal_to(Z)` |	Equal to `Z` (can be an **int**, **float** or **string**) |

@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Announcements",
     "title": "Welcome to Data 6!",
-    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
+    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you’ll enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
     "url": "http://localhost:4000/su22/announcements/",
     "relUrl": "/announcements/"
   },"5": {
@@ -43,7 +43,7 @@
   },"7": {
     "doc": "Home",
     "title": "Welcome to Data 6!",
-    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
+    "content": "Jun 30 &middot; 0 min read We’re excited to be teaching Data 6 this summer, and hope you’ll enjoy this class. This website will serve as a ‘home base’ for the course, and will have all of the materials and assignments you’ll need. We recommend bookmarking the website for easy access. Additionally, please make sure you have access to the following course resources: . | Data 6 Ed Discussion | Data 6 Gradescope | . If you don’t have access to either of the websites, please email jweichert@berkeley.edu . Best, James and Will . ",
     "url": "http://localhost:4000/su22/index.html",
     "relUrl": "/index.html"
   },"8": {
@@ -97,178 +97,196 @@
   },"16": {
     "doc": "Python Reference",
     "title": "Table of contents",
-    "content": ". | Built-In Python Functions | NumPy Array Functions | Tables and Table Methods | More Documentation | . ",
+    "content": ". | Understanding the Python Reference . | The Anatomy of a Function | How to Read These Tables | . | Built-In Python Functions | NumPy Array Functions | Tables and Table Methods | Visualization Functions | Table.where Predicates | More Documentation | . ",
     "url": "http://localhost:4000/su22/reference/#table-of-contents",
     "relUrl": "/reference/#table-of-contents"
   },"17": {
     "doc": "Python Reference",
-    "title": "Built-In Python Functions",
-    "content": "| Function | Description | Input | Output | . | str(val) | Converts val to a string | A value of any type (int, float, NoneType, etc.) | The value as a string | . | int(num) | Converts num to an int | A numerical value (represented as a string or float) | The value as an int | . | float(num) | Converts num to a float | A numerical value (represented as a string or int) | The value as a float | . | len(arr) | Returns the length of arr | Array or list | Int: the length of the array or list | . | max(arr) | Returns the maximum value in arr | Array or list | The maximum value the array (usually an int) | . | min(arr) | Returns the minimum value in arr | Array or list | The minimum value the array (usually an int) | . | sum(arr) | Returns the sum of the values in arr | Array or list | Float or Int: the sum of the values in the array | . | abs(num) | Returns the absolute value of num | Int or Float | Int or Float | . ",
-    "url": "http://localhost:4000/su22/reference/#built-in-python-functions",
-    "relUrl": "/reference/#built-in-python-functions"
+    "title": "Understanding the Python Reference",
+    "content": "If you’re new to reading documentation, looking at the Data 6 Python Reference might feel a little overwhelming, but don’t worry — the point of this class is not to memorize all of these functions or their arguments. For exams and quizzes, you will be provided with a reference sheet that contains all of the functions you may need on the exam. However, we do expect you to understand how to use the Python Reference to understand new functions, and to help with debugging when things go wrong. Learning how to read and understand documentation is a key to becoming a good data scientist. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions. Of course, the Python Reference can only provide information about the basics of the functions you’ll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on Ed. The Anatomy of a Function . def my_function(num): return num ** 3 In the function above, my_function is the name of the function, which takes one argument called num. The data type of the input is an int or float, and the function returns the number raised to the power 3, which is also an int or float. How to Read These Tables . | The Function column tells you how to call the function and what arguments it accepts. Everything written in this font is code or refers to a particular argument in the function (e.g. num in np.sqrt(num)). | The Description column gives you a brief description of what the function does, including what each argument is used for | The Input column tells you what data type each argument needs to be. If you’re getting a TypeError, it might be because your inputs are of the wrong type. Data types are indicates in bold (e.g. string or Table). | The Output column tells you what the function returns and what data type it is. | . ",
+    "url": "http://localhost:4000/su22/reference/#understanding-the-python-reference",
+    "relUrl": "/reference/#understanding-the-python-reference"
   },"18": {
     "doc": "Python Reference",
-    "title": "NumPy Array Functions",
-    "content": "| Function | Description | Input | Output | . | np.mean(arr) or np.average(arr) | Calculates the average value of arr | An array of numbers | Float: The average of the array | . | np.arange(stop), np.arange(start, stop), np.arange(start, stop, step) | Creates an array of sequential numbers starting at start, going up in increments of step, and going up to but excluding stop. Default start is 0, default step is 1 | Int or Float | Array | . ",
-    "url": "http://localhost:4000/su22/reference/#numpy-array-functions",
-    "relUrl": "/reference/#numpy-array-functions"
+    "title": "Built-In Python Functions",
+    "content": "| Function | Description | Input | Output | . | str(val) | Converts val to a string | A value of any type (int, float, NoneType, etc.) | The value as a string | . | int(num) | Converts num to an int | A numerical value (represented as a string or float) | The value as an int | . | float(num) | Converts num to a float | A numerical value (represented as a string or int) | The value as a float | . | len(arr) | Returns the length of arr | array or list | int: the length of the array or list | . | max(arr) | Returns the maximum value in arr | array or list | The maximum value the array (usually an int) | . | min(arr) | Returns the minimum value in arr | array or list | The minimum value the array (usually an int) | . | sum(arr) | Returns the sum of the values in arr | array or list | int or float: the sum of the values in the array | . | abs(num) | Returns the absolute value of num | int or float | int or float | . ",
+    "url": "http://localhost:4000/su22/reference/#built-in-python-functions",
+    "relUrl": "/reference/#built-in-python-functions"
   },"19": {
     "doc": "Python Reference",
-    "title": "Tables and Table Methods",
-    "content": "| Function | Description | Input | Output | . | Table() | Creates an empty table, usually to extend with data | None | An empty Table | . | tbl.with_column(name, values) or tbl.with_columns(n1, v1, n2, v2, ...) | Adds an extra column onto tbl with the label name and values as the column values | 1. String: name of the new column 2. Array: values in the column | Table: a copy of the original table with the new column(s) | . | tbl.column(col) | Returns the values in a column | String or Int: the column name or index | Array: the values in that column | . | tbl.num_rows | Compute the number of rows in tbl | None | Int: the number of rows in the table | . | tbl.num_columns | Compute the number of columns in tbl | None | Int: the number of columns in the table | . | tbl.labels | Returns the labels in tbl | None | Array: the names of each column as strings | . | tbl.select(col1, col2, ...) | Creates a copy of tbl only with the selected columns | String or Int: the column name(s) or index(es) to be included in the table | Table with the selected columns | . | tbl.drop(col1, col2, ...) | Creates a copy of tbl without the selected columns | String or Int: the column name(s) or index(es) to be dropped from the table | Table without the selected columns | . ",
-    "url": "http://localhost:4000/su22/reference/#tables-and-table-methods",
-    "relUrl": "/reference/#tables-and-table-methods"
+    "title": "NumPy Array Functions",
+    "content": "| Function | Description | Input | Output | . | np.mean(arr) or np.average(arr) | Calculates the average value of arr | An array of numbers | float: The average of the array | . | np.sqrt(num) | Calculates the square root of num | int or float | float : the square root of the number | . | np.arange(stop), np.arange(start, stop), or np.arange(start, stop, step) | Creates an array of sequential numbers starting at start, going up in increments of step, and going up to but excluding stop. Default start is 0, default step is 1 | int or float | array | . ",
+    "url": "http://localhost:4000/su22/reference/#numpy-array-functions",
+    "relUrl": "/reference/#numpy-array-functions"
   },"20": {
     "doc": "Python Reference",
+    "title": "Tables and Table Methods",
+    "content": "| Function | Description | Input | Output | . | Table() | Creates an empty table, usually to extend with data | None | An empty Table | . | tbl.with_column(name, values) or tbl.with_columns(n1, v1, n2, v2, ...) | Adds an extra column onto tbl with the label name and values as the column values | 1. string: name of the new column 2. array: values in the column | Table: a copy of the original table with the new column(s) | . | tbl.column(col) | Returns the values in a column | string or int: the column name or index | array: the values in that column | . | tbl.num_rows | Compute the number of rows in tbl | None | int: the number of rows in the table | . | tbl.num_columns | Compute the number of columns in tbl | None | int: the number of columns in the table | . | tbl.labels | Returns the labels in tbl | None | array: the names of each column as strings | . | tbl.select(col1, col2, ...) | Creates a copy of tbl only with the selected columns | string or int: the column name(s) or index(es) to be included in the table | Table with the selected columns | . | tbl.drop(col1, col2, ...) | Creates a copy of tbl without the selected columns | string or int: the column name(s) or index(es) to be dropped from the table | Table without the selected columns | . | tbl.show(n) | Displays the first n rows of tbl. If no argument is specified, the function defaults to showing the entire table | (Optional) int: number of rows to be displayed | None (table is displayed) | . | tbl.sort(column_name) | Sorts the rows of tbl by the values in the column_name column. Defaults to ascending order unless the optional argument descending=True is included. | 1. string or int: name or index of the column to sort 2. (Optional) descending=True | Table: a copy of the original table with the column sorted | . | tbl.where(column, predicate) | Creates a copy of tbl containing only the rows where the value of column matches the predicate. See Table.where predicates below. | 1. string or int: column name or index 2. are.(...) predicate | Table: a copy of the originaltable with only the rows that match the predicate | . | tbl.apply(function) or tbl.apply(function, col1, col2, ...) | Returns an array of values resulting from applying a function to each item in a column. | 1. Function: function to apply to column 2. (Optional) string or int: the column name(s) or index(es) to apply the function to | array containing an element for each value in the original column after applying the function to it | . | tbl.group(column_or_columns, function) | Groups rows in tbl by unique values or combinations of values in a column(s). Multiple columns must be entered as an array of strings. Values in the other columns are aggregated by count (by default) or the optional argument function. You can visualize the group function here. | 1. string or array of strings: column(s) on which to group 2. (Optional) Function: function to aggregate values in cells (defaults to counting rows) | Table a new groupped table | . | tbl.pivot(col1, col2) or tbl.pivot(col1, col2, values, collect) | Creates a pivot table where each unique value in col1 has its own column and each unique value in col2 has its own row. Counts or aggregates values from a third column, collected with some function. If the values and collect arguments are not included, pivot defaults to returning counts in the cells. You can visualize the pivot function here. | 1. string: name of the column in tbl whose unique values will make up the columns of the pivot table 2. string: name of column in tbl whose unique values will make up the rows of the pivot table 3. (Optional) string: name of the column in tbl that describes the values of cells in the pivot table 4. (Optional) Function: how the values are collected (e.g. sum or np.mean) | Table: a new pivot table | . | tblA.join(colA, tblB) or tblA.join(colA, tblB, colB) | Generate a table with the columns of tblA and tblB, containing rows for all values in colA and colB that appear in tblA and tblB, respectively. By default, colB is the same value as colA. colA and colB must be strings specifying column names. | 1. string: name of column in tblA with values to join on 2. Table: the other table 3. (Optional) string: the name of the shared column in tblB, if column names are different between the tables | Table: a new combined table | . ",
+    "url": "http://localhost:4000/su22/reference/#tables-and-table-methods",
+    "relUrl": "/reference/#tables-and-table-methods"
+  },"21": {
+    "doc": "Python Reference",
+    "title": "Visualization Functions",
+    "content": "| Function | Description | Input | Output | . | tbl.barh(categories) or tbl.barh(categories, values) | Displays a horizontal bar chart with bars for each category in the column categories. values specifies the column corresponding to the size of each bar, but is unnecessary if the table only has two columns | 1. string: name of the column with categories 2. (Optional) string: name of the column with values corresponding to the categories | None: draws a bar chart | . | tbl.hist(column) | Generates a histogram of the numerical values in column. | string: name of the column | None: draws a histogram | . | tbl.plot(x_column, y_column) or tbl.plot(x_column) | Draws a line plot consisting of one point for each row in tbl. If only x_column is specified, plot will plot the rest of the columns on the y-axis with different colored lines. | 1. string: name of the column on the x-axis 2. string: name of the column on the y-axis | None: draws a line graph | . | tbl.scatter(x_column, y_column) | Draws a scatter plot consisting of one point for each row in tbl. The optional argument fit_line=True can be included to draw a line of best fit through the scatter plot. | 1. string: name of the column on the x-axis 2. string: name of the column on the y-axis 3. (Optional) fit_line=True | None: draws a scatter plot | . ",
+    "url": "http://localhost:4000/su22/reference/#visualization-functions",
+    "relUrl": "/reference/#visualization-functions"
+  },"22": {
+    "doc": "Python Reference",
+    "title": "Table.where Predicates",
+    "content": "These functions can be passed in as the second argument to tbl.where(..) and act as a condition by which to select rows from tbl. | Predicate | Description | . | are.equal_to(Z) | Equal to Z (can be an int, float or string) | . | are.not_equal_to(Z) | Not equal to ‘Z’ can be a number (int or float) or a string) | . | are.above(x) | Greater than x | . | are.above_or_equal_to(x) | Greater than or equal to x | . | are.below(x) | Less than x | . | are.below_or_equal_to(x) | Less than or equal to x | . | are.between(x,y) | Greater than or equal to x and less than y | . | are.between_or_equal_to(x,y) | Greater than or equal to x, and less than or equal to y | . | are.strictly_between(x,y) | Greater than x and less than y | . | are.contained_in(A) | True if it is a substring of A (if A is a **string**) or an element of A (if A` is an array) | . | are.containing(S) | Contains the string S | . ",
+    "url": "http://localhost:4000/su22/reference/#tablewhere-predicates",
+    "relUrl": "/reference/#tablewhere-predicates"
+  },"23": {
+    "doc": "Python Reference",
     "title": "More Documentation",
-    "content": "The Data 6 Python reference guide is based on the Data 8 Python Reference. ",
+    "content": "The Data 6 Python reference guide is based on the Data 8 Python Reference. More detailed Python documentation is available here. ",
     "url": "http://localhost:4000/su22/reference/#more-documentation",
     "relUrl": "/reference/#more-documentation"
-  },"21": {
+  },"24": {
     "doc": "Python Reference",
     "title": "Python Reference",
     "content": " ",
     "url": "http://localhost:4000/su22/reference/",
     "relUrl": "/reference/"
-  },"22": {
+  },"25": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "http://localhost:4000/su22/resources/",
     "relUrl": "/resources/"
-  },"23": {
+  },"26": {
     "doc": "Resources",
     "title": "Table of contents",
     "content": ". | About | Lecture | Resources | Assignments | . ",
     "url": "http://localhost:4000/su22/resources/#table-of-contents",
     "relUrl": "/resources/#table-of-contents"
-  },"24": {
+  },"27": {
     "doc": "Resources",
     "title": "About",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
     "url": "http://localhost:4000/su22/resources/#about",
     "relUrl": "/resources/#about"
-  },"25": {
+  },"28": {
     "doc": "Resources",
     "title": "Lecture",
     "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
     "url": "http://localhost:4000/su22/resources/#lecture",
     "relUrl": "/resources/#lecture"
-  },"26": {
+  },"29": {
     "doc": "Resources",
     "title": "Resources",
     "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
     "url": "http://localhost:4000/su22/resources/",
     "relUrl": "/resources/"
-  },"27": {
+  },"30": {
     "doc": "Resources",
     "title": "Assignments",
     "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
     "url": "http://localhost:4000/su22/resources/#assignments",
     "relUrl": "/resources/#assignments"
-  },"28": {
+  },"31": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "http://localhost:4000/su22/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"29": {
+  },"32": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"30": {
+  },"33": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 2:00 PM–4:00 PM TBD | . | ",
+    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 1:00 PM–3:00 PM Evans 6 | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"31": {
+  },"34": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 10:10 AM–12:00 PM 212 Wheeler | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"32": {
+  },"35": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 1:00 PM–3:00 PM TBD | . | ",
+    "content": ". | Lecture 10:10 AM–11:00 AM 212 Wheeler | Lab 11:10 AM–12:00 PM 212 Wheeler | Office Hours 1:00 PM–3:00 PM Evans 6 | . | ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"33": {
+  },"36": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Coffee Chats 9:10 AM–10:00 AM Caffe Strada | Discussion 10:10 AM–12:00 PM 105 &amp; 130 Dwinelle | . | . ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"34": {
+  },"37": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/su22/schedule/",
     "relUrl": "/schedule/"
-  },"35": {
+  },"38": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "http://localhost:4000/su22/staff/",
     "relUrl": "/staff/"
-  },"36": {
+  },"39": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "James Weichert he/him . jweichert@berkeley.edu . Will Furtado . ",
     "url": "http://localhost:4000/su22/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"37": {
+  },"40": {
     "doc": "Staff",
     "title": "Undergraduate Student Instructors (uGSIs)",
     "content": "Joshua Alvarez . Sandra You she/her . xinyueyou@berkeley.edu . Hi! I’m Sandra and I’m a rising senior studying computer and data science. Besides academics I love hiking, music, and movies! Feel free to reach out to me to talk about data science and anything that interests you. Looking forward to meeting the data 6 community this summer! . ",
     "url": "http://localhost:4000/su22/staff/#undergraduate-student-instructors-ugsis",
     "relUrl": "/staff/#undergraduate-student-instructors-ugsis"
-  },"38": {
+  },"41": {
     "doc": "Staff",
     "title": "Tutors",
     "content": "Leanne Bardoles . Sunya Abbasi . ",
     "url": "http://localhost:4000/su22/staff/#tutors",
     "relUrl": "/staff/#tutors"
-  },"39": {
+  },"42": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/su22/syllabus/",
     "relUrl": "/syllabus/"
-  },"40": {
+  },"43": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | About | Lecture | Resources | Assignments | Acknowledgements 🙏 | . ",
     "url": "http://localhost:4000/su22/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"41": {
+  },"44": {
     "doc": "Syllabus",
     "title": "About",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
     "url": "http://localhost:4000/su22/syllabus/#about",
     "relUrl": "/syllabus/#about"
-  },"42": {
+  },"45": {
     "doc": "Syllabus",
     "title": "Lecture",
     "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
     "url": "http://localhost:4000/su22/syllabus/#lecture",
     "relUrl": "/syllabus/#lecture"
-  },"43": {
+  },"46": {
     "doc": "Syllabus",
     "title": "Resources",
     "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
     "url": "http://localhost:4000/su22/syllabus/#resources",
     "relUrl": "/syllabus/#resources"
-  },"44": {
+  },"47": {
     "doc": "Syllabus",
     "title": "Assignments",
     "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
     "url": "http://localhost:4000/su22/syllabus/#assignments",
     "relUrl": "/syllabus/#assignments"
-  },"45": {
+  },"48": {
     "doc": "Syllabus",
     "title": "Acknowledgements 🙏",
     "content": "The Summer 2022 version of Data 6 is based on Data 94, created and taught by Suraj Rampure in Spring 2021 at UC Berkeley, and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on Data 8 at UC Berkeley. For Summer 2022, Professors Lisa Yan and Deborah Nolan have updated some of the curriculum and assignments, with help from Will Furtado, Kevin Miao and James Weichert. When creating Data 6, we’ve referred to the materials of several other courses: . | Data 8, CS 10, and CS 61A at UC Berkeley | CS 106A at Stanford | CSE 160 at the University of Washington | . The website uses Just the Class. ",
