@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus
+# Syllabus &#x1F4D6;
 {:.no_toc}
 
 ## Table of contents
@@ -90,7 +90,7 @@ Here are a few helpful resources when it comes to technology:
 * Read this [Berkeley IT website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
 * The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students.
 
-## Course Components
+## Course Components	&#x1F4D2;
 
 ### Lecture
 
@@ -104,7 +104,7 @@ Here are a few helpful resources when it comes to technology:
 
 This course does not have a midterm. Instead
 
-## Policies
+## Policies &#x1F4D1;
 
 ### Grading
 
@@ -116,7 +116,7 @@ Here's how we will calculate your final grade:
 | Weekly Surveys | 5% | Graded on completion, no drops |
 | Homeworks | 40% | 5 homeworks with 1 homework drop (10% each) |
 | Quizzes | 20% | 2 quizzes (10% each) |
-| Final Exam | 15% | In-Class 8/12 |
+| Final Exam | 15% | In-Class on 8/12 |
 
 ### Late Policy and Extensions
 
@@ -124,7 +124,7 @@ Here's how we will calculate your final grade:
 
 ### A Note on Letter Grades
 
-## Accommodations
+## Accommodations	&#x1F9D1;
 
 ## Acknowledgements 🙏
 

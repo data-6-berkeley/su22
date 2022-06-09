@@ -49,31 +49,31 @@
   },"8": {
     "doc": "Home",
     "title": "Week 1 — Introduction to Python",
-    "content": "Jul 5 1 Introduction, Course Overview, Jupyter Basics Slides • Code Optional Reading Jul 6 2 Variables and Types Lab 1 Using Jupyter Notebooks Jul 7 3 NumPy and Data Homework 1 Introduction to Python  Due Jul 14 @ 11:59PM Jul 8 Discussion 1 Health Data ",
+    "content": "Jul 5 1 Introduction, Course Overview, Jupyter Basics Slides • Code Optional Reading Jul 6 2 Variables and Types Lab 1 Using Jupyter Notebooks Jul 7 3 NumPy and Data Homework 1 Introduction to Python  Due Jul 14 @ 11:00PM Jul 8 Discussion 1 Health Data ",
     "url": "http://localhost:4000/su22/index.html#week-1-introduction-to-python",
     "relUrl": "/index.html#week-1-introduction-to-python"
   },"9": {
     "doc": "Home",
     "title": "Week 2 — Visualizing Data",
-    "content": "Jul 11 4 Table Fundamentals, Introduction to Visualization Optional Reading Jul 12 5 Visualizing Categorical Variables Lab 2 Visualization Fundamentals Jul 13 6 Visualizing Numerical Variables Jul 14 7 Visualizing Two Numerical Variables Lab 3 More Visualization Jul 15 Discussion 2 Human Contexts and Ethics 8 Quiz Review Homework 2 Data Visualization  Due Jul 21 @ 11:59PM ",
+    "content": "Jul 11 4 Table Fundamentals, Introduction to Visualization Optional Reading Jul 12 5 Visualizing Categorical Variables Lab 2 Visualization Fundamentals Jul 13 6 Visualizing Numerical Variables Jul 14 7 Visualizing Two Numerical Variables Lab 3 More Visualization Jul 15 Discussion 2 Human Contexts and Ethics 8 Quiz Review Homework 2 Data Visualization  Due Jul 21 @ 11:00PM ",
     "url": "http://localhost:4000/su22/index.html#week-2-visualizing-data",
     "relUrl": "/index.html#week-2-visualizing-data"
   },"10": {
     "doc": "Home",
     "title": "Week 3 — Tables",
-    "content": "Jul 18 Quiz Quiz 1: Python and Visualization 9 Row Manipulation Optional Reading Jul 19 10 Row Methods, Joining Tables Lab 4 Tables Jul 20 11 Grouping, Pivoting, Functions (I) Jul 21 12 Applying Lab 5 More Table Methods Jul 22 Discussion 3 Algorithmic Bias Homework 3 Data Visualization  Due Jul 28 @ 11:59PM ",
+    "content": "Jul 18 Quiz Quiz 1: Python and Visualization 9 Row Manipulation Optional Reading Jul 19 10 Row Methods, Joining Tables Lab 4 Tables Jul 20 11 Grouping, Pivoting, Functions (I) Jul 21 12 Applying Lab 5 More Table Methods Jul 22 Discussion 3 Algorithmic Bias Homework 3 Data Visualization  Due Jul 28 @ 11:00PM ",
     "url": "http://localhost:4000/su22/index.html#week-3-tables",
     "relUrl": "/index.html#week-3-tables"
   },"11": {
     "doc": "Home",
     "title": "Week 4 — Python Functions and Control",
-    "content": "Jul 25 13 Functions (II), Comparisons, Booleans Optional Reading Jul 26 14 Control Lab 6 Functions Jul 27 15 For Loops Jul 28 16 Advanced For-Loops Lab 7 Python Fundamentals Jul 29 Discussion 4 Privacy 17 Quiz Review Homework 7 Python Fundamentals  Due Aug 2 @ 11:59PM ",
+    "content": "Jul 25 13 Functions (II), Comparisons, Booleans Optional Reading Jul 26 14 Control Lab 6 Functions Jul 27 15 For Loops Jul 28 16 Advanced For-Loops Lab 7 Python Fundamentals Jul 29 Discussion 4 Privacy 17 Quiz Review Homework 7 Python Fundamentals  Due Aug 2 @ 11:00PM ",
     "url": "http://localhost:4000/su22/index.html#week-4-python-functions-and-control",
     "relUrl": "/index.html#week-4-python-functions-and-control"
   },"12": {
     "doc": "Home",
     "title": "Week 5 — More Python",
-    "content": "Aug 1 Quiz Quiz 2: Tables, Functions and Loops Lab 8 For Loops Aug 2 18 File Formats, Dictionaries (I) Aug 3 19 Dictionaries (II) Lab 9 Dictionaries Aug 4 20 Case Study, Maps Aug 5 Discussion 5 Data in Elections Homework 5 Data Visualization  Due Aug 10 @ 11:59PM ",
+    "content": "Aug 1 Quiz Quiz 2: Tables, Functions and Loops Lab 8 For Loops Aug 2 18 File Formats, Dictionaries (I) Aug 3 19 Dictionaries (II) Lab 9 Dictionaries Aug 4 20 Case Study, Maps Aug 5 Discussion 5 Data in Elections Homework 5 Data Visualization  Due Aug 10 @ 11:00PM ",
     "url": "http://localhost:4000/su22/index.html#week-5-more-python",
     "relUrl": "/index.html#week-5-more-python"
   },"13": {
@@ -252,14 +252,14 @@
     "relUrl": "/staff/#tutors"
   },"42": {
     "doc": "Syllabus",
-    "title": "Syllabus",
+    "title": "Syllabus 📖",
     "content": " ",
-    "url": "http://localhost:4000/su22/syllabus/",
-    "relUrl": "/syllabus/"
+    "url": "http://localhost:4000/su22/syllabus/#syllabus-",
+    "relUrl": "/syllabus/#syllabus-"
   },"43": {
     "doc": "Syllabus",
     "title": "Table of contents",
-    "content": ". | Welcome 👋 | About 🧐 | Logistics 🗓 | Communication 💬 | Technology 💻 | Course Components . | Lecture | Lab | Homework | Office Hours and Ed | Quizzes and Exams | . | Policies . | Grading | Late Policy and Extensions | Academic Honesty | A Note on Letter Grades | . | Accommodations | Acknowledgements 🙏 | . ",
+    "content": ". | Welcome 👋 | About 🧐 | Logistics 🗓 | Communication 💬 | Technology 💻 | Course Components 📒 . | Lecture | Lab | Homework | Office Hours and Ed | Quizzes and Exams | . | Policies 📑 . | Grading | Late Policy and Extensions | Academic Honesty | A Note on Letter Grades | . | Accommodations 🧑 | Acknowledgements 🙏 | . ",
     "url": "http://localhost:4000/su22/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
   },"44": {
@@ -294,27 +294,33 @@
     "relUrl": "/syllabus/#technology-"
   },"49": {
     "doc": "Syllabus",
-    "title": "Course Components",
+    "title": "Course Components\t📒",
     "content": "Lecture . Lab . Homework . Office Hours and Ed . Quizzes and Exams . This course does not have a midterm. Instead . ",
-    "url": "http://localhost:4000/su22/syllabus/#course-components",
-    "relUrl": "/syllabus/#course-components"
+    "url": "http://localhost:4000/su22/syllabus/#course-components-",
+    "relUrl": "/syllabus/#course-components-"
   },"50": {
     "doc": "Syllabus",
-    "title": "Policies",
-    "content": "Grading . Here’s how we will calculate your final grade: . | Component | Weight | Notes | . | Participation | 15% | Participation in lecture, labs, and discussions | . | In-Class Quick Checks | 5% | Graded on completion, no drops | . | Weekly Surveys | 5% | Graded on completion, no drops | . | Homeworks | 40% | 5 homeworks with 1 homework drop (10% each) | . | Quizzes | 20% | 2 quizzes (10% each) | . | Final Exam | 15% | In-Class 8/12 | . Late Policy and Extensions . Academic Honesty . A Note on Letter Grades . ",
-    "url": "http://localhost:4000/su22/syllabus/#policies",
-    "relUrl": "/syllabus/#policies"
+    "title": "Policies 📑",
+    "content": "Grading . Here’s how we will calculate your final grade: . | Component | Weight | Notes | . | Participation | 15% | Participation in lecture, labs, and discussions | . | In-Class Quick Checks | 5% | Graded on completion, no drops | . | Weekly Surveys | 5% | Graded on completion, no drops | . | Homeworks | 40% | 5 homeworks with 1 homework drop (10% each) | . | Quizzes | 20% | 2 quizzes (10% each) | . | Final Exam | 15% | In-Class on 8/12 | . Late Policy and Extensions . Academic Honesty . A Note on Letter Grades . ",
+    "url": "http://localhost:4000/su22/syllabus/#policies-",
+    "relUrl": "/syllabus/#policies-"
   },"51": {
     "doc": "Syllabus",
-    "title": "Accommodations",
+    "title": "Accommodations\t🧑",
     "content": " ",
-    "url": "http://localhost:4000/su22/syllabus/#accommodations",
-    "relUrl": "/syllabus/#accommodations"
+    "url": "http://localhost:4000/su22/syllabus/#accommodations-",
+    "relUrl": "/syllabus/#accommodations-"
   },"52": {
     "doc": "Syllabus",
     "title": "Acknowledgements 🙏",
     "content": "The Summer 2022 version of Data 6 is based on Data 94, created and taught by Suraj Rampure in Spring 2021 at UC Berkeley, and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on Data 8 at UC Berkeley. For Summer 2022, Professors Lisa Yan and Deborah Nolan have updated some of the curriculum and assignments, with help from Will Furtado, Kevin Miao and James Weichert. When creating Data 6, we’ve referred to the materials of several other courses: . | Data 8, CS 10, and CS 61A at UC Berkeley | CS 106A at Stanford | CSE 160 at the University of Washington | . The website uses Just the Class. ",
     "url": "http://localhost:4000/su22/syllabus/#acknowledgements-",
     "relUrl": "/syllabus/#acknowledgements-"
+  },"53": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/su22/syllabus/",
+    "relUrl": "/syllabus/"
   }
 }

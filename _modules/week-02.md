@@ -25,4 +25,4 @@ Jul 14
 Jul 15
 : **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
 : **8**{: .label} Quiz Review
-: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:59PM**
+: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:00PM**

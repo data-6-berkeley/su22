@@ -15,7 +15,7 @@ Jul 6
 Jul 7
 : **3**{: .label} NumPy and Data
   <!--: [Slides](#) &#8226; [Code](#)-->
-: **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:59PM**
+: **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:00PM**
 
 Jul 8
 : **Discussion 1**{: .label .label-discussion} Health Data
