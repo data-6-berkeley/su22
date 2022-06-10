@@ -229,25 +229,25 @@
   },"38": {
     "doc": "Staff",
     "title": "Staff",
-    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "content": "Read more about our amazing Data 6 course staff below! We’re all current or recent Berkeley undergraduates, so feel free to reach out with any questions about life at UC Berkeley, the data science major, or anything else Cal related! . ",
     "url": "http://localhost:4000/su22/staff/",
     "relUrl": "/staff/"
   },"39": {
     "doc": "Staff",
     "title": "Instructors",
-    "content": "James Weichert he/him . jweichert@berkeley.edu . Will Furtado . ",
+    "content": "James Weichert he/him . jweichert@berkeley.edu . Hi y’all! I’m a senior from Virginia studying computer science and data science. When I’m not in the classroom, you can usually find me in the Student Union working for the ASUC or at one of a couple of coffee shops around campus. Will Furtado he/him . willfurtado@berkeley.edu . Hey! I’m a rising senior from Cape Cod, MA studying Applied Mathematics and Computer Science. Outside of teaching, you’ll likely find me curating Spotify playlists, playing Wii Tennis, or shooting film on my Canon AE-1. I’m incredibly excited to be teaching Data 6 this summer. Reach out with any questions – any at all! . ",
     "url": "http://localhost:4000/su22/staff/#instructors",
     "relUrl": "/staff/#instructors"
   },"40": {
     "doc": "Staff",
     "title": "Undergraduate Student Instructors (uGSIs)",
-    "content": "Joshua Alvarez . Sandra You she/her . xinyueyou@berkeley.edu . Hi! I’m Sandra and I’m a rising senior studying computer and data science. Besides academics I love hiking, music, and movies! Feel free to reach out to me to talk about data science and anything that interests you. Looking forward to meeting the data 6 community this summer! . ",
+    "content": "Joshua Alvarez he/him . cayanan.joshua@berkeley.edu . Hi! I’m a recent grad originally from LA. I love to surf and listen to jazz. Sandra You she/her . xinyueyou@berkeley.edu . Hi! I’m Sandra and I’m a rising senior studying computer and data science. Besides academics I love hiking, music, and movies! Feel free to reach out to me to talk about data science and anything that interests you. Looking forward to meeting the data 6 community this summer! . ",
     "url": "http://localhost:4000/su22/staff/#undergraduate-student-instructors-ugsis",
     "relUrl": "/staff/#undergraduate-student-instructors-ugsis"
   },"41": {
     "doc": "Staff",
     "title": "Tutors",
-    "content": "Leanne Bardoles . Sunya Abbasi . ",
+    "content": "Leanne Bardoles . Sunya Abbasi she/her . sunya@berkeley.edu . Hey, I’m Sunya! I’m a junior majoring in Data Science from Redwood City, CA. This summer I’m looking forward to traveling, spending time with friends, and tutoring Data 6! . ",
     "url": "http://localhost:4000/su22/staff/#tutors",
     "relUrl": "/staff/#tutors"
   },"42": {
@@ -259,7 +259,7 @@
   },"43": {
     "doc": "Syllabus",
     "title": "Table of contents",
-    "content": ". | Welcome 👋 | About 🧐 | Logistics 🗓 | Communication 💬 | Technology 💻 | Course Components 📒 . | Lecture | Lab | Homework | Office Hours and Ed | Quizzes and Exams | . | Policies 📑 . | Grading | Late Policy and Extensions | Academic Honesty | A Note on Letter Grades | . | Accommodations 🧑 | Acknowledgements 🙏 | . ",
+    "content": ". | Welcome 👋 | About 🧐 | Logistics 🗓 | Course Components 📒 . | Lecture | Lab | Discussion | Homework | Office Hours and Ed | Quizzes and Exams | . | Communication 💬 | Technology 💻 | Policies 📑 . | Grading | Late Policy and Extensions | Academic Honesty | A Note on Letter Grades | . | Accommodations 🤝 | Acknowledgements 🙏 | . ",
     "url": "http://localhost:4000/su22/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
   },"44": {
@@ -282,22 +282,22 @@
     "relUrl": "/syllabus/#logistics-"
   },"47": {
     "doc": "Syllabus",
+    "title": "Course Components\t📒",
+    "content": "While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 4-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. Part of making sure that we’re providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week’s concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 5% of your final grade, but the surveys are graded on completion. The surveys will be anonymous and we encourage you to be honest about how you’re feeling and how you’re doing in the class so we can better support you. All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing. Lecture . There will be four lectures per week. n lecture, we’ll introduce you to new ideas and concepts in programming and data science. Lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on Berkeley Time (10 minutes after the hour), and attendance is mandatory. During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes: . | For us to get a gauge of how well the class understands the material we’re currently covering | For you to get a gauge of how well you understand the material we’re currently covering | . Quick Checks are graded on completion, not correctness. It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. If you have to miss a lecture for whatever reason, just answer that lecture’s Quick Check whenever you catch up on the lecture. Additionally, in some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them. Lab . There are two lab sections per week that follow immediately after the Tuesday and Thursday lectures. In lab, we’ll spend the first ~10 minutes going over some demos that are relevant to that week’s material. You’ll spend the remaining ~40 minutes working on the lab notebook that is available on the course website. Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. While working on lab notebooks is required, the notebooks themselves are not graded — so don’t worry if you don’t finish the full notebook by the end of the lab. Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. Discussing questions and approaches to problems with classmates is highly encouraged, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks. Discussion . Homework . Office Hours and Ed . Quizzes and Exams . This course does not have a midterm. Instead . ",
+    "url": "http://localhost:4000/su22/syllabus/#course-components-",
+    "relUrl": "/syllabus/#course-components-"
+  },"48": {
+    "doc": "Syllabus",
     "title": "Communication\t💬",
     "content": "This class does not use bCourses — all of the materials and assignments for the class can be found on the Data 6 website. For class communication, we will be using Ed Discussion (or simply “Ed,” as we will call it), the campus’ discussion platform. Ed is where you will see announcements from course staff, ask questions about course material, and get help from staff and other students on assignments and concepts. Ed allows students to respond to questions from other students, so we hope you will help out your classmates by responding to questions you have the answer to, or asking questions about things you’re confused about. It’s likely that other students have many of the same questions as you! Please review the Ed etiquette guidelines before posting on Ed. You will be added to Ed automatically, but email James (jweichert@berkeley.edu) if you’re not sure how to access it. ",
     "url": "http://localhost:4000/su22/syllabus/#communication-",
     "relUrl": "/syllabus/#communication-"
-  },"48": {
+  },"49": {
     "doc": "Syllabus",
     "title": "Technology 💻",
     "content": "We will be using several websites this semester. Here’s what they’re all used for: . | Course Website: where all content and assignments will be posted. | Ed: discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. | DataHub: we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website. | Gradescope: where all homeworks will be submitted and all grades will live. (We don’t use bCourses) | . Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase a laptop for college, Prof. Yan put together this helpful guide. Here are a few helpful resources when it comes to technology: . | Read this Berkeley IT website to learn how to connect to the campus WiFi network, Eduroam. | The Student Technology Equity Program provides free laptop loans for students. | . ",
     "url": "http://localhost:4000/su22/syllabus/#technology-",
     "relUrl": "/syllabus/#technology-"
-  },"49": {
-    "doc": "Syllabus",
-    "title": "Course Components\t📒",
-    "content": "Lecture . Lab . Homework . Office Hours and Ed . Quizzes and Exams . This course does not have a midterm. Instead . ",
-    "url": "http://localhost:4000/su22/syllabus/#course-components-",
-    "relUrl": "/syllabus/#course-components-"
   },"50": {
     "doc": "Syllabus",
     "title": "Policies 📑",
@@ -306,7 +306,7 @@
     "relUrl": "/syllabus/#policies-"
   },"51": {
     "doc": "Syllabus",
-    "title": "Accommodations\t🧑",
+    "title": "Accommodations\t🤝",
     "content": " ",
     "url": "http://localhost:4000/su22/syllabus/#accommodations-",
     "relUrl": "/syllabus/#accommodations-"

@@ -67,6 +67,40 @@ Lecture slides will be posted to the website right before each lecture to allow 
 
 The full schedule is available on the [Schedule](http://www.data6.org/su22/schedule) page.
 
+## Course Components	&#x1F4D2;
+While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 4-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students.
+
+Part of making sure that we're providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week's concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 5% of your [final grade](https://data6.org/su22/syllabus/#grading), but the surveys are graded on completion. The surveys will be anonymous and we encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you.
+
+All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing.      
+
+### Lecture
+There will be four lectures per week. n lecture, we’ll introduce you to new ideas and concepts in programming and data science. Lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on Berkeley Time (10 minutes after the hour), and **attendance is mandatory**.
+
+During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes:
+* For us to get a gauge of how well the class understands the material we’re currently covering
+* For you to get a gauge of how well you understand the material we’re currently covering
+
+**Quick Checks are graded on completion, not correctness**. It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. If you have to miss a lecture for whatever reason, just answer that lecture’s Quick Check whenever you catch up on the lecture.
+
+Additionally, in some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them.
+
+### Lab
+There are two lab sections per week that follow immediately after the Tuesday and Thursday lectures. In lab, we’ll spend the first ~10 minutes going over some demos that are relevant to that week’s material. You'll spend the remaining ~40 minutes working on the lab notebook that is available on the course website. Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. While working on lab notebooks is required, **the notebooks themselves are not graded** — so don't worry if you don't finish the full notebook by the end of the lab.
+
+Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. **Discussing questions and approaches to problems with classmates is highly encouraged**, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks.
+
+### Discussion
+
+### Homework
+
+
+### Office Hours and Ed
+
+### Quizzes and Exams
+
+This course does not have a midterm. Instead
+
 ## Communication	&#x1F4AC;
 
 This class **does not** use bCourses — all of the materials and assignments for the class can be found on the Data 6 website.
@@ -89,20 +123,6 @@ Since all Data 6 material is accessible online, there are no requirements in ter
 Here are a few helpful resources when it comes to technology:
 * Read this [Berkeley IT website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
 * The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students.
-
-## Course Components	&#x1F4D2;
-
-### Lecture
-
-### Lab
-
-### Homework
-
-### Office Hours and Ed
-
-### Quizzes and Exams
-
-This course does not have a midterm. Instead
 
 ## Policies &#x1F4D1;
 

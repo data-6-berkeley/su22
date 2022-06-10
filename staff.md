@@ -6,7 +6,7 @@ description: Data 6 Summer 2022 Course Staff.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+Read more about our amazing Data 6 course staff below! We're all current or recent Berkeley undergraduates, so feel free to reach out with any questions about life at UC Berkeley, the data science major, or anything else Cal related!
 
 ## Instructors
 
