@@ -91,15 +91,40 @@ There are two lab sections per week that follow immediately after the Tuesday an
 Lab notebooks are also great opportunities to work on problems with your peers. The hope is that by participating and collaborating during labs, you will be able to better understand the concepts and finish your homework more quickly. **Discussing questions and approaches to problems with classmates is highly encouraged**, but please note that you must always write your own answers and code in your jupyter notebooks, both on labs and homeworks.
 
 ### Discussion
+Each Friday, we will have a discussion section led by your uGSI. In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you might be asked to complete some short prep work consisting of a few short readings. We will posts the readings on the course website at the beginning of the week.
+
+On some Fridays, we might have guest speakers or do review for an upcoming quiz or final.
+
+**Participation during discussion (and other parts of the course) is part of your grade.** We hope to have you drive our discussions, so we encourage you to ask questions, raise new points, or make connections to your own experiences.
+
+Sometimes, discussion topics will include content covering sensitive issues, like racial bias in algorithms or the implications of data-driven policing and sentencing decisions. These issues are important to discuss because they are real-world consequences of data science and algorithms. Part of being a good data scientist is understanding the impact of your work, and working to mitigate the disparate impacts that data science might have on certain populations.
 
 ### Homework
+You learn data science by **doing** data science, not by just listening to lectures or reading a textbook. As such, homework assignments will be your primary source of learning in this class.
 
+Homeworks will consist mainly of programming problems that challenge you to apply the skills you learned in recent lectures to accomplish tasks involving real data. The homeworks use autograder tests that will tell you if you are on the right track. There are additional autograder tests that will not be visible to you that we will use to grade your work, so don't assume that just because the public autograder tests are passing that your answers are all correct. **Always remeber to double check your code!** Most homeworks will also include a few written response problems, where you will have to type your answer in text. These problems will be manually graded by a human on course staff, and often there is no single 'right' solution. We are mainly looking for you to show understanding of what you are doing and to explain your reasoning behind certain answers.
+
+Homeworks, like all course materials, can be accessed by clicking on the correct link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you're done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to Gradescope so that we can grade it. We will go over this process in more detail in lecture.
+
+There are 5 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies) section for our extensions and late submissions policy, as well as the homework drop policy.
+
+Homework assignments are meant to be completed individually, but we encourage your to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable collaboration.
 
 ### Office Hours and Ed
+In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will get a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](./schedule/) for more details about office hours.
+
+While office hours are not mandatory, we **highly recommend** attending them regularly. Most students find that office hours help them to work through assigments, and find other students who are working on the same problems. Attending Data 6 office hours is also a great way to familiarize yourself with the office hours environment for a lot of data science and computer science classes, where you will have to rely on working with peers due to a limited number of available TAs.
+
+Aside from office hours, we also encourage you to ask and answer questions about assignments and concepts on Ed. You can think about Ed as "24/7 office hours". While you shouldn't be surprised if a member of course staff answers your question at 1 AM, please be patient after posting a question on Ed — we have a lot of questions to answer. It also helps to search Ed to see if someone else has asked a similar question, and if that question has already been answered.
 
 ### Quizzes and Exams
+This course does not have a midterm. Instead, we will have two short quizzes in class, each worth 10% of your final grade. Quizzes are **not** cumulative, so they will focus only on (roughly) the past two weeks worth of lecture content. Quizzes are intended to test your understanding of key concepts, but are not intended to 'trick' you. We will also hold review sessions during discussion before each quiz to help you prepare. The tentative dates for the quizzes are:
+* Quiz 1: Monday, July 18th
+* Quiz 2: Monday, August 1st
 
-This course does not have a midterm. Instead
+We will have a final exam during the campus-assigned slot: **Friday August 12th, 10AM - 12PM.** The exam is worth 15% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
+
+We will post more details about quizzes and exams on Ed.
 
 ## Communication	&#x1F4AC;
 
@@ -138,13 +163,56 @@ Here's how we will calculate your final grade:
 | Quizzes | 20% | 2 quizzes (10% each) |
 | Final Exam | 15% | In-Class on 8/12 |
 
+### Participation
+Participation is 15% of your final grade, so we expect you to participate during labs and discussion sections. Participation can take a variety of forms, including asking questions, working with peers on problems, volunteering answers, and completing practice problems.
+
+You can also get credit for participation by asking questions during lecture, and asking and answering questions on Ed.
+
+### Weekly Surveys
+Each week, we will send out a survey to hear how you’re doing, both academically and personally. We will use survey responses to better support students throughout the semester, identify concepts we need to review, and generally improve the course.
+
+The surveys will be anonymous and we encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you. Since the surveys are anonymous, if you need individual support (e.g. you are struggling on assignments, you are worried about your performance on a quiz, etc.) we encourage you to send a private message to course staff on Ed. You are also welcome to email us directly.
+
+Weekly surveys will be released on the course website at the same time we release homework assignments (on Thursdays) and will be due the following week. There are no drops for surveys but we will be lenient with their deadlines.
+
+### Homework Drops and Extra Credit
+There will be 5 homework assignments, but we will automatically drop your lowest homework assignment score. This means each homework is worth 10% of your overall grade in the class. If you decide to 'use' a homework drop for a particular assignment, you don't have to submit that homework if you don't want to. But remember that all homeworks cover material that is 'in scope' for the final exam, so we still encourage you to work through all of the homework assignments.
+
+In order to encourage you to start and finish homework assignments early, you can receive 1 extra credit point (homework bonus point) if you submit your homework by **11PM on Wednesday** (24 hours before the regular deadline). We will add this extra credit point to your homework grade.   
+
 ### Late Policy and Extensions
+Homework assignments are due on Gradescope at 11PM on Thursdays. We will have a small, undisclosed grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
+
+If you submit your homework late and do not have an extension (see below), we will still accept your submission up to one day late with a 50% late penalty. So if you scored 90% on a homework and submitted 12 hours after the deadline, your grade for that homework would be 45%. We will not accept homeworks past one day after the submission deadline.
+
+**Extensions**: Things happen, and we don't want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** James and Will with the reason for your request and the number of days you are requesting an extension for (maximum of 2 days). As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope.
+
+If you require assignment extensions as a DSP accommodations, please see the DSP [accommodations](#accommodations) process below.
 
 ### Academic Honesty
+This may be the first class you take at UC Berkeley, or the first college class you have ever taken — we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.
+
+Data science is a collaborative activity. As such, we encourage you to discuss homework and lab assignments at a high level with other students. With that said, you must write all code and solutions individually in your own words. **Rather than copying someone else's work, ask for help.** You are not alone in this course! We're here to help you succeed, and if you invest the time to learn the materal and complete the assignments, you won't need to copy any answers (taken from CS 61A). If you use code you found online, please cite it in a comment and briefly explain what the code does.
 
 ### A Note on Letter Grades
+*The following is adapted from Data 6 Summer 2021 and from CSE 160 at the University of Washington.*
+
+**This class is not curved** in the sense that we have set a class average (at, for example, a B+) and require that half of the class receive a grade lower than that. If everyone does well and shows mastery of the material, everyone will receive and A.
+
+We will, however, curve to ensure that demonstrating a sufficient understanding and mastery of key concepts will be enough to receive an A in the class. There is no pre-determined score (e.g. 90% of all possible points) that will earn an A or a B or a C or any other grade. To determine final grades, we will ask questions like "Did this student master the material?" and "Did this student show improvement over the course of the class?".
+
+**In other words, we may curve up, but will never curve down.**
+
+Try your best not to worry about grades, and we'll reciprocate by being fair and lenient. We're in this together, and we want you to focus on learning, not grades.
 
 ## Accommodations	&#x1F91D;
+Everyone learns differently, and supporting each student individually is part of our job as instructors. We will make every effort to accommodate students to ensure that you can learn safely and comfortably.
+
+If you have a disability, you can email James ([jweichert@berkeley.edu]) and Will ([willfurtado@berkeley.edu]) and we can discuss options for accommodations. You can also communicate with the Disabled Students Program (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
+
+If you are a first-time student and anticipating DSP accommodations in furture classes, we recommend starting the DSP onboarding process over the summer when DSP is less busy. In past years, the DSP intake process has taken up to four weeks for some students. Once you register with DSP, the process for requesting accommodations in each of your classes is usually much smoother.
+
+If you have reached out to DSP but have not heard back yet, we will gladly honor your accommodations while DSP processes your intake.
 
 ## Acknowledgements 🙏
 
