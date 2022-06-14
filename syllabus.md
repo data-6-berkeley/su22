@@ -106,12 +106,12 @@ Homeworks will consist mainly of programming problems that challenge you to appl
 
 Homeworks, like all course materials, can be accessed by clicking on the correct link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you're done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to Gradescope so that we can grade it. We will go over this process in more detail in lecture.
 
-There are 5 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies) section for our extensions and late submissions policy, as well as the homework drop policy.
+There are 5 homework assignments, which correspond to roughly one per week. In general, homework assignments will be released on Thursday afternoon and will be due the following Thursday at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
 
 Homework assignments are meant to be completed individually, but we encourage your to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable collaboration.
 
 ### Office Hours and Ed
-In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will get a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](./schedule/) for more details about office hours.
+In addition to lecture, lab and discussion, we will host office hours each week. In office hours, you will get a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](http://www.data6.org/su22/schedule) for more details about office hours.
 
 While office hours are not mandatory, we **highly recommend** attending them regularly. Most students find that office hours help them to work through assigments, and find other students who are working on the same problems. Attending Data 6 office hours is also a great way to familiarize yourself with the office hours environment for a lot of data science and computer science classes, where you will have to rely on working with peers due to a limited number of available TAs.
 
@@ -187,7 +187,7 @@ If you submit your homework late and do not have an extension (see below), we wi
 
 **Extensions**: Things happen, and we don't want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** James and Will with the reason for your request and the number of days you are requesting an extension for (maximum of 2 days). As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope.
 
-If you require assignment extensions as a DSP accommodations, please see the DSP [accommodations](#accommodations) process below.
+If you require assignment extensions as a DSP accommodations, please see the DSP [accommodations](#accommodations-) process below.
 
 ### Academic Honesty
 This may be the first class you take at UC Berkeley, or the first college class you have ever taken — we know that taking your first class can be stressful. But the main point of this class (and of data science in general) is to try things out and learn from your mistakes, not necessarily to get everything right on the first try. This class is designed to encourage you to learn through exploration, so we hope you focus on learning skills that you might use later, instead of focusing on getting a good grade.
@@ -195,7 +195,7 @@ This may be the first class you take at UC Berkeley, or the first college class 
 Data science is a collaborative activity. As such, we encourage you to discuss homework and lab assignments at a high level with other students. With that said, you must write all code and solutions individually in your own words. **Rather than copying someone else's work, ask for help.** You are not alone in this course! We're here to help you succeed, and if you invest the time to learn the materal and complete the assignments, you won't need to copy any answers (taken from CS 61A). If you use code you found online, please cite it in a comment and briefly explain what the code does.
 
 ### A Note on Letter Grades
-*The following is adapted from Data 6 Summer 2021 and from CSE 160 at the University of Washington.*
+*The following is adapted from Data 6 Summer 2021 and from [CSE 160](https://courses.cs.washington.edu/courses/cse160/20au/syllabus/index.html#curve) at the University of Washington.*
 
 **This class is not curved** in the sense that we have set a class average (at, for example, a B+) and require that half of the class receive a grade lower than that. If everyone does well and shows mastery of the material, everyone will receive and A.
 
@@ -208,7 +208,7 @@ Try your best not to worry about grades, and we'll reciprocate by being fair and
 ## Accommodations	&#x1F91D;
 Everyone learns differently, and supporting each student individually is part of our job as instructors. We will make every effort to accommodate students to ensure that you can learn safely and comfortably.
 
-If you have a disability, you can email James ([jweichert@berkeley.edu]) and Will ([willfurtado@berkeley.edu]) and we can discuss options for accommodations. You can also communicate with the Disabled Students Program (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
+If you have a disability, you can email James ([jweichert@berkeley.edu](jweichert@berkeley.edu)) and Will ([willfurtado@berkeley.edu](willfurtado@berkeley.edu)) and we can discuss options for accommodations. You can also communicate with the Disabled Students Program (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
 
 If you are a first-time student and anticipating DSP accommodations in furture classes, we recommend starting the DSP onboarding process over the summer when DSP is less busy. In past years, the DSP intake process has taken up to four weeks for some students. Once you register with DSP, the process for requesting accommodations in each of your classes is usually much smoother.
 
