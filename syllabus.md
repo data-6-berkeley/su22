@@ -75,7 +75,7 @@ Part of making sure that we're providing the best learning experience for you is
 All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing.      
 
 ### Lecture
-There will be four lectures per week. n lecture, we’ll introduce you to new ideas and concepts in programming and data science. Lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on Berkeley Time (10 minutes after the hour), and **attendance is mandatory**.
+There will be four lectures per week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. Lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on Berkeley Time (10 minutes after the hour), and **attendance is mandatory**.
 
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes:
 * For us to get a gauge of how well the class understands the material we’re currently covering
