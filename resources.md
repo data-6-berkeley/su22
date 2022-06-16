@@ -39,7 +39,7 @@ All of these textbooks cover the fundamentals of Python, but in slightly differe
 
 **We do not expect you to read these textbooks in their entirety** (in fact, most of their material is out of scope for this class).
 
-* C[omputational and Inferential Thinking](http://inferentialthinking.com/), the textbook for Data 8 at UC Berkeley, overlaps with our course significantly with Data 6, though there’s a lot in there that we won’t cover and there’s a lot that we’ll cover that won’t be in there.
+* [Computational and Inferential Thinking](http://inferentialthinking.com/), the textbook for Data 8 at UC Berkeley, overlaps with our course significantly with Data 6, though there’s a lot in there that we won’t cover and there’s a lot that we’ll cover that won’t be in there.
 * [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html) is also a good references that covers the material in our class and more.
 * [Composing Programs](http://composingprograms.com/), the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless.
 * [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is also a great reference.
