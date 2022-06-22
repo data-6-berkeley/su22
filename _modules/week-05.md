@@ -7,16 +7,16 @@ Aug 1
 : **Lab 8**{: .label .label-lab} [For Loops](#)
 
 Aug 2
-: **18**{: .label} File Formats, Dictionaries (I)
+: **21**{: .label} File Formats, Dictionaries (I)
   <!--: [Slides](#) &#8226; [Code](#)-->
 
 Aug 3
-: **19**{: .label} Dictionaries (II)
+: **22**{: .label} Dictionaries (II)
   <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 9**{: .label .label-lab} [Dictionaries](#)
 
 Aug 4
-: **20**{: .label} Case Study, Maps
+: **23**{: .label} Maps
   <!--: [Slides](#) &#8226; [Code](#)-->
 
 Aug 5

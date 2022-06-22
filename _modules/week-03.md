@@ -4,21 +4,22 @@ title: Week 3 — Tables
 
 Jul 18
 : **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
-: **9**{: .label} Row Manipulation
+: **11**{: .label} Row Manipulation
   <!--: [Slides](#) &#8226; [Code](#)-->
 : *Optional Reading*
 
 Jul 19
-: **10**{: .label} Row Methods, Joining Tables
+: **12**{: .label} Row Methods, Joining Tables
   <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 4**{: .label .label-lab} [Tables](#)
 
 Jul 20
-: **11**{: .label} Grouping, Pivoting, Functions (I)
+: **13**{: .label} Grouping, Pivoting
+: **14**{: .label} Functions (I)
   <!--: [Slides](#) &#8226; [Code](#)-->
 
 Jul 21
-: **12**{: .label} Applying
+: **15**{: .label} Applying
   <!--: [Slides](#) &#8226; [Code](#)-->
 : **Lab 5**{: .label .label-lab} [More Table Methods](#)
 
