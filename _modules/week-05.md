@@ -21,4 +21,4 @@ Aug 4
 
 Aug 5
 : **Discussion 5**{: .label .label-discussion} Data in Elections
-: **Homework 5**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Aug 10 @ 11:00PM**
+: **Homework 5**{: .label .label-homework} [Dictionaries](#) &nbsp;**Due Aug 10 @ 11:00PM**

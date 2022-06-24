@@ -25,4 +25,4 @@ Jul 21
 
 Jul 22
 : **Discussion 3**{: .label .label-discussion} Algorithmic Bias
-: **Homework 3**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 28 @ 11:00PM**
+: **Homework 3**{: .label .label-homework} [Table Methods](#) &nbsp;**Due Jul 28 @ 11:00PM**
