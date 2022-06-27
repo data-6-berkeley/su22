@@ -4,21 +4,24 @@ title: Week 1 — Introduction to Python
 
 Jul 5
 : **1**{: .label} Introduction, Course Overview
-  : [Slides](#) &#8226; [Code](#)
+  <!--: [Slides](https://docs.google.com/presentation/d/1jfR2OKvD7dBrx_TOVZyZaMwSRIVW9Yy9-ldmq8YNCYo/edit?usp=sharing) &#8226; [Code](#)-->
 : **2**{: .label} Jupyter Notebooks, Arithmetic
-  : [Slides](#) &#8226; [Code](#)
-: *Optional Reading*
+  <!--: [Slides](https://docs.google.com/presentation/d/1JOLj09rJKc8ZzMXaSOAWVmjIiUvVttR25jzISGEJew0/edit?usp=sharing) &#8226; [Code](#)-->
+: *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
 
 Jul 6
-: **3**{: .label} Variables and Types
-  <!--: [Slides](#) &#8226; [Code](#)-->
+: **3**{: .label} Evaluation, Names, Data Types
+  <!--: [Slides](https://docs.google.com/presentation/d/1fHffwUzmFtkbICca6rPZ_bhfmdUr3lwaTdrYpNm_Tk8/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: *Optional Reading:* [CP 1.2](http://composingprograms.com/pages/12-elements-of-programming.html); [CIT 3.2](https://inferentialthinking.com/chapters/03/2/Names.html), [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html), [4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)-->
 : **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](#)
 
 Jul 7
-: **4**{: .label} Sequences and Strings
-: **5**{: .label} NumPy, Data Assumptions
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:00PM**
+: **4**{: .label} Arrays and Variables
+  <!--: [Slides](https://docs.google.com/presentation/d/17m-CZszX3C10LFEcGlR7SqAtb8Z4X0f4rwsYPu5FmpU/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: *Optional Reading:* [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CIT 5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)-->
+: **5**{: .label} NumPy, Indexing, Working with Data
+  <!--: [Slides](https://docs.google.com/presentation/d/18-ZWDfrBDyKX25Ivyn-rrSbnitgZsRWvcBcWHtfXUyw/edit?usp=sharing) &#8226; [Code](#)-->
+: **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 14 @ 11:00PM**
 
 Jul 8
 : **Discussion 1**{: .label .label-discussion} Health Data

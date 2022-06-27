@@ -20,11 +20,11 @@ description: >-
 ## Python Documentation
 
 Learning a new programming language like Python is a lot like learning a new language: you have to learn vocabulary and learn how to string words together to make sentences that are gramatically and syntactically correct. Just like you might use a dictionary to learn the meaning of new words, programmers use **documentation** to understand what functions and data types do and how they operate. Here are documentation sources that are helpful for understanding the functions and objects we use in Data 6:
-* [Data 6 Python Reference Guide](https://data6.org/su22/reference/)
+* [Data 6 Python Reference Guide](https://data6.org/su22/reference/) (D6PR)
   * This has documentation for all of the functions we expect you to know in Data 6. You can use this as your "cheat sheet" while working on assignments. We will also provide a shortened version of the reference guide for the final exam.
-* [Data 8 Python Reference](http://data8.org/sp22/python-reference.html)
+* [Data 8 Python Reference](http://data8.org/sp22/python-reference.html) (D8PR)
   * The Data 6 Python Reference is based off of the Python Reference for Data 8, which contains many of these same functions that we use plus some that are out of scope for this class.
-* [Stanford’s Python Reference](https://cs.stanford.edu/people/nick/py),
+* [Stanford’s Python Reference](https://cs.stanford.edu/people/nick/py) (SPR)
   * This website is a Python guide written for Stanford’s intro CS class, and is a great reference if you need a refresher on how something works in Python.
 * [Official Python Documentation](https://docs.python.org/3/tutorial/index.html)
   * This may be helpul if you want to learn more about the intricate details of how Python works, but just remember that a lot of these details are out of scope for this class.
@@ -39,9 +39,9 @@ All of these textbooks cover the fundamentals of Python, but in slightly differe
 
 **We do not expect you to read these textbooks in their entirety** (in fact, most of their material is out of scope for this class).
 
-* [Computational and Inferential Thinking](http://inferentialthinking.com/), the textbook for Data 8 at UC Berkeley, overlaps with our course significantly with Data 6, though there’s a lot in there that we won’t cover and there’s a lot that we’ll cover that won’t be in there.
-* [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html) is also a good references that covers the material in our class and more.
-* [Composing Programs](http://composingprograms.com/), the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless.
+* [Computational and Inferential Thinking](http://inferentialthinking.com/) (CIT), the textbook for Data 8 at UC Berkeley, overlaps with our course significantly with Data 6, though there’s a lot in there that we won’t cover and there’s a lot that we’ll cover that won’t be in there.
+* [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html) (PPDS) is also a good references that covers the material in our class and more.
+* [Composing Programs](http://composingprograms.com/) (CP), the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless.
 * [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is also a great reference.
 
 ## Other
