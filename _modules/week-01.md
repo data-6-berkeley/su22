@@ -8,6 +8,7 @@ Jul 5
 : **2**{: .label} Jupyter Notebooks, Arithmetic
   <!--: [Slides](https://docs.google.com/presentation/d/1JOLj09rJKc8ZzMXaSOAWVmjIiUvVttR25jzISGEJew0/edit?usp=sharing) &#8226; [Code](#)-->
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
+: **Survey**{: .label .label-survey} Welcome Survey &nbsp; **Due Jul 5 @ 11:00PM**
 
 Jul 6
 : **3**{: .label} Evaluation, Names, Data Types
