@@ -24,8 +24,9 @@ Jul 28
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
 : **Lab 7**{: .label .label-lab} Python Fundamentals
+: **Homework 7**{: .label .label-homework} Python Fundamentals &nbsp;**Due Aug 2 @ 11:00PM**
+: **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 2 @ 11:00PM**
 
 Jul 29
 : **Discussion 4**{: .label .label-discussion} Privacy
 : **R**{: .label} Quiz Review
-: **Homework 7**{: .label .label-homework} Python Fundamentals &nbsp;**Due Aug 2 @ 11:00PM**

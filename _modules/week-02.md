@@ -25,8 +25,9 @@ Jul 14
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
 : **Lab 3**{: .label .label-lab} More Visualization
+: **Homework 2**{: .label .label-homework} Data Visualization &nbsp;**Due Jul 21 @ 11:00PM**
+: **Survey**{: .label .label-survey} Weekly Survey 2 &nbsp;**Due Jul 21 @ 11:00PM**
 
 Jul 15
 : **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
 : **R**{: .label} Quiz Review
-: **Homework 2**{: .label .label-homework} Data Visualization &nbsp;**Due Jul 21 @ 11:00PM**

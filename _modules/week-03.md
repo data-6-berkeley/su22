@@ -25,7 +25,8 @@ Jul 21
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
 : **Lab 5**{: .label .label-lab} More Table Methods
+: **Homework 3**{: .label .label-homework} Table Methods &nbsp;**Due Jul 28 @ 11:00PM**
+: **Survey**{: .label .label-survey} Weekly Survey 3 &nbsp;**Due Jul 28 @ 11:00PM**
 
 Jul 22
 : **Discussion 3**{: .label .label-discussion} Algorithmic Bias
-: **Homework 3**{: .label .label-homework} Table Methods &nbsp;**Due Jul 28 @ 11:00PM**

@@ -21,7 +21,8 @@ Aug 4
 : **23**{: .label} Maps
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
+: **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 10 @ 11:00PM**
+: **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 10 @ 11:00PM**
 
 Aug 5
 : **Discussion 5**{: .label .label-discussion} Data in Elections
-: **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 10 @ 11:00PM**

@@ -10,7 +10,7 @@ We're excited to be teaching Data 6 this summer, and hope you'll enjoy this clas
 
 If you don't have access to either of the websites, please email <a>jweichert@berkeley.edu</a>.
 
-Finally, please fill out this [welcome form](https://forms.gle/Lt3kpKHFY2JBTKRc6) before the first day of class so we can get to know a little bit more about you and how we can best support you in the class.
+Finally, please fill out this [welcome survey](https://forms.gle/Lt3kpKHFY2JBTKRc6) before the first day of class so we can get to know a little bit more about you and how we can best support you in the class.
 
 Best, [James](https://data6.org/su22/staff/#instructors) and [Will](https://data6.org/su22/staff/#instructors)
 {: .fs-5 }

@@ -23,6 +23,7 @@ Jul 7
 : **5**{: .label} NumPy, Indexing, Working with Data
   <!--: [Slides](https://docs.google.com/presentation/d/18-ZWDfrBDyKX25Ivyn-rrSbnitgZsRWvcBcWHtfXUyw/edit?usp=sharing) &#8226; [Code](#)-->
 : **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 14 @ 11:00PM**
+: **Survey**{: .label .label-survey} Weekly Survey 1 &nbsp;**Due Jul 14 @ 11:00PM**
 
 Jul 8
 : **Discussion 1**{: .label .label-discussion} Health Data
