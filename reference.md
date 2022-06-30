@@ -37,7 +37,7 @@ In the function above, `my_function` is the name of the function, which takes on
 
 * The **Function** column tells you how to call the function and what arguments it accepts. Everything written in `this font` is code or refers to a particular argument in the function (e.g. `num` in `np.sqrt(num)`).
 * The **Description** column gives you a brief description of what the function does, including what each argument is used for
-* The **Input** column tells you what data type each argument needs to be. If you're getting a `TypeError`, it might be because your inputs are of the wrong type. Data types are indicates in bold (e.g. **string** or **Table**).
+* The **Input** column tells you what data type each argument needs to be. If you're getting a `TypeError`, it might be because your inputs are of the wrong type. Data types are indicated in bold (e.g. **string** or **Table**).
 * The **Output** column tells you what the function returns and what data type it is.
 
 <hr>
