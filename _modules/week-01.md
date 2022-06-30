@@ -8,7 +8,7 @@ Jul 5
 : **2**{: .label} Jupyter Notebooks, Arithmetic
   <!--: [Slides](https://docs.google.com/presentation/d/1JOLj09rJKc8ZzMXaSOAWVmjIiUvVttR25jzISGEJew0/edit?usp=sharing) &#8226; [Code](#)-->
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
-: **Survey**{: .label .label-survey} Welcome Survey &nbsp; **Due Jul 5 @ 11:00PM**
+: **Survey**{: .label .label-survey} [Welcome Survey](https://forms.gle/Lt3kpKHFY2JBTKRc6) &nbsp; **Due Jul 5 @ 11:00PM**
 
 Jul 6
 : **3**{: .label} Evaluation, Names, Data Types
@@ -22,6 +22,7 @@ Jul 7
   <!--: *Optional Reading:* [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CIT 5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)-->
 : **5**{: .label} NumPy, Indexing, Working with Data
   <!--: [Slides](https://docs.google.com/presentation/d/18-ZWDfrBDyKX25Ivyn-rrSbnitgZsRWvcBcWHtfXUyw/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)-->
 : **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 14 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 1 &nbsp;**Due Jul 14 @ 11:00PM**
 
