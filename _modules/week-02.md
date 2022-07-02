@@ -12,7 +12,7 @@ Jul 12
 : **8**{: .label} Visualizing Categorical Variables
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
-: **Lab 2**{: .label .label-lab} Visualization Fundamentals
+: **Lab 2**{: .label .label-lab} [Visualization Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab02%2Flab02.ipynb&branch=main)
 
 Jul 13
 : **9**{: .label} Visualizing Numerical Variables
