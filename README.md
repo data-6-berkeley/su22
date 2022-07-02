@@ -1,3 +1,3 @@
-# su22
+# Introduction to Computation Thinking with Data
 
-Public repo with all content for Data 6, Summer 2022 @ UC Berkeley.
+Public repository holding all content for Data 6, Summer 2022 @ UC Berkeley.
