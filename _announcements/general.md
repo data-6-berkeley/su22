@@ -13,4 +13,13 @@ If you don't have access to either of these websites, please email <a>jweichert@
 Finally, please fill out this [welcome survey](https://forms.gle/Lt3kpKHFY2JBTKRc6) before the first day of class so we can get to know a little bit more about you and how we can best support you in the class.
 
 Best, [James](https://data6.org/su22/staff/#instructors) and [Will](https://data6.org/su22/staff/#instructors)
+
+<!--Congratulations on finishing your first day of Data 6! Here are some announcements for this week:
+
+* **Homework 1** will be released tomorrow (7/7) and will be due next Thursday (7/14) at 11 PM
+* **Lab** starts today at 11 AM in Wheeler 212
+* **Office** Hours start tomorrow at 1 PM in Evans 6 (OH will be held every Tuesday and Thursday 1-3 PM in Evans 6)
+* **Discussion** begins tomorrow at 10 AM in Dwinelle 105 and Dwinelle 130. Check CalCentral to find out which discussion section you’re in
+-->
+
 {: .fs-5 }
