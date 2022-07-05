@@ -4,9 +4,9 @@ title: Week 1 — Introduction to Python
 
 Jul 5
 : **1**{: .label} Introduction, Course Overview
-  <!--: [Slides](https://docs.google.com/presentation/d/1jfR2OKvD7dBrx_TOVZyZaMwSRIVW9Yy9-ldmq8YNCYo/edit?usp=sharing) &#8226; [Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1jfR2OKvD7dBrx_TOVZyZaMwSRIVW9Yy9-ldmq8YNCYo/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec01%2Flec01.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec01%2Flec01-blank.ipynb&branch=main)
 : **2**{: .label} Jupyter Notebooks, Arithmetic
-  <!--: [Slides](https://docs.google.com/presentation/d/1JOLj09rJKc8ZzMXaSOAWVmjIiUvVttR25jzISGEJew0/edit?usp=sharing) &#8226; [Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1JOLj09rJKc8ZzMXaSOAWVmjIiUvVttR25jzISGEJew0/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec02%2Flec02.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec02%2Flec02-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
 : **Survey**{: .label .label-survey} [Welcome Survey](https://forms.gle/Lt3kpKHFY2JBTKRc6) &nbsp; **Due Jul 5 @ 11:00PM**
 
