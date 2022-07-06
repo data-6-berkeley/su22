@@ -59,9 +59,11 @@ In the function above, `my_function` is the name of the function, which takes on
 | **Function** | **Description** | **Input** | **Output** |
 | `make_array(val1, val2, ...)` | Makes a NumPy array with the inputted values | A sequence of values | An **array** with those values |
 | `np.mean(arr)` or `np.average(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: The average of the array |
+| `np.sum(arr)` | Returns the sum of the values in `arr` | **array** | **int** or **float**: the sum of the values in the array |
+| `np.prod(arr)` | Returns the product of the values in `arr` | **array** | **int** or **float**: the product of the values in the array |
 | `np.sqrt(num)` | Calculates the square root of `num` | **int** or **float** | **float** : the square root of the number |
 | `np.arange(stop)`, `np.arange(start, stop)`, or `np.arange(start, stop, step)` | Creates an array of sequential numbers starting at `start`, going up in increments of `step`, and going up to but excluding `stop`. Default `start` is 0, default `step` is 1 | **int** or **float** | **array** |
-| `np.count_nonzero(arr)` | Returns the number of non-zero (or `True`) elements in an array | An **array** of values |  **int**: the number of non-zero values in `arr` | 
+| `np.count_nonzero(arr)` | Returns the number of non-zero (or `True`) elements in an array | An **array** of values |  **int**: the number of non-zero values in `arr` |
 
 ## Tables and Table Methods
 
