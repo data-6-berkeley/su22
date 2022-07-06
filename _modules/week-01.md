@@ -19,10 +19,10 @@ Jul 6
 Jul 7
 : **4**{: .label} Arrays and Variables
   <!--: [Slides](https://docs.google.com/presentation/d/17m-CZszX3C10LFEcGlR7SqAtb8Z4X0f4rwsYPu5FmpU/edit?usp=sharing) &#8226; [Code](#)-->
-  <!--: *Optional Reading:* [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CIT 5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)-->
+: *Optional Reading:* [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CIT 5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)
 : **5**{: .label} NumPy, Indexing, Working with Data
   <!--: [Slides](https://docs.google.com/presentation/d/18-ZWDfrBDyKX25Ivyn-rrSbnitgZsRWvcBcWHtfXUyw/edit?usp=sharing) &#8226; [Code](#)-->
-  <!--: *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)-->
+: *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)
 : **Homework 1**{: .label .label-homework} Introduction to Python &nbsp;**Due Jul 14 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 1 &nbsp;**Due Jul 14 @ 11:00PM**
 
