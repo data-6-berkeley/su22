@@ -16,7 +16,7 @@ nav_exclude: true
 5. Run the very last cell, which generates a .zip file for you to download to your local computer. Click the "here" button to download the `.zip` file. The `.zip` file contains all of the necessary components of your submission.
   * You may receive an error that the .zip file was unable to be created because there was an issue with PDF generation. You need to ensure that you’ve answered all of the questions that require a manual response.
   * If your work downloads as several independent files rather than as a .zip, you are likely using Safari on a Mac. Follow these instructions to make sure you can download your work as a zip (try using Google Chrome).
-6. Upload this `.zip` to the correct assignment on Gradescope.
+6. Upload this `.zip` to the correct assignment on [Gradescope](https://www.gradescope.com/courses/402405).
   * You should already be added to Gradescope; email [James](jweichert@berkeley.edu) or [Will](willfurtado@berkeley.edu) if you aren’t.
   * If your submission time is 12:00am or later on the day after the deadline, your submission will be marked late.
 
