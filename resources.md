@@ -44,6 +44,7 @@ All of these textbooks cover the fundamentals of Python, but in slightly differe
 * [Composing Programs](http://composingprograms.com/) (CP), the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless.
 * [Problem Solving with Python](https://problemsolvingwithpython.com/) (PSP) teaches a lot of practical Python tools, and was written specifically for beginner engineering students.
 * [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is also a great reference.
+* [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader/) (RDV) provides an interesting overview of and introduction to data visualization. This text focuses more on the _design_ of visualizations instead of the technical aspects of creating them.
 
 ## Other
 
