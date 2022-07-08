@@ -1,0 +1,10 @@
+test = {   'name': 'q7a',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(indiv_height_m, float)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(indiv_height_m, 1.8796000000000002)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(indiv_mass_kg, float)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(indiv_mass_kg, 77.27272727272727)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
