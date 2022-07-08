@@ -14,7 +14,7 @@ Jul 6
 : **3**{: .label} Evaluation, Names, Data Types
   : [Slides](https://docs.google.com/presentation/d/1fHffwUzmFtkbICca6rPZ_bhfmdUr3lwaTdrYpNm_Tk8/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec03%2Flec03.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec03%2Flec03-blank.ipynb&branch=main)
 : *Optional Reading:* [CP 1.2](http://composingprograms.com/pages/12-elements-of-programming.html); [CIT 3.2](https://inferentialthinking.com/chapters/03/2/Names.html); [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html); [4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)
-: **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab01%2Flab01.ipynb&branch=main)
+: **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab01%2Flab01.ipynb&branch=main) ([Solutions](https://data6.org/su22/assignments/lab01-sols.pdf))
 
 Jul 7
 : **4**{: .label} Arrays and Variables
