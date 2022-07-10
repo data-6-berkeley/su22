@@ -28,4 +28,4 @@ Jul 7
 : **Survey**{: .label .label-survey} [Weekly Survey 1](https://forms.gle/pRCRzwNWao6fCBTH8) &nbsp;**Due Jul 15 @ 11:00PM**
 
 Jul 8
-: **Discussion 1**{: .label .label-discussion} [Health Data](https://data6.org/su22/assignments/disc01.pdf)
+: **Discussion 1**{: .label .label-discussion} [Health Data](https://data6.org/su22/assignments/disc01.pdf) ([Solutions](https://data6.org/su22/assignments/disc01-sols.pdf))
