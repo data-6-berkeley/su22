@@ -45,6 +45,8 @@ All of these textbooks cover the fundamentals of Python, but in slightly differe
 * [Problem Solving with Python](https://problemsolvingwithpython.com/) (PSP) teaches a lot of practical Python tools, and was written specifically for beginner engineering students.
 * [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is also a great reference.
 * [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader/) (RDV) provides an interesting overview of and introduction to data visualization. This text focuses more on the _design_ of visualizations instead of the technical aspects of creating them.
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) (FDV) is the online version of
+Claus Wilke's book that covers the basics of how to tell informative and ethical stories with data visualizations.
 
 ## Other
 
