@@ -59,7 +59,7 @@ schedule:
         start: 11:10 AM
         end: 12:00 PM
         location: 212 Wheeler
-      - name: Office Hours with Will
+      - name: Office Hours
         start: 4:10 PM
         end: 5:00 PM
         location: Online

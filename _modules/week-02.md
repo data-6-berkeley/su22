@@ -29,6 +29,7 @@ Jul 14
 : **Lab 3**{: .label .label-lab} Visualization Methods
 : **Homework 2**{: .label .label-homework} Table Methods and Data Visualization &nbsp;**Due Jul 21 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 2 &nbsp;**Due Jul 21 @ 11:00PM**
+<!-- [Weekly Survey 2](https://forms.gle/QXSvRtBLGmi9tx3D7)-->
 
 Jul 15
 : **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
