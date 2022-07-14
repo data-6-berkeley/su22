@@ -62,7 +62,7 @@ schedule:
       - name: Office Hours with Will
         start: 4:10 PM
         end: 5:00 PM
-        location: [Online](https://www.google.com/url?q=https://berkeley.zoom.us/j/95170994420&sa=D&source=calendar&ust=1658190097389562&usg=AOvVaw3oWRG757QxuHco_7GfKitm)
+        location: Online
   - name: Friday
     events:
       - name: Coffee Chats
