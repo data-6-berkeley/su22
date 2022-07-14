@@ -32,6 +32,6 @@ Jul 14
 <!-- [Weekly Survey 2](https://forms.gle/QXSvRtBLGmi9tx3D7)-->
 
 Jul 15
-: **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
-<!--: *Recommended Reading:* [RDV 5](https://mschermann.github.io/data_viz_reader/ethics.html#importance-of-ethics-in-visualization)-->
+: **Discussion 2**{: .label .label-discussion} [Data Humanism in Visualization](https://data6.org/su22/assignments/disc02.pdf)
+: *Recommended Reading:* ["Applying Racial Equity Awareness in Data Visualization"](https://data6.org/su22/assignments/RacialEquityinDataViz.pdf)
 : **R**{: .label} Quiz Review
