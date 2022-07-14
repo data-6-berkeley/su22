@@ -62,7 +62,7 @@ schedule:
       - name: Office Hours with Will
         start: 4:10 PM
         end: 5:00 PM
-        location: [Zoom](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDRyZmpsZW05YjFibmg0ZzhkcnBtY2d2YnNfMjAyMjA3MTRUMjMwMDAwWiB3aWxsZnVydGFkb0BiZXJrZWxleS5lZHU&tmsrc=willfurtado%40berkeley.edu&scp=ALL)
+        location: Online
 
   - name: Friday
     events:
