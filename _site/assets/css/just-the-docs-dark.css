@@ -2256,6 +2256,7 @@ figure.highlight pre, figure.highlight code, figure.highlight .code_block { padd
 .announcement .label.label-homework, .module .label.label-homework, .announcement .staffer .label-homework.staffer-pronouns, .staffer .announcement .label-homework.staffer-pronouns, .module .staffer .label-homework.staffer-pronouns, .staffer .module .label-homework.staffer-pronouns, .announcement div.label-homework.highlighter-rouge[overlay]::after, .module div.label-homework.highlighter-rouge[overlay]::after { background-color: #e94c4c; color: white; }
 .announcement .label.label-discussion, .module .label.label-discussion, .announcement .staffer .label-discussion.staffer-pronouns, .staffer .announcement .label-discussion.staffer-pronouns, .module .staffer .label-discussion.staffer-pronouns, .staffer .module .label-discussion.staffer-pronouns, .announcement div.label-discussion.highlighter-rouge[overlay]::after, .module div.label-discussion.highlighter-rouge[overlay]::after { background-color: #7253ed; color: white; }
 .announcement .label.label-exam, .module .label.label-exam, .announcement .staffer .label-exam.staffer-pronouns, .staffer .announcement .label-exam.staffer-pronouns, .module .staffer .label-exam.staffer-pronouns, .staffer .module .label-exam.staffer-pronouns, .announcement div.label-exam.highlighter-rouge[overlay]::after, .module div.label-exam.highlighter-rouge[overlay]::after { background-color: #e7af06; color: white; }
+.announcement .label.label-survey, .module .label.label-survey, .announcement .staffer .label-survey.staffer-pronouns, .staffer .announcement .label-survey.staffer-pronouns, .module .staffer .label-survey.staffer-pronouns, .staffer .module .label-survey.staffer-pronouns, .announcement div.label-survey.highlighter-rouge[overlay]::after, .module div.label-survey.highlighter-rouge[overlay]::after { background-color: #2869e6; color: white; }
 
 .main-content .module h1:first-child, .main-content .module h2:first-child, .main-content .module h3:first-child, .main-content .module h4:first-child, .main-content .module h5:first-child, .main-content .module h6:first-child, .module h1:first-child, .module h2:first-child, .module h3:first-child, .module h4:first-child, .module h5:first-child, .module h6:first-child { margin-top: 1rem; }
 .main-content .module > dl, .module > dl { border-bottom: 1px solid #44434d; border-top: 1px solid #44434d; display: grid; grid-template-columns: max-content 1fr; margin: 0.5rem -1rem; }
@@ -2348,3 +2349,12 @@ iframe, summary { max-width: 100%; }
 .code_block .func { color: #4A6096; }
 .code_block .num { color: #389468; }
 .code_block .op { color: #8F3D67; }
+
+/*
+table { font-size: 0.5em !important;
+}
+td { font-size: 1.2em !important;
+}
+code { font-size: 1em !important;
+}
+*/
