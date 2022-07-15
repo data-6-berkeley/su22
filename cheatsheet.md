@@ -38,7 +38,6 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `tbl.where(column, predicate)` | Creates a copy of `tbl` containing only the rows where the value of `column` matches the `predicate`. | 1. **string** or **int**: column name or index <br> 2. the value to match to | **Table**: copy of the  table with only the rows that match the predicate |
 | `tbl.take(row_indices)` | Creates a table with only the rows at the given indices. | **int** or **array**: indices of rows to be included in the table | **Table**: copy of the table with only the rows at the given indices |
 
-
 ### Visualization Functions
 
 | **Function** | **Description** | **Input** | **Output** |
