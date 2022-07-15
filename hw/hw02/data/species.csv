@@ -1,0 +1,4 @@
+species,bill_length_mm median,bill_depth_mm median,flipper_length_mm median,body_mass_g median
+Adelie,38.849999999999994,18.4,190.0,3700.0
+Chinstrap,49.55,18.45,196.0,3700.0
+Gentoo,47.4,15.0,216.0,5050.0
