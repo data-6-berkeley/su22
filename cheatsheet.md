@@ -5,12 +5,11 @@ tagline: Cheat sheet for quizzes and exams
 nav_exclude: true
 ---
 
-# Data 6 Python Cheat Sheet
-## Summer 2022
+# Data 6 Python Cheat Sheet (Quiz 1)
 _This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for Quiz 1._
 
 ## Built-In Python Functions
-
+<div class="small_table">
 | **Function** | **Description** | **Input** | **Output** |
 | `str(val)` | Converts `val` to a string | A value of any type (**int**, **float**, **NoneType**, etc.) | The value as a **string** |
 | `int(num)` | Converts `num` to an int | A numerical value (represented as a **string** or **float**) | The value as an **int** |
@@ -20,6 +19,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `min(arr)` | Returns the minimum value in `arr` | **array** or **list** | The minimum value the array (usually an **int**) |
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
+</div>
 
 ## NumPy Array Functions
 
