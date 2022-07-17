@@ -1,0 +1,10 @@
+test = {   'name': 'q2c',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(species_new, Table)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> species_new.labels == ('species', 'bill_length_mm median', 'bill_depth_mm median', 'code')\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> species_new.num_rows == 3\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> species_new.where("species", "Gentoo").first("code") == "G"\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
