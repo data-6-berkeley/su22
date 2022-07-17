@@ -6,7 +6,7 @@ Jul 18
 : **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **11**{: .label} Sorting, Filtering Rows
   <!--: [Slides](https://docs.google.com/presentation/d/15ueANqu_5gnzs8gwvQMEJYD-IFiecH1FsrwZ0ICHS-c/edit?usp=sharing) &#8226; [Code](#)-->
-: *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
+: *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html) 
 
 Jul 19
 : **12**{: .label} Row Methods, Joining Tables
