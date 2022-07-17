@@ -5,12 +5,12 @@ title: Week 3 — Tables
 Jul 18
 : **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
 : **11**{: .label} Sorting, Filtering Rows
-  <!--: [Slides](https://docs.google.com/presentation/d/15ueANqu_5gnzs8gwvQMEJYD-IFiecH1FsrwZ0ICHS-c/edit?usp=sharing) &#8226; [Code](#)-->
-: *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html) 
+  : [Slides](https://docs.google.com/presentation/d/15ueANqu_5gnzs8gwvQMEJYD-IFiecH1FsrwZ0ICHS-c/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec11%2Flec11.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec11%2Flec11-blank.ipynb&branch=main)
+: *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
 
 Jul 19
 : **12**{: .label} Row Methods, Joining Tables
-  <!--: [Slides](https://docs.google.com/presentation/d/1LAfU67-L7sR6v-GdOiZfbiZGQXta9Gf9l49meHiSfSY/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1LAfU67-L7sR6v-GdOiZfbiZGQXta9Gf9l49meHiSfSY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12-blank.ipynb&branch=main)-->
 <!--: *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)-->
 : **Lab 4**{: .label .label-lab} Tables
 
