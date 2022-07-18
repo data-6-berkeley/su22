@@ -10,9 +10,9 @@ Jul 18
 
 Jul 19
 : **12**{: .label} Row Methods, Joining Tables
-  <!--: [Slides](https://docs.google.com/presentation/d/1LAfU67-L7sR6v-GdOiZfbiZGQXta9Gf9l49meHiSfSY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12-blank.ipynb&branch=main)-->
-<!--: *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)-->
-: **Lab 4**{: .label .label-lab} Tables <!--: [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab04%2Flab04.ipynb&branch=main)-->
+  : [Slides](https://docs.google.com/presentation/d/1LAfU67-L7sR6v-GdOiZfbiZGQXta9Gf9l49meHiSfSY/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec12%2Flec12-blank.ipynb&branch=main)
+: *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
+: **Lab 4**{: .label .label-lab} [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab04%2Flab04.ipynb&branch=main)
 
 Jul 20
 : **13**{: .label} Functions (I)
