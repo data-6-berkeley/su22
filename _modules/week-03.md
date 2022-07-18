@@ -16,15 +16,15 @@ Jul 19
 
 Jul 20
 : **13**{: .label} Functions (I)
-  <!--: [Slides](https://docs.google.com/presentation/d/1tdU453UAoRG9Joala1QK-fVEhYEiax3D0RZVilmzVRU/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1tdU453UAoRG9Joala1QK-fVEhYEiax3D0RZVilmzVRU/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec13%2Flec13.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec13%2Flec13-blank.ipynb&branch=main)-->
 <!--: *Optional Reading:* [CIT 8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html), [PPDS 2.5](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#functions)-->
 : **14**{: .label} Grouping, Pivoting
-  <!--: [Slides](https://docs.google.com/presentation/d/1OQWMfzLQJ_TW2Bg4yobxyFpSnANs27YlUaGjwWqpvVM/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1OQWMfzLQJ_TW2Bg4yobxyFpSnANs27YlUaGjwWqpvVM/edit?usp=sharing) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 <!--: *Optional Reading:* [CIT 7.1.3](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html?highlight=group#grouping-categorical-data), [CIT 8.3.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html?highlight=pivot#pivot-tables-rearranging-the-output-of-group), [Table Function Visualizer](http://data8.org/interactive_table_functions/)-->
 
 Jul 21
 : **15**{: .label} Applying
-  <!--: [Slides](https://docs.google.com/presentation/d/1J-ziM0rifderMPlXPnrQOoPDWhjpDGyin_UFxySj13o/edit?usp=sharing) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1J-ziM0rifderMPlXPnrQOoPDWhjpDGyin_UFxySj13o/edit?usp=sharing) &#8226; [Code](#) &#8226; [Blank Code](#)-->
 <!--: *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)-->
 : **Lab 5**{: .label .label-lab} More Table Methods
 : **Homework 3**{: .label .label-homework} Table Methods &nbsp;**Due Jul 28 @ 11:00PM**

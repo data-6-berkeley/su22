@@ -1,17 +1,18 @@
 ---
-title: Week 2 Announcements
-week: 2
-date: 2022-07-11
+title: Week 3 Announcements
+week: 3
+date: 2022-07-18
 ---
 
-Congratulations on finishing your week of Data 6! Here are this week’s announcements:
+Welcome to week 3 of Data 6! Here are the announcements for this week:
 
-* **Homework 1** and **Survey 1** have been released and will be due on **Friday (7/15) at 11 PM** (we extended the deadline by a day)
-    * If you are having issues accessing the homework assignment, post on Ed or come to office hours
-* **Office Hours** are on Tuesdays and Thursdays 1-3 PM in Evans 6
-    * Office hours are a great opportunity to ask questions about difficult concepts or to get help with assignments
-    * You can also post any assignment or conceptual questions on Ed
-* James will be holding **Coffee Chats** at [Caffe Strada](https://www.google.com/maps/place/Caff%C3%A8+Strada/@37.869146,-122.254859,15z/data=!4m2!3m1!1s0x0:0x43f6bea2790d5d28?sa=X&ved=2ahUKEwjjk-n38en4AhXDKkQIHdpBDk0Q_BJ6BAhqEAU) on Fridays at 9am. These are completely optional but you’re welcome to come if you want to ask conceptual questions about Data 6 or ask any questions about life at Berkeley, the Data Science major, or more!
+* **Homework 2** and **Survey 2** have been released and will be due on **Thursday (7/21) at 11 PM**
+    * We recommend starting on this homework early and utilizing office hours and Ed to get help
+* The **Office Hours** [schedule](https://data6.org/su22/schedule/) has changed to make sure it aligns with the SEED schedule:
+    * Starting this week, we will have in-person office hours from **3 PM to 5 PM** on **Tuesdays** and **Wednesdays** in **_Evans 41_**
+    * We will also host online office hours on **Thursdays from 4 PM to 5 PM** with Will Furtado!
+      * We will release more details about online office hours on Ed later this week
+* Good luck on Quiz 1!
 
 
 {: .fs-5 }
