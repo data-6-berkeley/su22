@@ -31,6 +31,6 @@ Jul 14
 : **Survey**{: .label .label-survey} [Weekly Survey 2](https://forms.gle/QXSvRtBLGmi9tx3D7) &nbsp;**Due Jul 21 @ 11:00PM**
 
 Jul 15
-: **Discussion 2**{: .label .label-discussion} [Data Humanism in Visualization](https://data6.org/su22/assignments/disc02.pdf) <!--([Solutions](https://data6.org/su22/assignments/disc02-sols.pdf))
+: **Discussion 2**{: .label .label-discussion} [Data Humanism in Visualization](https://data6.org/su22/assignments/disc02.pdf) ([Solutions](https://data6.org/su22/assignments/disc02-sols.pdf))
 : *Recommended Reading:* ["Applying Racial Equity Awareness in Data Visualization"](https://data6.org/su22/assignments/RacialEquityinDataViz.pdf)
 : **R**{: .label} Quiz Review
