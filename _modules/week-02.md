@@ -11,7 +11,7 @@ Jul 12
 : **7**{: .label} Introduction to Visualization
   : [Slides](https://docs.google.com/presentation/d/19cP-rXp5oBRPJuWmDd-FUBuhVtOyipHx6Wyr7GR8RNs/edit?usp=sharing)
 : *Optional Reading:* [CIT 7](https://inferentialthinking.com/chapters/07/Visualization.html), [FDV 1](https://clauswilke.com/dataviz/introduction.html)
-: **Lab 2**{: .label .label-lab} [Table Methods and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab02%2Flab02.ipynb&branch=main)
+: **Lab 2**{: .label .label-lab} [Table Methods and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab02%2Flab02.ipynb&branch=main) ([Solutions](https://data6.org/su22/assignments/lab02-sols.pdf))
 
 Jul 13
 : **8**{: .label} Visualizing Categorical Variables
@@ -26,7 +26,7 @@ Jul 14
 : **10**{: .label} Visualizing Two Variables
   : [Slides](https://docs.google.com/presentation/d/1zRJd4Nq8tmT-S9JKp9p7OufOrWvRUaRHqnJbsu8izmE/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec10%2Flec10.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec10%2Flec10-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
-: **Lab 3**{: .label .label-lab} [Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab03%2Flab03.ipynb&branch=main)
+: **Lab 3**{: .label .label-lab} [Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab03%2Flab03.ipynb&branch=main) ([Solutions](https://data6.org/su22/assignments/lab03-sols.pdf))
 : **Homework 2**{: .label .label-homework} [Table Methods and Data Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main) &nbsp;**Due Jul 21 @ 11:00PM**
 : **Survey**{: .label .label-survey} [Weekly Survey 2](https://forms.gle/QXSvRtBLGmi9tx3D7) &nbsp;**Due Jul 21 @ 11:00PM**
 
