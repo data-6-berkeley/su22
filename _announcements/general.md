@@ -12,7 +12,7 @@ Welcome to week 3 of Data 6! Here are the announcements for this week:
     * Starting this week, we will have in-person office hours from **3 PM to 5 PM** on **Tuesdays** and **Wednesdays** in **_Evans 41_**
     * We will also host online office hours on **Thursdays from 4 PM to 5 PM** with Will Furtado!
       * We will release more details about online office hours on Ed later this week
-* Good luck on Quiz 1!
+* Quiz 1 and Homework 1 grades have been released on Gradescope. Email [James](https://data6.org/su22/staff/) if you have any questions.
 
 
 {: .fs-5 }
