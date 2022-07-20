@@ -14,5 +14,4 @@ Welcome to week 3 of Data 6! Here are the announcements for this week:
       * We will release more details about online office hours on Ed later this week
 * Quiz 1 and Homework 1 grades have been released on Gradescope. Email [James](https://data6.org/su22/staff/) if you have any questions.
 
-
 {: .fs-5 }
