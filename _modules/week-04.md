@@ -4,25 +4,27 @@ title: Week 4 — Python Functions and Control
 
 Jul 25
 : **16**{: .label} Comparisons
+  <!--: [Slides](#) &#8226; [Code](#)-->
+<!--: *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)-->
 : **17**{: .label} Control
   <!--: [Slides](#) &#8226; [Code](#)-->
-  <!--: *Optional Reading*-->
+<!--: *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)-->
 
 Jul 26
 : **18**{: .label} For Loops
   <!--: [Slides](#) &#8226; [Code](#)-->
-  <!--: *Optional Reading*-->
+<!--: *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)-->
 : **Lab 6**{: .label .label-lab} Functions and Control
 
 Jul 27
 : **19**{: .label} Advanced For Loops
   <!--: [Slides](#) &#8226; [Code](#)-->
-  <!--: *Optional Reading*-->
+<!--: *Optional Reading:* [PPDS 2.1](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#for-loops)-->
 
 Jul 28
 : **20**{: .label} Maps
   <!--: [Slides](#) &#8226; [Code](#)-->
-  <!--: *Optional Reading*-->
+  <!--: *Optional Reading:*-->
 : **Lab 7**{: .label .label-lab} For Loops
 : **Homework 7**{: .label .label-homework} Python Fundamentals &nbsp;**Due Aug 2 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 2 @ 11:00PM**
