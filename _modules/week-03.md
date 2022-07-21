@@ -27,7 +27,7 @@ Jul 21
   : [Slides](https://docs.google.com/presentation/d/1J-ziM0rifderMPlXPnrQOoPDWhjpDGyin_UFxySj13o/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec15%2Flec15.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec15%2Flec15-blank.ipynb&branch=main)
 : *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab 5**{: .label .label-lab} [More Table Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab05%2Flab05.ipynb&branch=main)
-: **Homework 3**{: .label .label-homework} Table Methods &nbsp;**Due Jul 28 @ 11:00PM**
+: **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp;**Due Jul 28 @ 11:00PM** <!-- [Advanced Table Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) -->
 : **Survey**{: .label .label-survey} Weekly Survey 3 &nbsp;**Due Jul 28 @ 11:00PM**
 
 Jul 22
