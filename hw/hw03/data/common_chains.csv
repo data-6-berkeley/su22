@@ -1,0 +1,80 @@
+Rank,Restaurant,Sales,YOY_Sales,Segment_Category,Growth Category
+1,McDonald's,40412,4.9%,Quick Service & Burger,steady increase
+5,Burger King,10204,2.7%,Quick Service & Burger,steady increase
+7,Wendy's,9762,4.2%,Quick Service & Burger,steady increase
+13,Sonic Drive-In,4687,4.6%,Quick Service & Burger,steady increase
+24,Jack in the Box,3504,1.1%,Quick Service & Burger,stagnant
+30,Whataburger,2556,5.8%,Quick Service & Burger,steady increase
+35,Hardee's,2020,-4.0%,Quick Service & Burger,steady decrease
+38,Culver's,1795,13.9%,Quick Service & Burger,rapid increase
+43,Carl's Jr.,1423,-2.5%,Quick Service & Burger,stagnant
+50,In-N-Out Burger,957,4.6%,Quick Service & Burger,steady increase
+51,Steak 'n Shake,950,-7.7%,Quick Service & Burger,steady decrease
+76,White Castle,579,2.4%,Quick Service & Burger,stagnant
+85,Checkers Drive-In Restaurants,535,-1.8%,Quick Service & Burger,stagnant
+102,Chuy's,426,7.1%,Mexican,steady increase
+103,O'Charley's,426,-7.6%,Varied Menu,steady decrease
+105,Maggiano's Little Italy,417,1.1%,Italian/Pizza,stagnant
+110,Taco John's,373,0.5%,Mexican,stagnant
+118,Krystal Co.,343,-9.0%,Burger,steady decrease
+120,Cooper's Hawk Winery & Restaurants,338,19.9%,Varied Menu,rapid increase
+121,Big Boy/Frisch's Big Boy,338,-3.4%,Family Style,steady decrease
+122,Black Bear Diner,336,15.3%,Family Style,rapid increase
+127,On The Border Mexican Grill & Cantina,327,-6.1%,Mexican,steady decrease
+129,Ninety Nine Restaurants,324,2.1%,Varied Menu,stagnant
+130,Village Inn,313,-7.9%,Family Style,steady decrease
+131,Taco Cabana,311,-4.4%,Mexican,steady decrease
+134,Jack's,290,9.8%,Burger,steady increase
+136,Bar Louie,284,-5.6%,Varied Menu,steady decrease
+138,Old Chicago Pizza & Taproom,275,4.5%,Italian/Pizza,steady increase
+139,Rally's Hamburgers,275,-3.5%,Burger,steady decrease
+140,Torchy's Tacos,272,17.3%,Mexican,rapid increase
+145,Cafe Rio Mexican Grill,267,9.9%,Mexican,steady increase
+147,Smashburger,265,-6.5%,Burger,steady decrease
+150,Seasons 52,253,1.4%,Varied Menu,stagnant
+151,Bahama Breeze Island Grille,252,5.3%,Varied Menu,steady increase
+154,Huddle House,247,0.9%,Family Style,stagnant
+156,Uncle Julio's,239,11.7%,Mexican,rapid increase
+158,Rubio's,232,-0.1%,Mexican,stagnant
+160,A&W All-American Food,227,1.8%,Burger,stagnant
+162,Fuzzy's Taco Shop,225,8.6%,Mexican,steady increase
+164,Romano's Macaroni Grill,218,-4.6%,Italian/Pizza,steady decrease
+165,Brio Tuscan Grille,217,-4.0%,Italian/Pizza,steady decrease
+166,Lazy Dog Restaurant & Bar,213,21.3%,Varied Menu,rapid increase
+168,Friendly's,210,-15.3%,Family Style,rapid decrease
+172,Uno Pizzeria & Grill,196,-12.9%,Italian/Pizza,rapid decrease
+173,J. Alexander's,195,2.8%,Varied Menu,steady increase
+176,Firebirds Wood Fired Grill,192,7.4%,Varied Menu,steady increase
+179,True Food Kitchen,190,13.8%,Varied Menu,rapid increase
+180,Buca di Beppo,189,-5.7%,Italian/Pizza,steady decrease
+181,Hard Rock Cafe,187,-5.2%,Varied Menu,steady decrease
+182,Johnny Rockets,186,-10.2%,Varied Menu,rapid decrease
+183,Fuddruckers,185,-15.8%,Burger,rapid decrease
+184,The Original Pancake House,185,3.1%,Family Style,steady increase
+189,The Melting Pot,181,-6.5%,Varied Menu,steady decrease
+190,Farmer Boys,179,1.7%,Burger,stagnant
+192,Shoney's,179,-4.4%,Family Style,steady decrease
+193,Taco Bueno,178,-12.4%,Mexican,rapid decrease
+194,Claim Jumper,177,-10.2%,Varied Menu,rapid decrease
+197,Giordano's,173,5.5%,Italian/Pizza,steady increase
+198,Islands Fine Burgers & Drinks,173,0.9%,Varied Menu,stagnant
+199,Mimi's Bistro & Bakery,172,-4.8%,Varied Menu,steady decrease
+201,Metro Diner,171,36.3%,Family Style,rapid increase
+206,LaRosa's Pizzeria,164,3.7%,Italian/Pizza,steady increase
+207,Roosters,163,6.7%,Varied Menu,steady increase
+209,Shari's Cafe and Pies,161,-2.4%,Family Style,stagnant
+211,Wayback Burgers,159,2.0%,Burger,stagnant
+213,Grand Lux Cafe,157,1.2%,Varied Menu,stagnant
+214,Anthony's Coal Fired Pizza,153,4.0%,Italian/Pizza,steady increase
+217,Eat'n Park,152,-6.5%,Family Style,steady decrease
+219,The Old Spaghetti Factory,150,2.2%,Italian/Pizza,stagnant
+223,Tijuana Flats,147,6.5%,Mexican,steady increase
+226,Topgolf,144,14.6%,Varied Menu,rapid increase
+228,Pappasito's Cantina,143,2.2%,Mexican,stagnant
+230,Houlihan's,143,-21.2%,Varied Menu,rapid decrease
+234,BurgerFi,138,3.0%,Burger,steady increase
+241,54th Street Restaurant & Drafthouse,131,4.5%,Varied Menu,steady increase
+243,Costa Vida Fresh Mexican Grill,129,5.2%,Mexican,steady increase
+246,Rainforest Cafe,129,-10.4%,Varied Menu,rapid decrease
+248,Lupe Tortilla,127,12.1%,Mexican,rapid increase
+249,Cook-Out Restaurant,126,10.1%,Burger,rapid increase
