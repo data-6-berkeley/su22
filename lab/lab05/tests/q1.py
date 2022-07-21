@@ -1,0 +1,11 @@
+test = {   'name': 'q1',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> callable(convert_to_dollars)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> convert_to_dollars(10) == 10000000.0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(movies, Table)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> 'Worldwide Gross' in movies.labels\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.isclose(movies.column('Worldwide Gross').item(10), 376660000.0)\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

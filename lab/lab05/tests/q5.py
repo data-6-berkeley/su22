@@ -1,0 +1,12 @@
+test = {   'name': 'q5',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(studio_genre_total_gross, Table)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> studio_genre_total_gross.num_rows == 12\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> studio_genre_total_gross.labels == ('Lead Studio', 'Action', 'Animation', 'Comedy', 'Drama', 'Fantasy', 'Romance')\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> studio_genre_total_gross.column("Comedy").item(5) == 59.19\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
