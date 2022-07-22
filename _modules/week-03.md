@@ -31,5 +31,5 @@ Jul 21
 : **Survey**{: .label .label-survey} Weekly Survey 3 &nbsp;**Due Jul 28 @ 11:00PM**
 
 Jul 22
-: **Discussion 3**{: .label .label-discussion} [Algorithmic Bias](https://data6.org/su22/assignments/disc03-bias.pdf)
+: **Discussion 3**{: .label .label-discussion} [Algorithmic Bias](https://data6.org/su22/assignments/disc03-bias.pdf) [Solutions](https://data6.org/su22/assignments/disc03-sols.pdf)
 : *Recommended Reading:* ["Why Algorithms Can Be Racist and Sexist"](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency); ["Dissecting Racial Bias"](https://data6.org/su22/assignments/DissectingRacialBias.pdf)

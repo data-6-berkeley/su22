@@ -4,10 +4,10 @@ title: Week 4 — Python Functions and Control
 
 Jul 25
 : **16**{: .label} Comparisons
-  <!--: [Slides](#) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1F6OjLbNDddlB6n9pjq2v-jn3ffdYNSI8LCfD-YvBIG8/edit?usp=sharing) &#8226; [Code](#)-->
 <!--: *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)-->
 : **17**{: .label} Control
-  <!--: [Slides](#) &#8226; [Code](#)-->
+  <!--: [Slides](https://docs.google.com/presentation/d/1aFK3LM32UGoZJzMnWzUM5iWnxPq8d6KPUDP8VKryTqk/edit?usp=sharing) &#8226; [Code](#)-->
 <!--: *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)-->
 
 Jul 26
