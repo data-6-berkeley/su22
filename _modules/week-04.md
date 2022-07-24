@@ -1,5 +1,5 @@
 ---
-title: Week 4 — Python Functions and Control
+title: Week 4 — Control and Iteration
 ---
 
 Jul 25
