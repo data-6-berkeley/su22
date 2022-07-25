@@ -12,9 +12,9 @@ Jul 25
 
 Jul 26
 : **18**{: .label} For Loops
-  <!--: [Slides](https://docs.google.com/presentation/d/1sayR8bKeJ0PS8gKTfyatWGQVGtDyCkdu3ry_bFC_zmE/edit?usp=sharing) &#8226; [Code](#)-->
-<!--: *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)-->
-: **Lab 6**{: .label .label-lab} Functions and Control <!-- [Functions and Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab06%2Flab06.ipynb&branch=main) -->
+  : [Slides](https://docs.google.com/presentation/d/1sayR8bKeJ0PS8gKTfyatWGQVGtDyCkdu3ry_bFC_zmE/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec18%2Flec18-blank.ipynb&branch=main)
+: *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
+: **Lab 6**{: .label .label-lab} [Functions and Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab06%2Flab06.ipynb&branch=main)
 
 Jul 27
 : **19**{: .label} Advanced For Loops
