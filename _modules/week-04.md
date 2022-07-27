@@ -23,8 +23,8 @@ Jul 27
 
 Jul 28
 : **20**{: .label} Maps
-  <!--: [Slides](#) &#8226; [Code](#)-->
-  <!--: *Optional Reading:*-->
+  : [Slides](https://docs.google.com/presentation/d/1Zan6RUI0dVhCv3758ysOGQ_cnnkKVZjd_iH_yB8trSQ/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec20%2Flec20-blank.ipynb&branch=main)
+: *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} For Loops
 : **Homework 4**{: .label .label-homework} Python Fundamentals &nbsp;**Due Aug 4 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 4 @ 11:00PM**
