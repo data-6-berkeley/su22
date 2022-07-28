@@ -26,8 +26,8 @@ Jul 28
   : [Slides](https://docs.google.com/presentation/d/1Zan6RUI0dVhCv3758ysOGQ_cnnkKVZjd_iH_yB8trSQ/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec20%2Flec20.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec20%2Flec20-blank.ipynb&branch=main)
 : *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 : **Lab 7**{: .label .label-lab} [Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab07%2Flab07.ipynb&branch=main)
-: **Homework 4**{: .label .label-homework} Python Fundamentals &nbsp;**Due Aug 4 @ 11:00PM**
-: **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 4 @ 11:00PM**
+: **Homework 4**{: .label .label-homework} Control, Iteration, and Strings &nbsp;**Due Aug 4 @ 11:00PM** <!-- [Control, Iteration, and Strings](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main) -->
+: **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 4 @ 11:00PM** <!-- [Weekly Survey 4](https://forms.gle/qR8Mhbom8H6F9W3Z8) -->
 
 Jul 29
 : **Discussion 4**{: .label .label-discussion} [Privacy](https://data6.org/su22/assignments/disc04-privacy.pdf)
