@@ -30,5 +30,5 @@ Jul 28
 : **Survey**{: .label .label-survey} Weekly Survey 4 &nbsp;**Due Aug 4 @ 11:00PM**
 
 Jul 29
-: **Discussion 4**{: .label .label-discussion} Privacy
+: **Discussion 4**{: .label .label-discussion} [Privacy](https://data6.org/su22/assignments/disc04-privacy.pdf)
 : **R**{: .label} Quiz Review
