@@ -44,14 +44,14 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 ### Visualization Functions
 
 | **Function** | **Description** | **Input** | **Output** |
-| `tbl.barh(categories)` or `tbl.barh(categories, values)` | Displays a horizontal bar chart with bars for each category in the column `categories`. `values` specifies the column corresponding to the size of each bar, but is unnecessary if the table only has two columns | 1. **string**: categories column <br> 2. (Optional) **string**: numerical values column | None: draws a bar chart |
+| `tbl.barh(categories)` or `tbl.barh(categories, values)` | Displays a horizontal bar chart with bars for each category in the column `categories` | 1. **string**: categories column <br> 2. (Optional) **string**: numerical values column | None: draws a bar chart |
 | `tbl.hist(column)` | Generates a histogram of the numerical values in `column`. | **string**: column name | None: draws a histogram |
 | `tbl.plot(x_column, y_column)` or `tbl.plot(x_column)` | Draws a line plot consisting of one point for each row in `tbl`. If only `x_column` is specified, `plot` will plot the rest of the columns on the y-axis. | 1. **string**: x-axis column name <br> 2. **string**: y-axis column name | None: draws a line graph |
 | `tbl.scatter(x_column, y_column)` | Draws a scatter plot consisting of one point for each row in `tbl`. | 1. **string**: x-axis column name <br> 2. **string**: y-axis column name | None: draws a scatter plot |
 
 ### Conditional Statements
 
-| **Syntax**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Description** |
+| **Syntax**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Description** |
 | `if <if expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<if body>` <br> `elif <elif expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<elif body>` <br> `else:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<else body>`| Executes the code in `<if body>` only if `<if expression>` evaluates to `True`. If `<if expression>` is `False`, checks `<elif expression>` and executes code in `<elif body>` if `True`. Otherwise, executes the code in `<else body>` |
 
 ### Iteration
