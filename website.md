@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Making Your Own Website
-tagline: Lab 8: Web Development
+tagline: Lab 8: Website Development
 nav_exclude: true
 ---
 
