@@ -51,7 +51,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 
 ### Conditional Statements
 
-| **Syntax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Description** |
+| **Syntax-------------------** | **Description** |
 | `if <if expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<if body>` <br> `elif <elif expression>:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<elif body>` <br> `else:` <br> &nbsp;&nbsp;&nbsp;&nbsp;`<else body>`| Executes the code in `<if body>` only if `<if expression>` evaluates to `True`. If `<if expression>` is `False`, checks `<elif expression>` and executes code in `<elif body>` if `True`. Otherwise, executes the code in `<else body>` |
 
 ### Iteration
