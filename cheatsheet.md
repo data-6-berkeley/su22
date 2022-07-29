@@ -15,8 +15,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `int(num)` | Converts `num` to an int | A numerical value | The value as an **int** |
 | `float(num)` | Converts `num` to a float | A numerical value | The value as a **float** |
 | `len(arr)` | Returns the length of `arr` | **array** or **list** | **int**: the length of the array or list |
-| `max(arr)` | Returns the maximum value in `arr` | **array** or **list** | The maximum value the array (usually an **int**) |
-| `min(arr)` | Returns the minimum value in `arr` | **array** or **list** | The minimum value the array (usually an **int**) |
+| `max(arr)` or `min(arr)` | Returns the maximum or minimum value in `arr` | **array** or **list** | The maximum/minimum value the array (usually an **int**) |
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
 
@@ -26,7 +25,6 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `make_array(v1, v2, ...)` | Makes a NumPy array with the inputted values | A sequence of values | An **array** with those values |
 | `arr.item(n)` | Gets the item in the array `arr` at index `n`. Remember that indices start at 0. | An **int** corresponding to the index of the item | The item at index `n` in `arr` |
 | `np.mean(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: The average of the array |
-| `np.sum(arr)` | Returns the sum of the values in `arr` | **array** | **int** or **float**: the sum of the values in the array |
 | `np.arange(stop)` or `np.arange(start, stop)` | Creates an array of sequential numbers starting at `start` and going up to but excluding `stop` | **int** or **float** | **array** |
 
 ### Table Methods
