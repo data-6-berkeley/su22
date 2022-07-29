@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 # Data 6 Python Cheat Sheet
-_This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for Quiz 1._
+_This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for Quiz 2._
 
 ### Built-In Python Functions
 
@@ -24,6 +24,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 
 | **Function** | **Description** | **Input** | **Output** |
 | `make_array(v1, v2, ...)` | Makes a NumPy array with the inputted values | A sequence of values | An **array** with those values |
+| `arr.item(n)` | Gets the item in the array `arr` at index `n`. Remember that indices start at 0. | An **int** corresponding to the index of the item | The item at index `n` in `arr` |
 | `np.mean(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: The average of the array |
 | `np.sum(arr)` | Returns the sum of the values in `arr` | **array** | **int** or **float**: the sum of the values in the array |
 | `np.arange(stop)` or `np.arange(start, stop)` | Creates an array of sequential numbers starting at `start` and going up to but excluding `stop` | **int** or **float** | **array** |
@@ -37,6 +38,10 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `tbl.sort(column_name)` | Sorts the rows of `tbl` by the values in the `column_name` column. Defaults to ascending order unless the optional argument `descending=True` is included. | 1. **string** or **int**: name or index of the column to sort <br> 2. (Optional) `descending=True` | **Table**: copy of the table with the column sorted |
 | `tbl.where(column, predicate)` | Creates a copy of `tbl` containing only the rows where the value of `column` matches the `predicate`. | 1. **string** or **int**: column name or index <br> 2. the value to match to | **Table**: copy of the  table with only the rows that match the predicate |
 | `tbl.take(row_indices)` | Creates a table with only the rows at the given indices. | **int** or **array**: indices of rows to be included in the table | **Table**: copy of the table with only the rows at the given indices |
+| `tbl.apply(function)` or `tbl.apply(function, col1, col2, ...)` | Returns an **array** of values resulting from applying a function to each item in a column. | 1. **Function**: function to apply to column <br> 2. (Optional) **string** or **int**: the column name(s) or index(es) to apply the function to | **array** containing an element for each value in the original column after applying the function to it |
+| `tbl.group(column, function)` | Groups rows in `tbl` by unique values in a column. Values in the other columns are aggregated by count (by default) or the optional argument `function`. | 1. **string** or **array of strings**: column(s) on which to group <br> 2. (Optional) **Function**: function to aggregate values in cells (defaults to counting rows) | **Table** a new groupped table |
+| `tbl.pivot(col1, col2)` or `tbl.pivot(col1, col2, values, collect)` | Creates a pivot table where each unique value in `col1` has its own column and each unique value in `col2` has its own row. Counts or aggregates values from a third column, collected with some function. If the `values` and `collect` arguments are not included, `pivot` defaults to returning counts in the cells. | 1. **string**: name of the column in `tbl` whose unique values will make up the columns of the pivot table <br> 2. **string**: name of column in `tbl` whose unique values will make up the rows of the pivot table <br> 3. (Optional) **string**: name of the column in `tbl` that describes the values of cells in the pivot table <br> 4. (Optional) **Function**: how the values are collected (e.g. `sum` or `np.mean`) | **Table**: a new pivot table |
+| `tblA.join(colA, tblB)` or `tblA.join(colA, tblB, colB)` | Generate a table with the columns of `tblA` and `tblB`, containing rows for all values in `colA` and `colB` that appear in `tblA` and `tblB`, respectively. By default, `colB` is the same value as `colA`. `colA` and `colB` must be strings specifying column names. | 1. **string**: name of column in `tblA` with values to join on <br> 2. **Table**: the other table <br> 3. (Optional) **string**: the name of the shared column in `tblB`, if column names are different between the tables | **Table**: a new combined table |
 
 ### Visualization Functions
 
