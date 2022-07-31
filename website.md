@@ -20,8 +20,8 @@ This lab will probably take 2 hours to complete, so buckle in! Course staff are 
 ## Overview
 Websites can take a variety of forms, and are created in a variety of ways. On the most basic level, a website consists of pages created in a markup language, like HTML (HyperText Markup Language). If you have ever used “Inspect” or “Inspect Element” on a website (Figure 1), you have probably seen HTML before. It consists of tags that start and end with angle brackets (e.g. `<html>`). Even though HTML doesn’t support more complicated code like if-statements or for loops (HTML technically isn’t even a programming language), when combined with other code it is capable of creating amazingly complex websites.
 
-<figure style="margin:auto">
-<img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:50%"/>
+<figure style="text-align: center">
+<img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:50%; margin:auto; display:block"/>
 <figcaption>Figure 1</figcaption>
 </figure>
 
