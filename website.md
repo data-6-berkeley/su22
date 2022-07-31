@@ -21,7 +21,7 @@ This lab will probably take 2 hours to complete, so buckle in! Course staff are 
 Websites can take a variety of forms, and are created in a variety of ways. On the most basic level, a website consists of pages created in a markup language, like HTML (HyperText Markup Language). If you have ever used “Inspect” or “Inspect Element” on a website (Figure 1), you have probably seen HTML before. It consists of tags that start and end with angle brackets (e.g. `<html>`). Even though HTML doesn’t support more complicated code like if-statements or for loops (HTML technically isn’t even a programming language), when combined with other code it is capable of creating amazingly complex websites.
 
 <figure>
-<img src="./assets/lab08/fig1.png" style="width:50%"/>
+<img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:50%"/>
 <figcaption>Figure 1</figcaption>
 </figure>
 
@@ -33,23 +33,26 @@ To make things as simple as possible, we will use [GitHub Pages](https://pages.g
 
 **Let's get started!**
 
-## Part 1 — Creating a GitHub Account
-First you will have to set a GitHub account to allow you to develop and publish your website. GitHub is free and is also used in a lot of data science and computer science classes at Berkeley. If you already have a GitHub account (that you want to use for this lab), you can skip step 1.
+## Step 1 — Creating a GitHub Account
+First you will have to set a GitHub account to allow you to develop and publish your website. GitHub is free and is also used in a lot of data science and computer science classes at Berkeley. If you already have a GitHub account (that you want to use for this lab), you can skip this step.
 
 1. **Create a [GitHub](https://github.com/) Account** (go to the site and click “Sign Up” in the top right).
   * Your username is up to you, but it may be a good idea to choose something professional since you might use this account in the future for something else. Your website URL will contain your username.
   * After entering your credentials, it may ask you questions like “What kind of work do you do, mainly?”. You can skip these; scroll all the way to the bottom and continue.
   * You’ll then need to verify your email address.
-2. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button.
+
+## Step 2 — Creating a Blank Website
+
+1. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button.
   * A **repository**, or repo for short, is like a folder for a project.
   * You will need to select a name for the repository. You can name the repository whatever you want, but we’d recommend something like `“data-6-website”`, `“[NAME]-website”` or `“portfolio”`
   * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name):
 
 <figure>
-<img src="./assets/lab08/fig2.png" style="width:50%"/>
+<img src="https://data6.org/su22/assets/lab08/fig2.png" style="width:50%"/>
 <figcaption>Figure 2 - Repository Settings</figcaption>
 </figure>
-3. Enable GitHub Pages for your Repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
+2. Enable GitHub Pages for your Repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
   * From your repo’s main page, click the “Settings” tab in the top right corner.
   * Click “Pages” in the menu on the left (it should be towards the bottom).
   * Under “Branch”, change “None” to “main”. Click “Save”.
@@ -57,16 +60,13 @@ First you will have to set a GitHub account to allow you to develop and publish 
   * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment.
 
 <figure>
-<img src="./assets/lab08/fig3.png" style="width:50%"/>
+<img src="https://data6.org/su22/assets/lab08/fig3.png" style="width:50%"/>
 <figcaption>Figure 3 - Publishing via GitHub Pages</figcaption>
 </figure>
 
+## Step 3 — Adding Content
 
-## Part 2 — Creating a Blank Website
-
-## Part 3 — Adding Content
-
-## Part 4 — Customizing Your Website
+## Step 4 — Customizing Your Website
 
 ## Markdown Guide
 
