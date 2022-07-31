@@ -22,7 +22,7 @@ Websites can take a variety of forms, and are created in a variety of ways. On t
 
 <figure style="text-align: center">
 <img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:80%; margin:auto; display:block"/>
-Figure 1
+Figure 1 - Inspecting HTML on a Website
 </figure>
 
 **Website development** also usually involves writing code in a variety of other languages, including CSS (for styling your website), JavaScript (for making your website more responsive), and PHP (for integrating your website with a database). However, to create a simple website you don’t need to know anything about these more complicated languages.
@@ -43,10 +43,10 @@ First you will have to set a GitHub account to allow you to develop and publish 
 
 ## Step 2 — Creating a Blank Website
 
-1. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig2.png" style="width:80%; margin:auto; display:block"/> Figure 2 - Creating a New Repository </figure>
+1. **Create a New Repository.** It may prompt you to do this after verifying your email; if it doesn’t, you can go to [GitHub](https://github.com/) and click the green “New” button. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig2.png" style="width:80%; margin:auto; display:block"/> Figure 2 - Creating a New Repository </figure> <br>
   * A **repository**, or repo for short, is like a folder for a project.
   * You will need to select a name for the repository. You can name the repository whatever you want, but we’d recommend something like `“data-6-website”`, `“[NAME]-website”` or `“portfolio”`
-  * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name): <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig3.png" style="width:60%; margin:auto; display:block"/> Figure 3 - Repository Settings </figure>
+  * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name): <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig3.png" style="width:60%; margin:auto; display:block"/> Figure 3 - Repository Settings </figure> <br>
 2. Enable GitHub Pages for your Repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
   * From your repo’s main page, click the “Settings” tab in the top right corner.
   * Click “Pages” in the menu on the left (it should be towards the bottom).
