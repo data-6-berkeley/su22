@@ -82,7 +82,9 @@ Now that you've added some content to your website, you can go a step further by
 3. **Add Images**
   * Adding images is a two-step process:
     1. First, navigate to your Repo's main page, and click "Add file > Upload files". Choose which images you want to upload and click "Commit changes"
-    2. Edit your `README.md` file and copy the following code into your file at the location where you want your image to appear: `<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">`, making sure to replace `IMAGE.PNG` with the full name (including file type extension) of the image(s) you uploaded. Feel free to adjust the `width` number to resize your image.
+    2. Edit your `README.md` file and copy the code below into your file at the location where you want your image to appear, making sure to replace `IMAGE.PNG` with the full name (including file type extension) of the image(s) you uploaded. Feel free to adjust the `width` number to resize your image.
+    ```html
+    <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">```
 4. **Add a Data Visualization**
   * Part of the reason why Data 6 uses the **Plotly** visualization library is because it allows you to embed interactive visualizations on websites! If you want, you can embed any of the Plotly (usually starts with `px.`) visualizations we've created in the class (or feel free to make your own!). To embed a Plotly visualization in your website, follow these steps:
     1. Open up the Jupyter Notebook with the graph/map you want to export (Lecture 20 demos are recommended) and find the code that generated the visualization.
@@ -98,12 +100,14 @@ Now that you've added some content to your website, you can go a step further by
     ```html
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     ```
-    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your README.md might look something like this:
-
-After committing in the previous stage, refresh your website until it loads. If you’re happy with the result, congrats! All of the ugly code you copied from your notebook has been converted into your original interactive visualization. At this point, feel free to tweak things. One suggestion is to change the width and height of your image in your notebook before exporting. (You can repeat the previous step as many times as you want.) As long as you have these essentials, you can add whatever else you want to your website (see the bonus part for fun possibilities).
-
+    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this:
 
 5. **Embed a Tweet, YouTube Video, Song, etc.**
+  * A lot of social media platforms allow you to **embed** content from their website into your own website. This embedding usually happens with an `<iframe>`.
+  * **Tweets.** On the Twitter website, click the three dots at the top right of any tweet, then click “Embed Tweet”. A new site will appear; click “Copy Code” to copy the necessary code, and paste that code somewhere in your `README.md` (but not in the middle of the long visualization code).
+  * **YouTube Videos.** On the page of a YouTube video, click “Share”, then click “Embed”. Copy the code that appears and paste it somewhere in your  `README.md`. You’ll notice that the code has numbers for “width” and “height”; feel free to change these.
+  * **Songs.** Follow [these](https://developer.spotify.com/documentation/embeds/guides/using-the-iframe-api//) instructions for Spotify and [these](https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web) instructions for Apple Music. Other sites will have similar instructions.
+  * **Instagram Posts.** On the Instagram website, click the three dots at the top right of any post, then click “Embed” and then “Copy Embed Code”. Copy the code that appears and paste it somewhere in your README.md (beware, the code may be a little long).
 
 ## Markdown Guide
 
