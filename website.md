@@ -73,6 +73,34 @@ Add a heading at the top of the file using the `#` symbol to give your website a
 
 
 ## Step 4 — Customizing Your Website
+Now that you've added some content to your website, you can go a step further by styling and customizing elements of page. Here are a few additional things you can do to spice up your website:
+
+1. **Use Markdown Formatting**
+  * Check out the [Mardkown Guide](#markdown-guide) below for a refresher on markdown syntax and formatting, including how to bold text or add hyperlinks
+2. **Change Your Theme**
+  * If you want, you can switch to a different website theme by going to the "Settings" tab of your Repo, clicking on "Pages" and then clicking "Change theme"
+3. **Add Images**
+  * Adding images is a two-step process:
+    1. First, navigate to your Repo's main page, and click "Add file > Upload files". Choose which images you want to upload and click "Commit changes"
+    2. Edit your `README.md` file and copy the following code into your file at the location where you want your image to appear: `<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">`, making sure to replace `IMAGE.PNG` with the full name (including file type extension) of the image(s) you uploaded. Feel free to adjust the `width` number to resize your image.
+4. **Add a Data Visualization**
+  * Part of the reason why Data 6 uses the **Plotly** visualization library is because it allows you to embed interactive visualizations on websites! If you want, you can embed any of the Plotly (usually starts with `px.`) visualizations we've created in the class (or feel free to make your own!). To embed a Plotly visualization in your website, follow these steps:
+    1. Open up the Jupyter Notebook with the graph/map you want to export (Lecture 20 demos are recommended) and find the code that generated the visualization.
+    2. Assign that code to a name like `fig`. This  will prevent the visualization from showing up in the notebook (unless you add the line `fig.show()` below it), but that's ok.
+    3. In a new cell, run the following two lines. `fig` is a placeholder for the name of your visualization, so if you used a different variable name, change `fig` too: ```python
+    import plotly
+    print(plotly.offline.plot(fig, include_plotlyjs=False, output_type='div'))
+    ```
+    4. Copy the output of that code (it should start with `<div>` and end with `</div>`, and will be pretty long and ugly).
+    5. Go back to GitHub and edit `README.md`. At the place in your website where you want to add your visualization, paste that code into your `README.md` file. Do this separately for each visualization you want to put on your website.
+    6. Before the code for your **first** visualization, put the following code on its own on a line: ```python <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    ```
+    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your README.md might look something like this:
+
+After committing in the previous stage, refresh your website until it loads. If you’re happy with the result, congrats! All of the ugly code you copied from your notebook has been converted into your original interactive visualization. At this point, feel free to tweak things. One suggestion is to change the width and height of your image in your notebook before exporting. (You can repeat the previous step as many times as you want.) As long as you have these essentials, you can add whatever else you want to your website (see the bonus part for fun possibilities).
+
+
+5. **Embed a Tweet, YouTube Video, Song, etc.**
 
 ## Markdown Guide
 
