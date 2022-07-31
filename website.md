@@ -56,7 +56,7 @@ First you will have to set a GitHub account to allow you to develop and publish 
 
 ## Step 3 — Adding Content
 
-1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig5.png" style="width:60%; margin:auto; display:block"/> Figure 5 - Editing `README.md` </figure> <br>
+1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig5.png" style="width:60%; margin:auto; display:block"/> Figure 5 - Click the Pencil Icon to Edit `README.md` </figure> <br>
 2. The `README.md` file is where you’ll put all of the content for your website (`.md` denotes Markdown). To edit `README.md` (both now and moving forward), you’ll need to click the pencil icon. (In the screenshot above, it’s across from the "README.md" text.)
   * You should be brought to an interface that allows you to edit `README.md`.
   * Under the hood, GitHub Pages uses a library called Jekyll to convert your `README.md` to the standard HTML file format.
@@ -87,13 +87,16 @@ Now that you've added some content to your website, you can go a step further by
   * Part of the reason why Data 6 uses the **Plotly** visualization library is because it allows you to embed interactive visualizations on websites! If you want, you can embed any of the Plotly (usually starts with `px.`) visualizations we've created in the class (or feel free to make your own!). To embed a Plotly visualization in your website, follow these steps:
     1. Open up the Jupyter Notebook with the graph/map you want to export (Lecture 20 demos are recommended) and find the code that generated the visualization.
     2. Assign that code to a name like `fig`. This  will prevent the visualization from showing up in the notebook (unless you add the line `fig.show()` below it), but that's ok.
-    3. In a new cell, run the following two lines. `fig` is a placeholder for the name of your visualization, so if you used a different variable name, change `fig` too: ```python
+    3. In a new cell, run the following two lines. `fig` is a placeholder for the name of your visualization, so if you used a different variable name, change `fig` too:
+    ```python
     import plotly
     print(plotly.offline.plot(fig, include_plotlyjs=False, output_type='div'))
     ```
     4. Copy the output of that code (it should start with `<div>` and end with `</div>`, and will be pretty long and ugly).
     5. Go back to GitHub and edit `README.md`. At the place in your website where you want to add your visualization, paste that code into your `README.md` file. Do this separately for each visualization you want to put on your website.
-    6. Before the code for your **first** visualization, put the following code on its own on a line: ```python <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    6. Before the code for your **first** visualization, put the following code on its own on a line:
+    ```html
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     ```
     7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your README.md might look something like this:
 

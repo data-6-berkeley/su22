@@ -1,14 +1,13 @@
 ---
-title: Week 4 Announcements
-week: 4
-date: 2022-07-25
+title: Week 5 Announcements
+week: 5
+date: 2022-08-01
 ---
 
-Welcome to week 4 of Data 6! (we're over halfway to the finish line!) Here are the announcements for this week:
+Welcome to week 5 of Data 6! (only two more weeks left!) Here are the announcements for this week:
 
-* **Homework 3** and **Survey 3** have been released and will be due on **Thursday (7/28) at 11 PM**
+* **Homework 4** and **Survey 4** have been released and will be due on **Thursday (8/4) at 11 PM**
     * Remember that you can get an extra credit point by submitting early by Wednesday at 11 PM
-* You can get **3% of extra credit** if you check-in with a member of course staff by the end of week 4. You can read more details about mid-semester check-ins [here](https://edstem.org/us/courses/22794/discussion/1636554).
-    * We have increased the extra credit amount from 2% to 3% :)
+* Good luck on Quiz 2!
 
 {: .fs-5 }
