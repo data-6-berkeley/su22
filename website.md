@@ -68,7 +68,7 @@ Add a heading at the top of the file using the `#` symbol to give your website a
   * Add more content types (like images or visualizations) (see Step 4 for more details)
 4. Once you’re satisfied with your website content, **scroll down to the bottom of the page, and click “Commit changes”.**
   * You can think of committing as saving your changes.
-  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice)
+  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice) <figure> <img src="https://data6.org/su22/assets/lab08/fig6.png" style="width:70%; margin:auto; display:block"/> Figure 6 — Committing Your Changes</figure>
 5. **After committing, open your website once again** (or refresh the page). The changes will usually take 1-2 minutes to deploy to your website, so be patient!
 
 
@@ -84,7 +84,8 @@ Now that you've added some content to your website, you can go a step further by
     1. First, navigate to your Repo's main page, and click "Add file > Upload files". Choose which images you want to upload and click "Commit changes"
     2. Edit your `README.md` file and copy the code below into your file at the location where you want your image to appear, making sure to replace `IMAGE.PNG` with the full name (including file type extension) of the image(s) you uploaded. Feel free to adjust the `width` number to resize your image.
     ```html
-    <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">```
+    <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+    ```
 4. **Add a Data Visualization**
   * Part of the reason why Data 6 uses the **Plotly** visualization library is because it allows you to embed interactive visualizations on websites! If you want, you can embed any of the Plotly (usually starts with `px.`) visualizations we've created in the class (or feel free to make your own!). To embed a Plotly visualization in your website, follow these steps:
     1. Open up the Jupyter Notebook with the graph/map you want to export (Lecture 20 demos are recommended) and find the code that generated the visualization.
@@ -100,7 +101,7 @@ Now that you've added some content to your website, you can go a step further by
     ```html
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     ```
-    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this:
+    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this: <figure> <img src="https://data6.org/su22/assets/lab08/fig7.png" style="width:70%; margin:auto; display:block"/> Figure 7 — Adding Visualization Code </figure>
 
 5. **Embed a Tweet, YouTube Video, Song, etc.**
   * A lot of social media platforms allow you to **embed** content from their website into your own website. This embedding usually happens with an `<iframe>`.
@@ -108,6 +109,8 @@ Now that you've added some content to your website, you can go a step further by
   * **YouTube Videos.** On the page of a YouTube video, click “Share”, then click “Embed”. Copy the code that appears and paste it somewhere in your  `README.md`. You’ll notice that the code has numbers for “width” and “height”; feel free to change these.
   * **Songs.** Follow [these](https://developer.spotify.com/documentation/embeds/guides/using-the-iframe-api//) instructions for Spotify and [these](https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web) instructions for Apple Music. Other sites will have similar instructions.
   * **Instagram Posts.** On the Instagram website, click the three dots at the top right of any post, then click “Embed” and then “Copy Embed Code”. Copy the code that appears and paste it somewhere in your README.md (beware, the code may be a little long).
+
+**And voila! You just made your own website!** Congratulations on finishing Lab 8. Feel free to continue to customize your website if you want. It's all up to you!
 
 ## Markdown Guide
 
