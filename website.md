@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Making Your Own Website
-tagline: Lab 8: Website Development
+tagline: How to Submit Data 6 Homeworks to Gradescope
 nav_exclude: true
 ---
 
