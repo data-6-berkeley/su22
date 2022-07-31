@@ -56,8 +56,8 @@ First you will have to set a GitHub account to allow you to develop and publish 
 
 ## Step 3 — Adding Content
 
-1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it.
-2. The `README.md` file is where you’ll put all of the content for your website (`.md` denotes Markdown). To edit `README.md` (both now and moving forward), you’ll need to click the pencil icon. (In the screenshot above, it’s right under the “4 minutes ago” text.)
+1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig5.png" style="width:60%; margin:auto; display:block"/> Figure 5 - Editing `README.md` </figure> <br>
+2. The `README.md` file is where you’ll put all of the content for your website (`.md` denotes Markdown). To edit `README.md` (both now and moving forward), you’ll need to click the pencil icon. (In the screenshot above, it’s across from the "README.md" text.)
   * You should be brought to an interface that allows you to edit `README.md`.
   * Under the hood, GitHub Pages uses a library called Jekyll to convert your `README.md` to the standard HTML file format.
   * There’s another file in your repo, called `_config.yml` – it tells GitHub Pages which theme you chose (amongst other information). You **don’t** need to edit this file. Changing the theme in settings will automatically change this file for you.
