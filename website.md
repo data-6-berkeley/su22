@@ -68,7 +68,7 @@ Add a heading at the top of the file using the `#` symbol to give your website a
   * Add more content types (like images or visualizations) (see Step 4 for more details)
 4. Once you’re satisfied with your website content, **scroll down to the bottom of the page, and click “Commit changes”.**
   * You can think of committing as saving your changes.
-  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice) <figure> <img src="https://data6.org/su22/assets/lab08/fig6.png" style="width:70%; margin:auto; display:block"/> Figure 6 — Committing Your Changes</figure>
+  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice) <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig6.png" style="width:90%; margin:auto; display:block"/> Figure 6 — Committing Your Changes</figure> <br>
 5. **After committing, open your website once again** (or refresh the page). The changes will usually take 1-2 minutes to deploy to your website, so be patient!
 
 
@@ -101,7 +101,7 @@ Now that you've added some content to your website, you can go a step further by
     ```html
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     ```
-    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this: <figure> <img src="https://data6.org/su22/assets/lab08/fig7.png" style="width:70%; margin:auto; display:block"/> Figure 7 — Adding Visualization Code </figure>
+    7. Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your `README.md` might look something like this: <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig7.png" style="width:90%; margin:auto; display:block"/> Figure 7 — Adding Visualization Code </figure> <br>
 
 5. **Embed a Tweet, YouTube Video, Song, etc.**
   * A lot of social media platforms allow you to **embed** content from their website into your own website. This embedding usually happens with an `<iframe>`.
@@ -113,6 +113,7 @@ Now that you've added some content to your website, you can go a step further by
 **And voila! You just made your own website!** Congratulations on finishing Lab 8. Feel free to continue to customize your website if you want. It's all up to you!
 
 ## Markdown Guide
+Here is are a few markdown syntax features that may be helpful while creating your website:
 
 | **Syntax** | **Usage** | **Example** |
 | `#` | Header (Adding multiple `#` in succession decreases the size of the header) | `## This is a Level 2 Header` |
