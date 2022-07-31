@@ -21,7 +21,7 @@ This lab will probably take 2 hours to complete, so buckle in! Course staff are 
 Websites can take a variety of forms, and are created in a variety of ways. On the most basic level, a website consists of pages created in a markup language, like HTML (HyperText Markup Language). If you have ever used “Inspect” or “Inspect Element” on a website (Figure 1), you have probably seen HTML before. It consists of tags that start and end with angle brackets (e.g. `<html>`). Even though HTML doesn’t support more complicated code like if-statements or for loops (HTML technically isn’t even a programming language), when combined with other code it is capable of creating amazingly complex websites.
 
 <figure>
-<img src="assets/lab08/fig1.png" style="width:50%"/>
+<img src="./assets/lab08/fig1.png" style="width:50%"/>
 <figcaption>Figure 1</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ First you will have to set a GitHub account to allow you to develop and publish 
   * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name):
 
 <figure>
-<img src="assets/lab08/fig2.png" style="width:50%"/>
+<img src="./assets/lab08/fig2.png" style="width:50%"/>
 <figcaption>Figure 2 - Repository Settings</figcaption>
 </figure>
 3. Enable GitHub Pages for your Repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
@@ -56,14 +56,22 @@ First you will have to set a GitHub account to allow you to develop and publish 
   * Under “Theme Chooser”, click “Choose a theme”. It will allow you to choose one of several themes; pick the one you like the most and click “Select theme”. If you end up not liking your choice, you can always come back to this menu and change the theme, so don’t worry. Note: If you are brought to a page that has you try and edit your file (it may say something like “Edit new file”), just click “Cancel”.
   * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment.
 
+<figure>
+<img src="./assets/lab08/fig3.png" style="width:50%"/>
+<figcaption>Figure 3 - Publishing via GitHub Pages</figcaption>
+</figure>
 
-## Creating a Blank Website
 
-## Adding Content
+## Part 2 — Creating a Blank Website
 
-## Customizing Your Website
+## Part 3 — Adding Content
+
+## Part 4 — Customizing Your Website
 
 ## Markdown Guide
+
+| **Syntax** | **Usage** | **Example** |
+| `#` | Header (Adding multiple `#` in succession decreases the size of the header) | `## This is a Level 2 Header` |
 
 <hr>
 
