@@ -47,14 +47,30 @@ First you will have to set a GitHub account to allow you to develop and publish 
   * A **repository**, or repo for short, is like a folder for a project.
   * You will need to select a name for the repository. You can name the repository whatever you want, but we’d recommend something like `“data-6-website”`, `“[NAME]-website”` or `“portfolio”`
   * Make sure to select Public and add a `README` file. Overall, your settings should look like this (but with a different username and repo name): <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig3.png" style="width:60%; margin:auto; display:block"/> Figure 3 - Repository Settings </figure> <br>
-2. Enable GitHub Pages for your Repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
+2. **Enable GitHub Pages for your Repo.** GitHub Pages is the feature we will use to create our website. Follow these steps:
   * From your repo’s main page, click the “Settings” tab in the top right corner.
   * Click “Pages” in the menu on the left (it should be towards the bottom).
   * Under “Branch”, change “None” to “main”. Click “Save”.
   * Under “Theme Chooser”, click “Choose a theme”. It will allow you to choose one of several themes; pick the one you like the most and click “Select theme”. If you end up not liking your choice, you can always come back to this menu and change the theme, so don’t worry. Note: If you are brought to a page that has you try and edit your file (it may say something like “Edit new file”), just click “Cancel”.
-  * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig4.png" style="width:80%; margin:auto; display:block"/> Figure 4 - Publishing via GitHub Pages </figure>
+  * After you follow these steps, your site will be public. You will be shown its URL; it will be in the form `<your github username>.github.io/<your repo name>`. Keep a tab open with your website while working on the rest of the assignment. <figure style="text-align: center"> <img src="https://data6.org/su22/assets/lab08/fig4.png" style="width:90%; margin:auto; display:block"/> Figure 4 - Publishing via GitHub Pages </figure>
 
 ## Step 3 — Adding Content
+
+1. Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file `README.md` might not have very much in it.
+2. The `README.md` file is where you’ll put all of the content for your website (`.md` denotes Markdown). To edit `README.md` (both now and moving forward), you’ll need to click the pencil icon. (In the screenshot above, it’s right under the “4 minutes ago” text.)
+  * You should be brought to an interface that allows you to edit `README.md`.
+  * Under the hood, GitHub Pages uses a library called Jekyll to convert your `README.md` to the standard HTML file format.
+  * There’s another file in your repo, called `_config.yml` – it tells GitHub Pages which theme you chose (amongst other information). You **don’t** need to edit this file. Changing the theme in settings will automatically change this file for you.
+3. You can now **edit your `README.md` file** to include the contents you want it to. Exactly what you put on your page is up to you, but here are some suggestions:
+Add a heading at the top of the file using the `#` symbol to give your website a title
+  * Add your name underneath the title
+  * Add a short bio or introduction about yourself, or talk about what you’ve learned and done in Data 6 so far
+  * Add more content types (like images or visualizations) (see Step 4 for more details)
+4. Once you’re satisfied with your website content, **scroll down to the bottom of the page, and click “Commit changes”.**
+  * You can think of committing as saving your changes.
+  * You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice)
+5. **After committing, open your website once again** (or refresh the page). The changes will usually take 1-2 minutes to deploy to your website, so be patient!
+
 
 ## Step 4 — Customizing Your Website
 
@@ -64,7 +80,9 @@ First you will have to set a GitHub account to allow you to develop and publish 
 | `#` | Header (Adding multiple `#` in succession decreases the size of the header) | `## This is a Level 2 Header` |
 | `**TEXT**` | Bold Text | `**This text will be bolded` |
 | `*TEXT*` | Italic Text | `*This text will be italicized` |
-| `[TEXT](LINK)` | Hyperlink (the `TEXT` will be displayed, and clicking on it will redirect to the website at `LINK`) | `[Data 6 Website](https://data6.org/su22/)`
+| `[TEXT](LINK)` | Hyperlink (the `TEXT` will be displayed, and clicking on it will redirect to the website at `LINK`) | `[Data 6 Website](https://data6.org/su22/)` |
+| `<br>` | Blank Line (adds an empty line) | `<br>` |
+| `<hr>` | Adds a horizontal line through your page (`<hr>` stands for 'horizontal rule') | `<hr>` |
 
 <hr>
 
