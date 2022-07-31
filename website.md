@@ -20,7 +20,7 @@ This lab will probably take 2 hours to complete, so buckle in! Course staff are 
 ## Overview
 Websites can take a variety of forms, and are created in a variety of ways. On the most basic level, a website consists of pages created in a markup language, like HTML (HyperText Markup Language). If you have ever used “Inspect” or “Inspect Element” on a website (Figure 1), you have probably seen HTML before. It consists of tags that start and end with angle brackets (e.g. `<html>`). Even though HTML doesn’t support more complicated code like if-statements or for loops (HTML technically isn’t even a programming language), when combined with other code it is capable of creating amazingly complex websites.
 
-<figure>
+<figure style="margin:auto">
 <img src="https://data6.org/su22/assets/lab08/fig1.png" style="width:50%"/>
 <figcaption>Figure 1</figcaption>
 </figure>
@@ -72,6 +72,9 @@ First you will have to set a GitHub account to allow you to develop and publish 
 
 | **Syntax** | **Usage** | **Example** |
 | `#` | Header (Adding multiple `#` in succession decreases the size of the header) | `## This is a Level 2 Header` |
+| `**TEXT**` | Bold Text | `**This text will be bolded` |
+| `*TEXT*` | Italic Text | `*This text will be italicized` |
+| `[TEXT](LINK)` | Hyperlink (the `TEXT` will be displayed, and clicking on it will redirect to the website at `LINK`) | `[Data 6 Website](https://data6.org/su22/)`
 
 <hr>
 
