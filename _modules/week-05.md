@@ -6,10 +6,9 @@ Aug 1
 : **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
 : **21**{: .label} Intro to Web Development
   : [Slides](https://docs.google.com/presentation/d/1HofZvFttA8v0-7AJhZ4aKBHvsPDOBnyBdp93nQNjE3k/edit?usp=sharing)
-<!--: *Optional Reading*-->
 
 Aug 2
-: **Lab 8**{: .label .label-lab} Creating a Website <!--[Creating a Website](https://data6.org/su22/website/)-->
+: **Lab 8**{: .label .label-lab} [Creating a Website](https://data6.org/su22/website/)
 
 Aug 3
 : **22**{: .label} File Formats, Dictionaries
