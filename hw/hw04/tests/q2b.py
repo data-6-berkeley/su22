@@ -1,0 +1,11 @@
+test = {   'name': 'q2b',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': '>>> callable(tax_owed)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(tax_owed(150), 15.0)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(tax_owed(10000), 1002.5)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(tax_owed(60000), 8990)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(tax_owed(420150), 94915.5)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
