@@ -14,15 +14,13 @@ Aug 3
 : **22**{: .label} File Formats, Dictionaries
   <!--: [Slides](#) &#8226; [Code](#)-->
 <!--: *Optional Reading*-->
-: **23**{: .label} Fun with Plotly
-  <!--: [Slides](#) &#8226; [Code](#)-->
-<!--: *Optional Reading*-->
+: **Lab 9**{: .label .label-lab} Dictionaries
 
 Aug 4
-: **24**{: .label} Guest Lecture
+: **24**{: .label} Guest Lecture: Human Contexts and Ethics
   <!--: [Slides](#) &#8226; [Code](#)-->
   <!--: *Optional Reading*-->
-: **Lab 9**{: .label .label-lab} Dictionaries
+
 : **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 10 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 10 @ 11:00PM**
 
