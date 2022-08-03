@@ -14,7 +14,7 @@ Aug 3
 : **22**{: .label} File Formats, Dictionaries
   : [Slides](https://docs.google.com/presentation/d/1F_CY7vWPZm4AyNhSLaLOaCy67peT5fcDOQvAy-pi6wE/edit?usp=sharing) &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec22%2Flec22.ipynb&branch=main) &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flecture%2Flec22%2Flec22-blank.ipynb&branch=main)
 : *Optional Reading:* [SPR 23](https://cs.stanford.edu/people/nick/py/python-dict.html); [CP 2.4.3](http://composingprograms.com/pages/24-mutable-data.html#dictionaries)
-: **Lab 9**{: .label .label-lab} Dictionaries
+: **Lab 9**{: .label .label-lab} [Dictionaries](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab09%2Flab09.ipynb&branch=main)
 
 Aug 4
 : **24**{: .label} Guest Lecture: Human Contexts and Ethics
