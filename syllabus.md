@@ -65,7 +65,7 @@ Lecture slides will be posted to the website right before each lecture to allow 
 
 **Office Hours (Optional)**: Tuesdays & Thursdays, 1PM-3PM in [Evans](https://www.berkeley.edu/map?evans) 6
 
-The full schedule is available on the [Schedule](http://www.data6.org/su22/schedule) page.
+The full schedule is available on the [Schedule](http://data6.org/su22/schedule) page.
 
 ## Course Components	&#x1F4D2;
 While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 3-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. But if you feel like things are going too fast, let us know and we will try to slow down!
