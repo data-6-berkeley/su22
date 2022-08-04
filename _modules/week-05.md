@@ -20,7 +20,6 @@ Aug 4
 : **23**{: .label} Guest Lecture from Professor Carson: Human Contexts and Ethics
   <!--: [Slides](#) &#8226; [Code](#)-->
 : *Prep Work:* Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website
-
 : **Homework 5**{: .label .label-homework} Dictionaries &nbsp;**Due Aug 10 @ 11:00PM**
 : **Survey**{: .label .label-survey} Weekly Survey 5 &nbsp;**Due Aug 10 @ 11:00PM**
 
