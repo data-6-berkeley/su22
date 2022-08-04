@@ -17,7 +17,7 @@ Aug 3
 : **Lab 9**{: .label .label-lab} [Dictionaries](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab09%2Flab09.ipynb&branch=main)
 
 Aug 4
-: **24**{: .label} Guest Lecture: Human Contexts and Ethics
+: **23**{: .label} Guest Lecture: Human Contexts and Ethics
   <!--: [Slides](#) &#8226; [Code](#)-->
 : *Prep Work:* Explore the [Bay Area Air Quality Management District](https://www.baaqmd.gov/public-data-center) Website
 
