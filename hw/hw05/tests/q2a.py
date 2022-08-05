@@ -1,5 +1,5 @@
 test = {   'name': 'q2a',
-    'points': 2,
+    'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> # This test makes sure that fav_emojis has exactly 5 key-value pairs.\n>>> len(fav_emojis) == 5\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> # This test makes sure that fav_emojis has the five necessary keys, and nothing else.\n'
                                                ">>> sorted(list(fav_emojis.keys())) == ['annoyed', 'food', 'happy', 'love', 'tired']\n"

@@ -1,5 +1,5 @@
 test = {   'name': 'q2b',
-    'points': 3,
+    'points': 4,
     'suites': [   {   'cases': [   {   'code': '>>> # This test checks the first example in question description.\n'
                                                ">>> convert_1 = emojify('Filing taxes makes me tired and want food.').split(' ')\n"
                                                '>>> e1_1, e1_2 = convert_1[4], convert_1[-1][:-1]\n'

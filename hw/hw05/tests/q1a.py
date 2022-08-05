@@ -1,5 +1,5 @@
 test = {   'name': 'q1a',
-    'points': 1,
+    'points': 2,
     'suites': [   {   'cases': [   {   'code': ">>> # This test ensures you added the right key ('ofr') and nothing else.\n"
                                                ">>> sorted(more_slang.keys()) == ['GOAT', 'haha', 'lol', 'ofr', 'smh']\n"
                                                'True',
