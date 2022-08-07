@@ -58,8 +58,7 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 | `are.equal_to(Z)` |	Equal to `Z` (can be an **int**, **float** or **string**) |
 | `are.above(x)`, `are.above_or_equal_to(x)`	| Greater than (or equal to) `x` |
 | `are.below(x)`, `are.below_or_equal_to(x)`	| Less than (or equal to) `x` |
-| `are.between(x,y)` |	Greater than or equal to `x` and less than `y` |
-| `are.between_or_equal_to(x,y)` |	Greater than or equal to `x`, and less than or equal to `y` |
+| `are.between(x,y)`, `are.between_or_equal_to(x,y)` |	Greater than (or equal to) `x`, and less than (or equal to) `y` |
 |  `are.strictly_between(x,y)` |	Greater than `x` and less than `y` |
 | `are.contained_in(A)` |	True if it is a substring of `A  (if `A` is a **string**) or an element of `A` (if `A` is an **array**) |
 | `are.containing(S)` |	Contains the string `S` |
