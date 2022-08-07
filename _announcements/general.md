@@ -12,6 +12,7 @@ Welcome to the final week of Data 6 &#x1F972; As we finish out the semester, ple
 * The **Final Exam** will take place this **Friday, August 12th at 10AM** in Evans 10
     * Taking the final exam is required to pass the class.
     * If you require accommodations for the exam such as extended time, please reach out to [James](https://data6.org/su22/staff/) and [Will](https://data6.org/su22/staff/) via email ASAP.
-    * We will release more details about the final on Ed shortly.
+    * The full logistics for the exam can be found [here](https://edstem.org/us/courses/22794/discussion/1668711).
+    * We have put together some **Optional Exam Practice Problems** [here](https://edstem.org/us/courses/22794/lessons/41577/slides/234416).
 
 {: .fs-5 }
