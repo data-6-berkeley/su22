@@ -30,7 +30,6 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 ### Tables and Table Methods
 
 | **Function** | **Description** | **Input** | **Output** |
-| `Table()` | Creates an empty table, usually to extend with data | None | An empty **Table** |
 | `tbl.with_column(name, values)` | Adds an extra column onto `tbl` with the label `name` and `values` as the column values | 1. **string**: name of the new column <br> 2. **array**: values in the column | **Table**: a copy of the original table with the new column |
 | `tbl.column(col)` | Returns the values in a column  | **string** or **int**: the column name or index | **array**: the values in that column |
 | `tbl.num_rows`, `tbl.num_columns` | Computes the number of rows or columnsin `tbl` | None | **int**: the number of rows or columns in the table |
