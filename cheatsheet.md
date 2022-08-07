@@ -46,10 +46,10 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 ### Visualization Functions
 
 | **Function** | **Description** | **Input** | **Output** |
-| `tbl.barh(categories)` or `tbl.barh(categories, values)` | Displays a horizontal bar chart with bars for each category in the column `categories`. `values` specifies the column corresponding to the size of each bar, but is unnecessary if the table only has two columns. | 1. **string**: name of the column with categories <br> 2. (Optional) **string**: name of the column with values corresponding to the categories | None: draws a bar chart |
+| `tbl.barh(categories)` or `tbl.barh(categories, values)` | Displays a horizontal bar chart with bars for each category in the column `categories`. `values` specifies the column corresponding to the size of each bar. | 1. **string**: name of the column with categories <br> 2. (Optional) **string**: name of categories column | None: draws a bar chart |
 | `tbl.hist(column)` | Generates a histogram of the numerical values in `column`. | **string**: name of the column | None: draws a histogram |
 | `tbl.plot(x_column, y_column)` or `tbl.plot(x_column)` | Draws a line plot consisting of one point for each row in `tbl`. If only `x_column` is specified, `plot` will plot the rest of the columns on the y-axis with different colored lines. | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis | None: draws a line graph |
-| `tbl.scatter(x_column, y_column)` | Draws a scatter plot consisting of one point for each row in `tbl`. | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis | None: draws a scatter plot |
+| `tbl.scatter(x_column, y_column)` | Draws a scatter plot consisting of one point for each row in `tbl`. | 1. **string**: x-axis column <br> 2. **string**: y-axis column | None: draws a scatter plot |
 
 ### Table.where Predicates
 These functions can be passed in as the second argument to `tbl.where(..)` and act as a condition by which to select rows from `tbl`.
