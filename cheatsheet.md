@@ -11,8 +11,8 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 ### Built-In Python Functions
 
 | **Function** | **Description** | **Input** | **Output** |
-| `str(val)` | Converts `val` to a string | A value of any type (**int**, **float**, **NoneType**, etc.) | The value as a **string** |
-| `int(num)` | Converts `num` to an int | A numerical value (represented as a **string** or **float**) | The value as an **int** |
+| `str(val)` | Converts `val` to a string | A value of any type | The value as a **string** |
+| `int(num)` | Converts `num` to an int | A numerical value (**string** or **float**) | The value as an **int** |
 | `float(num)` | Converts `num` to a float | A numerical value (represented as a **string** or **int**) | The value as a **float** |
 | `len(arr)` | Returns the length of `arr` | **array** or **list** | **int**: the length of the array or list |
 | `max(arr)` or `max(arr)` | Returns the maximum or minimum value in `arr` | **array** or **list** | The maximum or minimum value the array (usually an **int**) |
