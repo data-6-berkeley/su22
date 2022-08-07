@@ -1,13 +1,17 @@
 ---
-title: Week 5 Announcements
-week: 5
-date: 2022-08-01
+title: Week 6 Announcements
+week: 6
+date: 2022-08-08
 ---
 
-Welcome to week 5 of Data 6! (only two more weeks left!) Here are the announcements for this week:
+Welcome to the final week of Data 6 &#x1F972; As we finish out the semester, please take note of the following important announcements:
 
-* **Homework 4** and **Survey 4** have been released and will be due on **Thursday (8/4) at 11 PM**
-    * Remember that you can get an extra credit point by submitting early by Wednesday at 11 PM
-* Good luck on Quiz 2!
+* **Homework 5** and **Survey 5** have been released and will be due on ***Wednesday*** **(8/10) at 11 PM**
+    * The Homework 5 deadline is on Wednesday instead of Thursday this week to give you time to study for the final exam on Friday. We have made Homework 5 shorter to account for the earlier deadline.
+    * Remember that we will drop your lowest homework grade. See our [grading policies](https://data6.org/su22/syllabus/#homework-drops-and-extra-credit) for more details.
+* The **Final Exam** will take place this **Friday, August 12th at 10AM** in Evans 10
+    * Taking the final exam is required to pass the class.
+    * If you require accommodations for the exam such as extended time, please reach out to [James](https://data6.org/su22/staff/) and [Will](https://data6.org/su22/staff/) via email ASAP.
+    * We will release more details about the final on Ed shortly.
 
 {: .fs-5 }
