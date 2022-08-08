@@ -26,6 +26,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `np.mean(arr)` or `np.average(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: array average |
 | `np.sum(arr)` | Returns the sum of the values in `arr` | **array** | **int** or **float**: sum of array values |
 | `np.arange(stop)`, `np.arange(start, stop)`, or `np.arange(start, stop, step)` | Creates an array of  numbers starting at `start`, going up in increments of `step` (default is 1), and going up to but excluding `stop`. | **int** or **float** | **array** |
+| `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
 
 ### Tables and Table Methods
 

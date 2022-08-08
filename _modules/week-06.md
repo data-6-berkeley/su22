@@ -23,4 +23,4 @@ Aug 11
   <!--: [Slides](#) &#8226; [Code](#)-->
 
 Aug 12
-: **Exam**{: .label .label-exam} Final Exam (In-Class)
+: **Exam**{: .label .label-exam} Final Exam (Evans 10)
