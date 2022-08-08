@@ -15,7 +15,7 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | `int(num)` | Converts `num` to an int | A numerical value (**string** or **float**) | The value as an **int** |
 | `float(num)` | Converts `num` to a float | A numerical value (**string** or **int**) | The value as a **float** |
 | `len(arr)` | Returns the length of `arr` | **array** or **list** | **int**: the length of the array or list |
-| `max(arr)` or `max(arr)` | Returns the maximum or minimum value in `arr` | **array** or **list** | The maximum or minimum value the array (usually an **int**) |
+| `max(arr)` or `min(arr)` | Returns the maximum or minimum value in `arr` | **array** or **list** | The maximum or minimum value the array (usually an **int**) |
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
 
@@ -24,7 +24,6 @@ _This cheat sheet has been modified from the Data 6 Python Reference and include
 | **Function** | **Description** | **Input** | **Output** |
 | `make_array(val1, val2, ...)` | Makes a NumPy array with the inputted values | A sequence of values | An **array** with those values |
 | `np.mean(arr)` or `np.average(arr)` | Calculates the average value of `arr` | An **array** of numbers | **float**: array average |
-| `np.sum(arr)` | Returns the sum of the values in `arr` | **array** | **int** or **float**: sum of array values |
 | `np.arange(stop)`, `np.arange(start, stop)`, or `np.arange(start, stop, step)` | Creates an array of  numbers starting at `start`, going up in increments of `step` (default is 1), and going up to but excluding `stop`. | **int** or **float** | **array** |
 | `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
 
