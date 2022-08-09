@@ -11,7 +11,7 @@ Aug 8
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 
 Aug 9
-: **Lab 10**{: .label .label-lab} Simultation and Sampling
+: **Lab 10**{: .label .label-lab} [Randomness and Simulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22&urlpath=tree%2Fsu22%2Flab%2Flab10%2Flab10.ipynb&branch=main)
 
 Aug 10
 : **26**{: .label} Conclusion and Next Steps
