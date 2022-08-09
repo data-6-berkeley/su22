@@ -1,0 +1,10 @@
+test = {   'name': 'q2',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(hundo_ints, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(hundo_ints) == 100\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> min(hundo_ints) >= - 500 and max(hundo_ints) <= 500\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> hundo_ints.item(59) == 318\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,10 @@
+test = {   'name': 'q3',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(ups_and_downs, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(ups_and_downs) == 1000\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> set(np.unique(ups_and_downs)) == set(make_array('down', 'up'))\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> ups_and_downs.item(499) == 'down'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
