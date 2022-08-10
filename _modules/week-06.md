@@ -15,7 +15,7 @@ Aug 9
 
 Aug 10
 : **26**{: .label} Conclusion and Next Steps
-  <!--: [Slides](#) &#8226; [Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1ruBS-HXQNK8z0ji52nZHTEUZmr9WVB4shB9RQx-i33E/edit?usp=sharing)
   <!--: *Optional Reading*-->
 
 Aug 11
