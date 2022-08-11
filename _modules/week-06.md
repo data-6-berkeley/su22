@@ -20,7 +20,7 @@ Aug 10
 
 Aug 11
 : **R**{: .label} Final Review
-  <!--: [Slides](#) &#8226; [Code](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1YcdkW4_aIXw6EV8oFd5vdCE1bDkd2KfFLrompy2N9bA/edit?usp=sharing)
 
 Aug 12
 : **Exam**{: .label .label-exam} Final Exam (Evans 10)
