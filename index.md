@@ -6,8 +6,11 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: Data 6
 ---
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
 
 # Introduction to Computational Thinking with Data &#x1f4ca;
 
